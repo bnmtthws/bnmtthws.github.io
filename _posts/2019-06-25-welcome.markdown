@@ -1,0 +1,11 @@
+---
+layout: posts
+title:  "Welcome to the Matthews Lab!"
+date:   2019-06-25 14:43:45 -0400
+categories: lab news
+---
+
+Welcome to the future home of the (Ben) Matthews lab in the [Department of Zoology][zoo] at the [University of British Columbia][ubc]
+
+[zoo]: http://zoology.ubc.ca/
+[ubc]: http://www.ubc.ca/
