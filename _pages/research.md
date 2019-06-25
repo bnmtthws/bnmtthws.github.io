@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: category
+layout: splash
 defaults:
   # _pages
   - scope:
@@ -32,9 +32,10 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#genomics-evolution"
 
----
+#header:
+#  image: /assets/mosquito.jpg
 
-![mosquito on arm](/assets/mosquito.jpg)
+---
 
 {% include feature_row %}
 
