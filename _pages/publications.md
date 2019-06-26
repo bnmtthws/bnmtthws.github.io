@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+- Matthews B.J.*, Younger M.A.*, and Vosshall L.B. The ion channel *ppk301* controls freshwater egg-laying in the mosquito *Aedes aegypti*. *eLife* (2019) e43963 bioRxiv (2018) (* denotes equal contribution) 
+
 - Matthews B.J.\*, Dudchenko O.\*, Kingan, S.\*, (et al., 68 middle authors) and Vosshall, L.B. Improved reference genome of *Aedes aegypti* informs arbovirus vector control. *Nature* (2018) 563:501-507. *bioRxiv (2017)* (\* denotes equal contribution) 
 
 - Trible W., Olivos-Cisneros L., McKenzie S.K., Saragosti J., Chang, N.C., Matthews B.J., Oxley P.R., and Kronauer, D.J.C. *orco* mutagenesis causes loss of antennal lobe glomeruli and impaired social behavior in ants. *Cell* (2017) 170: 727-735.e10. *bioRxiv* (2017) 
