@@ -14,7 +14,7 @@ defaults:
 permalink: /research/
 
 feature_row:
-  - image_path: /assets/images/research-behavior.jpg
+  - image_path: /assets/images/research-behavior-egg.jpg
     alt: "Mosquito behavior"
     title: "Mosquito behavior"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."

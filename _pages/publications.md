@@ -28,6 +28,8 @@ Trible W., Olivos-Cisneros L., McKenzie S.K., Saragosti J., Chang, N.C., **Matth
  
 - [BDNF increases synapse density in dendrites of developing tectal neurons in vivo.](https://dev.biologists.org/content/133/13/2477) [PDF](https://dev.biologists.org/content/develop/133/13/2477.full.pdf) <br/> Sanchez, A.L.\*, **Matthews, B.J.**\*, Meynard, M.M.\*, Hu, B.\*, Javed, S., and Cohen-Cory, S.C. (\* denotes equal contribution)<br/> *Development* (2006) 133:2477-2486  
 
+Details on publications can also be found at [Google Scholar](https://scholar.google.com/citations?user=REWvweQAAAAJ) and [ORCID](https://orcid.org/0000-0002-8697-699X)
+
 ### Invited reviews
 - [*Aedes aegypti*](https://www.cell.com/trends/genetics/fulltext/S0168-9525(19)30051-4) [PDF](https://authors.elsevier.com/a/1Z2Y3cQbIvPMY) <br/> **Matthews, B.J.** <br/> *Trends in Genetics* (2019) 35:470-471
 
@@ -35,8 +37,8 @@ Trible W., Olivos-Cisneros L., McKenzie S.K., Saragosti J., Chang, N.C., **Matth
  
 - [Of cartridges and columns: new roles for cadherins in visual system development.](https://www.cell.com/fulltext/S0896-6273(08)00270-5) [PDF](https://www.cell.com/action/showPdf?pii=S0896-6273%2808%2900270-5) <br/> **Matthews B.J.**, Corty M.M., and Grueber W.B. <br/> *Neuron* (2008) 58:1-3
 
-Details on publications can also be found at [Google Scholar](https://scholar.google.com/citations?user=REWvweQAAAAJ) and [ORCID](https://orcid.org/0000-0002-8697-699X)
-
 ### Press
 - [Science Says: Why scientists prize plant, animal genomes](https://www.apnews.com/6b19552bee6a4b4c84d3aaaab7f37cdb) <br/> Malcolm Ritter, Associated Press, March 29 2019.
+- [Mosquito genome opens new avenues for reducing bug-borne disease](https://www.rockefeller.edu/news/24300-mosquito-genome-opens-new-avenues-reducing-bug-borne-disease/) <br/> Rockefeller University, November 14 2018.
+- [All the world's genes, at our fingertips](https://www.case.org/system/files/media/file/Rockefelleruniversity_SeekSpring2017_CRISPR.pdf) <br/> Alexander Gelfand, Rockefeller University, Spring 2017.
 - [Team of Rival Scientists Comes Together to Fight Zika](https://www.nytimes.com/2016/03/31/us/mapping-a-genetic-strategy-to-fight-the-zika-virus.html) <br/> Amy Harmon, New York Times, March 30 2016.
