@@ -2,8 +2,11 @@
 layout: category
 title: Publications
 permalink: /publications/
+sidebar:
+ nav: "pubcat"
 ---
 
+{: #research }
 ### Research publications
 
 - [The ion channel *ppk301* controls freshwater egg-laying in the mosquito *Aedes aegypti*.](https://elifesciences.org/articles/43963) [PDF](https://elifesciences.org/download/aHR0cHM6Ly9jZG4uZWxpZmVzY2llbmNlcy5vcmcvYXJ0aWNsZXMvNDM5NjMvZWxpZmUtNDM5NjMtdjEucGRm/elife-43963-v1.pdf?_hash=pQa4fSOhnjDMwa1ClxjLXMF5F%2BTk2MRhxJjha64PvZc%3D) <br/> **Matthews B.J.**\*, Younger M.A.\*, and Vosshall L.B. (\* denotes equal contribution)<br/> *eLife* (2019) e43963 *bioRxiv* (2018)  
@@ -30,6 +33,7 @@ Trible W., Olivos-Cisneros L., McKenzie S.K., Saragosti J., Chang, N.C., **Matth
 
 Details on publications can also be found at [Google Scholar](https://scholar.google.com/citations?user=REWvweQAAAAJ) and [ORCID](https://orcid.org/0000-0002-8697-699X)
 
+{: #reviews }
 ### Invited reviews
 - [*Aedes aegypti*](https://www.cell.com/trends/genetics/fulltext/S0168-9525(19)30051-4) [PDF](https://authors.elsevier.com/a/1Z2Y3cQbIvPMY) <br/> **Matthews, B.J.** <br/> *Trends in Genetics* (2019) 35:470-471
 
@@ -37,6 +41,7 @@ Details on publications can also be found at [Google Scholar](https://scholar.go
  
 - [Of cartridges and columns: new roles for cadherins in visual system development.](https://www.cell.com/fulltext/S0896-6273(08)00270-5) [PDF](https://www.cell.com/action/showPdf?pii=S0896-6273%2808%2900270-5) <br/> **Matthews B.J.**, Corty M.M., and Grueber W.B. <br/> *Neuron* (2008) 58:1-3
 
+{: #press }
 ### Press
 - [Science Says: Why scientists prize plant, animal genomes](https://www.apnews.com/6b19552bee6a4b4c84d3aaaab7f37cdb) <br/> Malcolm Ritter, Associated Press, March 29 2019.
 - [Mosquito genome opens new avenues for reducing bug-borne disease](https://www.rockefeller.edu/news/24300-mosquito-genome-opens-new-avenues-reducing-bug-borne-disease/) <br/> Rockefeller University, November 14 2018.

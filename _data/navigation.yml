@@ -10,3 +10,20 @@ main:
      url: /publications/
    - title: "Opportunities"
      url: /opportunities/
+
+pubcat:
+ - title: Publications
+   children:
+      - title: "Research articles"
+        url: /publications/#research
+      - title: "Reviews"
+        url: /publications/#reviews
+      - title: "Press"
+        url: /publications/#press
+        
+        
+people:
+ - title: People
+   children:
+      - title: "Ben Matthews"
+        url: /people/#ben
