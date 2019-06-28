@@ -1,7 +1,5 @@
 # main links
 main:
-   - title: "Lab News"
-     url: /about/
    - title: "Research"
      url: /research/
    - title: "People"
@@ -12,6 +10,8 @@ main:
      url: /opportunities/
    - title: "Protocols"
      url: /protocols/
+   - title: "Lab News"
+     url: /news/
 
 pubcat:
  - title: Publications
