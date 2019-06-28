@@ -8,7 +8,7 @@ sidebar:
 ---
 {: #CRISPR }
 
-[CRISPR/Cas9 gene editing of Aedes aegypti](/assets/pdf/CRISPR.pdf)
+[CRISPR/Cas9 gene editing of *Aedes aegypti*](/assets/pdf/CRISPR.pdf)
 This protocol was originally published as a bench manual to accompany Kistler, Vosshall, and Matthews (2015), and is updated to reflect our current methodology for generating mutations in *Aedes aegypti* using CRISPR/Cas9. 
 
 {: #pBac }

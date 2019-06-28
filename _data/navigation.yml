@@ -33,7 +33,7 @@ people:
 protocols:
  - title: Protocols
    children:
-      - title: "CRISPR/Cas9 editing of *Aedes aegypti*"
+      - title: "CRISPR/Cas9 editing of Aedes aegypti"
         url: /protocols/#CRISPR
-      - title: "piggyBac-mediated transformation of *Aedes aegypti*"
+      - title: "piggyBac-mediated transformation of Aedes aegypti"
         url: /protocols/#pBac
