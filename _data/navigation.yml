@@ -21,9 +21,15 @@ pubcat:
       - title: "Press"
         url: /publications/#press
         
-        
 people:
  - title: People
    children:
       - title: "Ben Matthews"
         url: /people/#ben
+        
+                
+protocols:
+ - title: Protocols
+   children:
+      - title: "piggyBac-mediated transformation of *Aedes aegypti*"
+        url: /protocols/#pBac
