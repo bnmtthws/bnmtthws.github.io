@@ -1,6 +1,6 @@
 # main links
 main:
-   - title: "About"
+   - title: "Lab News"
      url: /about/
    - title: "Research"
      url: /research/
@@ -10,6 +10,8 @@ main:
      url: /publications/
    - title: "Opportunities"
      url: /opportunities/
+   - title: "Protocols"
+     url: /protocols/
 
 pubcat:
  - title: Publications
@@ -31,5 +33,7 @@ people:
 protocols:
  - title: Protocols
    children:
+      - title: "CRISPR/Cas9 editing of *Aedes aegypti*"
+        url: /protocols/#CRISPR
       - title: "piggyBac-mediated transformation of *Aedes aegypti*"
         url: /protocols/#pBac
