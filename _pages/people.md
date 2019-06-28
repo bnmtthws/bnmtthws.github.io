@@ -7,9 +7,6 @@ sidebar:
  nav: "people"
 ---
 
-This is a list of people working in the lab
-
-
 {: #ben }
 
 ### Benjamin Matthews, PhD
