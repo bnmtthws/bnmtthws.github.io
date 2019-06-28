@@ -1,5 +1,5 @@
 ---
 layout: posts
-title: About
-permalink: /about/
+title: Lab news
+permalink: /news/
 ---
