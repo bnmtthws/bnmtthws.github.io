@@ -137,21 +137,15 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:ben.matthews@zoology.ubc.ca
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "http://github.com/bnmtthws/"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+    - label: "UBC"
+      image: "/assets/images/UBC-logo-2018-fullsig-white-rgb72.png"
+      url: "https://www.ubc.ca/"      
 
 
 # Reading Files
