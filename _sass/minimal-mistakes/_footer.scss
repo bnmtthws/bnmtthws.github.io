@@ -2,6 +2,12 @@
    FOOTER
    ========================================================================== */
 
+.column {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
 .page__footer {
   @include clearfix;
   float: left;

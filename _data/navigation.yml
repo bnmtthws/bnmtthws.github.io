@@ -6,12 +6,12 @@ main:
      url: /people/
    - title: "Publications"
      url: /publications/
-   - title: "Opportunities"
-     url: /opportunities/
    - title: "Protocols"
      url: /protocols/
    - title: "Lab News"
      url: /news/
+   - title: "Opportunities"
+     url: /opportunities/
 
 pubcat:
  - title: Publications
