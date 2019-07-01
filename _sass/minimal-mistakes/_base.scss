@@ -259,6 +259,16 @@ figure {
   }
 }
 
+/* CUSTOM 2 COLUMN LAYOUT BJM */
+
+.column {
+  @include clearfix;
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+
 /* Figure captions */
 
 figcaption {
