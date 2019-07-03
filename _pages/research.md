@@ -41,7 +41,7 @@ feature_row:
 {: #behavior-egglaying}
 ### Mosquito behavior
 
-<img class="align-right" src="/assets/images/egg-behavior.png" width="200">
+<img class="align-right" src="/assets/images/egg-behavior.png" width="250 ">
 
 : Larval and pupal moquitoes develop in aquatic environments, and, thus, gravid adult mosquitoes must choose appropriate places to lay eggs to maximize the survival and fitness of their offspring. This means identifying bodies of water that are large enough to survive evaporation, are free of predators, and are comprised of water of the appropriate salinity and osmotic pressure. *Aedes aegypti* mosquitoes directly contact liquid water to evaluate its chemical composition before laying eggs singly above the waterline, and will reject even moderately brackish saltwater. Their ability to exploit small containers of freshwater associated with human habitation as breeding sites, like discarded tires, drinking water containers, or clogged gutters, helps ensure that the next generation will have easy access to their preferred source of blood. One major goal of the lab is to understand the cues that *Ae. aegypti* and other mosquito species use to evaluate egg-laying sites and the behavioral adaptations that allow different strains and species of mosquito to exploit specific breeding sites.  particularly the coordinated changes in sensory systems and larval physiology associated with saltwater specialization.
 
@@ -49,7 +49,7 @@ feature_row:
 
 <img class="align-right" width="400" src="/assets/images/feeding-evo.png">
 
-: Many female mosquitoes feed on blood or nectar to obtain the nutrients they need to develop eggs. Females of anthrophilic mosquito species, like *Aedes aegypti*, feed on humans, and will take multiple bloodmeals during their lifetime providing the primary pathway for vectoring disease between individual people. Other species utilize other animal or plant hosts. They use sensory cues, including heat, volatile odors, tastants, and visual cues, to identify host animals or plants. Different species have specialized on distinct hosts, and understanding the cues that mosquitoes use to identify their host animals and plants and to understand how the peripheral and central nervous system has evolved is an interest of the lab.
+: Many female mosquitoes feed on blood or nectar to obtain the nutrients they need to develop eggs. Females of anthrophilic mosquito species, like *Aedes aegypti*, feed on humans, and will take multiple bloodmeals during their lifetime providing the primary pathway for vectoring disease between individual people. Other species utilize other animal or plant hosts. They use sensory cues, including heat, volatile odors, tastants, and visual cues, to identify host animals or plants. Different species of mosquito have specialized on distinct hosts, and one interest of the lab is elucidate the range of sensory cues used to identify host animals and plants and to understand how the peripheral and central nervous system has evolved to process these cues. More broadly, we are interested in the coordinated changes in sensory biology and physiology associated with the evolution of hematophagy (blood-feeding) across the insect world.
 
 {: #sensory-biology }
 
