@@ -19,20 +19,27 @@ feature_row:
   - image_path: /assets/images/research-behavior-egg.png
     alt: "Mosquito behavior"
     title: "Behavior"
-    excerpt: "Mosquito"
+    excerpt: "Insects exhibit a staggering array of complex and specialized adaptive behaviors. Our work primarily focuses on the arboviral vector mosquito *Aedes aegypti*, which feeds on human blood and lays eggs in water. These behaviors are deadly adaptations that drive disease transmission and range adaptability."
     url: "/research/#mosquito-behavior"
+  - image_path: /assets/images/larvae.png
+    alt: "Genomics and evolution"
+    title: "Genomics and genetics"
+    excerpt: "We use genomic and genetic techniques to identify specialized genes and neural circuits underlying behavior. With a comparative approach across diverse strains and species, we hope to understand how an organism's genome can encode the capability for adaptive behaviors."
+    url: "/research/#genomics-evolution"
   - image_path: /assets/images/research-sensory.png
     alt: "Mosquito sensory biology"
     title: "Sensory biology"
-    excerpt: ""
+    excerpt: "Behavior is driven by sensory cues (for example: smell, taste, vision, touch), which are perceived with specialized molecular receptors expressed in sensory neurons. We use an array of genetic and neurobiological approaches to understand the logic of sensory coding in mosquitoes and other insects."
     url: "/research/#sensory-biology"
-  - image_path: /assets/images/larvae.png
-    alt: "Genomics and evolution"
-    title: "Genomic resources and genetic tools"
-    excerpt: ""
-    url: "/research/#genomics-evolution"
+
 
 ---
+## Our research
+{: #intro } <br/>
+: There are >750,000 described species of insects, by far the largest grouping of animals on the planet, and they are critically important to human society in both harmful (vectors of disease, agricultural pests) and beneficial (pollinators) ways. Insects use an astonishing variety of anatomical and molecular specializations to sense and interact with their environment, providing input that guide decisions and behaviors essential for survival: *Is that a predator? What do I eat? Whom should I court? Where should I lay eggs?* 
+<br/>
+<br/>
+: The biological diversity of insects offers an opportunity to understand the genetic and genomic underpinnings of behavioral and physiological adaptation. Comparative genomics and the adaptation of genome editing tools like CRISPR-Cas9 to new species allow us to directly probe specific genes and neural circuits that are not found and cannot be studied in traditional model systems. Our laboratory takes an integrative approach to understand insect behavior and physiology, primarily focusing on the arboviral vector mosquito *Aedes aegypti*.
 
 {% include feature_row %}
 
@@ -49,12 +56,24 @@ feature_row:
 
 <img class="align-right" width="400" src="/assets/images/feeding-evo.png">
 
-: Many female mosquitoes feed on blood or nectar to obtain the nutrients they need to develop eggs. Females of anthrophilic species, like *Aedes aegypti*, primarily feed on humans, and will take multiple bloodmeals during their lifetime. This provides the primary pathway for vectoring arboviral pathogens, such as those that cause Dengue fever, yellow fever, Zika, and Chikungunya, between individual people. Other species utilize other animal or plant hosts, using an array of sensory cues, including heat, volatile odors, tastants, and visual cues to target specific animals or plants. One broad interest of the lab is elucidate the range of sensory cues used to identify host animals and plants and to understand how the peripheral and central nervous system has evolved to process these cues. More broadly, we are interested in the coordinated changes in sensory biology and physiology associated with the evolution of hematophagy (blood-feeding) across the insect world.
+: Many female mosquitoes feed on blood or nectar to obtain the nutrients they need to develop eggs. Females of anthrophilic species, like *Ae. aegypti*, primarily feed on humans, and will take multiple bloodmeals during their lifetime. This provides the primary pathway for vectoring arboviral pathogens, such as those that cause Dengue fever, yellow fever, Zika, and Chikungunya, between individual people. Other species utilize other animal or plant hosts, using an array of sensory cues, including heat, volatile odors, tastants, and visual cues to target specific animals or plants. One broad interest of the lab is elucidate the range of sensory cues used to identify host animals and plants and to understand how the peripheral and central nervous system has evolved to process these cues. More broadly, we are interested in the coordinated changes in sensory biology and physiology associated with the evolution of hematophagy (blood-feeding) across the insect world.
+
+{: #genomics-evolution }
+
+### Genomics and genetics
+
+<img class="align-right" width="500" src="/assets/images/CRISPR.png">
+
+: Genetics is a powerful tool for understanding biology, and understanding the genome of an organism is essential for guiding and performing comprehensive genetic analyses. The genome of the *Ae. aegypti* mosquito is large and repetitive, and the previously available reference assembly was highly fragmented and incomplete which hampered the analysis and identification of genes and gene families critically involved in mosquito behavior. During my postdoctoral work, I was heavily involved in an international effort to re-sequence, re-assemble, and re-annotate the genome of a laboratory strain of *Ae. aegypti*, resulting in a dramatically improved chromosome-scale assembly and geneset annotation that now forms the basis for studies of many aspects of mosquito biology. In addition, we profiled gene expression in male and female brain and sensory tissues to identify candidate genes involved in host-seeking and egg-laying and gene networks regulated by blood-feeding state. Together, these foundational resources support comparative analyses of insect genomes and enable direct and mechanistic studies of all aspects of mosquito biology.
+
+: To directly test the role of specific genetic loci in biological processes, we develop and adapt genome-editing techniques such as CRISPR/Cas9 to make precise and specific manipulations to the genome of a *Ae. aegypti* and other non-traditional model insects. These manipulations allow us to study the effects of removing specific genes on insect behavior and physiology, as well as to 'knock-in' transgenes, such as driver lines that recapitulate the spatial and temporal expression pattern of endogenous genes. When combined with transgenic reporters, these targeted drivers allow us to visualize molecularly-defined neural circuits, image their activity in response to behaviorally-relevant sensory cues, and artificially manipulate their activity to study their causal role in generating behavior. The lab continues to focus on breaking new ground in insect genetics by developing tools and strategies for directly linking genes, cells, and behavior in an integrative fashion and in behaviorally-relevant contexts across a diverse array of organisms.
 
 {: #sensory-biology }
 
 ### Sensory biology
 
-{: #genomics-evolution }
+<img class="align-right" width="400" src="/assets/images/qf2.png">
 
-### Genomics and Evolution
+: Understanding the cues, genes, and circuits used to shape egg-laying in *Ae. aegypti* will identify novel receptors and cell types and help describe the logic of how and where mosquito sensory systems process and integrate multiple sensory cues to generate adaptive behavior. Our philosophy is that it is critical to study mosquito biology directly in the mosquito: in addition to furthering our understanding of sensory systems at the comparative level, the receptors and cells identified as part of these studies represent new targets for mosquito control.
+
+: *Ae. aegypti* lay eggs in freshwater and avoid laying eggs in saltwater. We set out to understand the sensory basis of this behavior, focusing on the *pickpocket* family of genes that encode ion channel subunits. We identified one gene, *ppk301*, that when mutated, caused mosquitoes to fail to lay 

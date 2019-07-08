@@ -127,9 +127,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/bnmtthws/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "protocols.io"
+      icon: "fas fa-fw fa-dna"
+      url: "https://www.protocols.io/researchers/ben-matthews"
 
 # Site Footer
 footer:
@@ -143,9 +143,12 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "http://github.com/bnmtthws/"
+    - label: "protocols.io"
+      icon: "fas fa-fw fa-dna"
+      url: "https://www.protocols.io/researchers/ben-matthews"
     - label: "UBC"
       image: "/assets/images/UBC-logo-2018-fullsig-white-rgb72.png"
-      url: "https://www.ubc.ca/"      
+      # url: "https://www.ubc.ca/"      
 
 
 # Reading Files
