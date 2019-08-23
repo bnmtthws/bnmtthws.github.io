@@ -7,7 +7,7 @@ categories: lab news
 
 
 
-We have joined the twenty-first century. Come follow the lab on twitter [@BenMatthewsUBC](twitter)!
+We have joined the twenty-first century. Come follow the lab on twitter [@BenMatthewsUBC][twitter]!
 
 
 [twitter]: https://twitter.com/BenMatthewsUBC
