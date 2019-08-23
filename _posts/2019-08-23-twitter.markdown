@@ -1,0 +1,13 @@
+---
+layout: posts
+title:  "Lab twitter"
+date:   2019-08-23 16:08:45 -0500
+categories: lab news
+---
+
+
+
+We have joined the twenty-first century. Come follow the lab on twitter [@BenMatthewsUBC](twitter)!
+
+
+[twitter]: https://twitter.com/BenMatthewsUBC
