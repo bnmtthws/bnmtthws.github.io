@@ -13,6 +13,6 @@ The lab is starting to take shape! Benches are in and insectary is hot, humid, a
 ![To a real lab...][benches]
 ![With an insectary!][insectary]
 
-[empty]: /assets/images/IMG_1594.png
-[insectary]: /assets/images/IMG_1609.png
-[benches]: /assets/images/IMG_1602.png
+[empty]: /assets/images/IMG_1594.png "Empty shell"
+[insectary]: /assets/images/IMG_1609.png "Insectary"
+[benches]: /assets/images/IMG_1602.png "Benches in"
