@@ -33,5 +33,5 @@ The research Dan is pursuing in the (Ben) Matthews lab will initially involve in
 <br/><br/>
 
 [Website](http://www.danpeach.net)
-[Twitter](https://twitter.com/DanPeach03)
+[Twitter](https://twitter.com/DanPeach3)
 [Email](mailto:peach@zoology.ubc.ca)
