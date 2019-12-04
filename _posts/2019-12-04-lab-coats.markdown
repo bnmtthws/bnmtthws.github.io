@@ -1,0 +1,13 @@
+---
+layout: posts
+title:  "Lab style"
+date:   2019-12-04 15:30:00 -0800
+categories: lab news
+---
+
+Science in style... mosquito style!
+
+![lab coat][coat]
+
+[coat]: /assets/images/coat.png "Lab Coat"
+
