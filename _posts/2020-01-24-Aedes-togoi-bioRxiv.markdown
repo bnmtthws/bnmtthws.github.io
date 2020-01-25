@@ -12,6 +12,6 @@ Congratulations to Dan Peach on his first ever bioRxiv pre-print, [Modelling the
 ![Team togoi assemble][teamtogoi]
 
 [bioRxiv]: https://www.biorxiv.org/content/10.1101/2020.01.21.914838v1
-[rockpool]: assets/images/togoi-habitat.jpeg "togoi rock pool"
-[teamtogoi]: assets/images/teamtogoi.jpeg "Atbeen and Kunwar in Lighthouse park"
+[rockpool]: /assets/images/togoi-habitat.jpeg "togoi rock pool"
+[teamtogoi]: /assets/images/teamtogoi.jpeg "Atbeen and Kunwar in Lighthouse park"
 
