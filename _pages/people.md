@@ -35,3 +35,25 @@ The research Dan is pursuing in the (Ben) Matthews lab will initially involve in
 [Website](http://www.danpeach.net)
 [Twitter](https://twitter.com/DanPeach3)
 [Email](mailto:peach@zoology.ubc.ca)
+
+## Undergraduate researchers
+
+### Directed Studies students
+#### Team togoi
+- Kunwar Puri (BIOL448 Directed Studies student and member, team togoi)
+- Atbeen Rezazadah (BIOL448 Directed Studies student and member, team togoi)
+
+#### Team feeding
+- Weison Chu (BIOL448 Directed Studies student and member, team feeding)
+- Kevin Poon (BIOL448 Directed Studies student and member, team feeding)
+- Madhurya Sekhar (BIOL448 Directed Studies student and member, team feeding)
+
+#### Undergraduate volunteers
+- Jonathan Chiang
+- Ioana Fronea
+- Quinn Kelley
+- Ravneet Tiwana
+- Annie Zeng
+
+## Collaborators
+- Britya Ghosh, M.Sc. Student, CELL Program.  [Lab of Dr. Mike Gordon](https://www.zoology.ubc.ca/~gordon/), UBC Zoology
