@@ -38,7 +38,6 @@ The research Dan is pursuing in the (Ben) Matthews lab will initially involve in
 
 ## Undergraduate researchers
 
-### Directed Studies students
 #### Team togoi
 - Kunwar Puri (BIOL448 Directed Studies student and member, team togoi)
 - Atbeen Rezazadah (BIOL448 Directed Studies student and member, team togoi)
