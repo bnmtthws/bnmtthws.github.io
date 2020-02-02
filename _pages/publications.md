@@ -9,6 +9,9 @@ sidebar:
 {: #research }
 ### Research publications
 
+- [A single unidirectional piRNA cluster similar to the flamenco locus is the major source of EVE-derived transcription and small RNAs in _Aedes aegypti_ mosquitoes](https://rnajournal.cshlp.org/content/early/2020/01/29/rna.073965.119.abstract)
+<br/> Aguiar, E.R.G.R., Almeida, J.P.P., Queiroz L.R., Oliveira L.S., Olmo R.P., Faria I.J.S., Imler J-L., Gruber A., **Matthews B.J.**, and Marques J.T.. *RNA* (2020) *advanced online publication* <br/>
+
 - [Modelling the Putative Ancient Distribution of the Coastal Rock Pool Mosquito _Aedes togoi_](https://www.biorxiv.org/content/10.1101/2020.01.21.914838v1)
 [PDF](https://www.biorxiv.org/content/10.1101/2020.01.21.914838v1.full.pdf)
 [Raw data](https://doi.org/10.5683/SP2/YPVTYT)
