@@ -38,14 +38,12 @@ The research Dan is pursuing in the (Ben) Matthews lab will initially involve in
 
 ## Undergraduate researchers
 
-#### Team togoi
+#### USRAs and Honours students
+- Aleksandra Anoshina (NSERC USRA, 2020 and UBC Biology Honours student, 2020-2021)
+
+#### Team _togoi_
 - Kunwar Puri (BIOL448 Directed Studies student and member, team togoi)
 - Atbeen Rezazadah (BIOL448 Directed Studies student and member, team togoi)
-
-#### Team feeding
-- Weison Chu (BIOL448 Directed Studies student and member, team feeding)
-- Kevin Poon (BIOL448 Directed Studies student and member, team feeding)
-- Madhurya Sekhar (BIOL448 Directed Studies student and member, team feeding)
 
 #### Undergraduate volunteers
 - Jonathan Chiang
@@ -53,6 +51,11 @@ The research Dan is pursuing in the (Ben) Matthews lab will initially involve in
 - Quinn Kelley
 - Ravneet Tiwana
 - Annie Zeng
+
+#### Alumni
+- Weison Chu (BIOL448 Directed Studies student and member, team feeding)
+- Kevin Poon (BIOL448 Directed Studies student and member, team feeding)
+- Madhurya Sekhar (BIOL448 Directed Studies student and member, team feeding)
 
 ## Collaborators
 - Britya Ghosh, M.Sc. Student, CELL Program.  [Lab of Dr. Mike Gordon](https://www.zoology.ubc.ca/~gordon/), UBC Zoology

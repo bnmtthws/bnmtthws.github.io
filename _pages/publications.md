@@ -12,10 +12,10 @@ sidebar:
 - [A single unidirectional piRNA cluster similar to the flamenco locus is the major source of EVE-derived transcription and small RNAs in _Aedes aegypti_ mosquitoes](https://rnajournal.cshlp.org/content/early/2020/01/29/rna.073965.119.abstract)
 <br/> Aguiar, E.R.G.R., Almeida, J.P.P., Queiroz L.R., Oliveira L.S., Olmo R.P., Faria I.J.S., Imler J-L., Gruber A., **Matthews B.J.**, and Marques J.T.. *RNA* (2020) *advanced online publication* <br/>
 
-- [Modelling the Putative Ancient Distribution of the Coastal Rock Pool Mosquito _Aedes togoi_](https://www.biorxiv.org/content/10.1101/2020.01.21.914838v1)
-[PDF](https://www.biorxiv.org/content/10.1101/2020.01.21.914838v1.full.pdf)
+- [Modeling the Putative Ancient Distribution of _Aedes togoi_ (Diptera: Culicidae)](https://doi.org/10.1093/jisesa/ieaa035)
+[PDF](assets/pdf/PeachMatthews2020.pdf)
 [Raw data](https://doi.org/10.5683/SP2/YPVTYT)
-<br/> **Peach D.A.H.** and **Matthews B.J.** *bioRxiv* (2020) <br/>
+<br/> **Peach D.A.H.** and **Matthews B.J.** *bioRxiv* (2020) and *Journal of Insect Science* (2020) 20(3): 7; 1–10<br/>
 
 - [The ion channel *ppk301* controls freshwater egg-laying in the mosquito *Aedes aegypti*.](https://elifesciences.org/articles/43963)
 [PDF](https://elifesciences.org/download/aHR0cHM6Ly9jZG4uZWxpZmVzY2llbmNlcy5vcmcvYXJ0aWNsZXMvNDM5NjMvZWxpZmUtNDM5NjMtdjIucGRm/elife-43963-v2.pdf?_hash=XK2%2FVSdDJiFxbJfsJtbhvwkD3FY%2F77uEpTOPCqaWM%2FY%3D)
