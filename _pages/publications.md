@@ -13,7 +13,7 @@ sidebar:
 <br/> Aguiar, E.R.G.R., Almeida, J.P.P., Queiroz L.R., Oliveira L.S., Olmo R.P., Faria I.J.S., Imler J-L., Gruber A., **Matthews B.J.**, and Marques J.T.. *RNA* (2020) *advanced online publication* <br/>
 
 - [Modeling the Putative Ancient Distribution of _Aedes togoi_ (Diptera: Culicidae)](https://doi.org/10.1093/jisesa/ieaa035)
-[PDF](../assets/pdf/PeachMatthews2020.pdf)
+[PDF](/assets/pdf/PeachMatthews2020.pdf)
 [Raw data](https://doi.org/10.5683/SP2/YPVTYT)
 <br/> **Peach D.A.H.** and **Matthews B.J.** *bioRxiv* (2020) and *Journal of Insect Science* (2020) 20(3): 7; 1–10<br/>
 
@@ -36,11 +36,11 @@ Trible W., Olivos-Cisneros L., McKenzie S.K., Saragosti J., Chang, N.C., **Matth
  
 - [Dscam1-mediated self-avoidance counters Netrin-dependent targeting of dendrites in *Drosophila*.](https://www.cell.com/current-biology/fulltext/S0960-9822(11)00841-4) [PDF](https://www.cell.com/action/showPdf?pii=S0960-9822%2811%2900841-4) <br/> **Matthews B.J.** and Grueber W.B. <br/> *Current Biology* (2011) 21:1480-1487 
  
-- [Robust discrimination between self and non-self neurites requires thousands of Dscam1 isoforms.](https://www.nature.com/articles/nature08431) [PDF](../assets/pdf/HattoriNature2009.pdf) <br/> Hattori, D., Chen, Y., **Matthews, B.J.**, Salwinski, L., Sabatti, C., Grueber, W.B., and Zipursky S.L. <br/> *Nature* (2009) 461:644-648 
+- [Robust discrimination between self and non-self neurites requires thousands of Dscam1 isoforms.](https://www.nature.com/articles/nature08431) [PDF](/assets/pdf/HattoriNature2009.pdf) <br/> Hattori, D., Chen, Y., **Matthews, B.J.**, Salwinski, L., Sabatti, C., Grueber, W.B., and Zipursky S.L. <br/> *Nature* (2009) 461:644-648 
  
 - [Dendrite self-avoidance is controlled by Dscam.](https://www.cell.com/cell/fulltext/S0092-8674(07)00470-9) [PDF](https://www.cell.com/action/showPdf?pii=S0092-8674%2807%2900470-9) <br/> **Matthews B.J.**, Kim, M.E., Flanagan, J.J., Hattori, D., Clemens, J.C., Zipursky S.L., and Grueber, W.B. <br/> *Cell* (2007) 129: 593-604 
  
-- [Brain activation during sight gags and language-dependent humor.](https://academic.oup.com/cercor/article/17/2/314/316404) [PDF](assets/pdf/WatsonCerebralCortex2007.pdf) <br/> Watson, K.K., **Matthews, B.J.**, and Allman, J.M. <br/> *Cerebral Cortex* (2007) 17:314-324 
+- [Brain activation during sight gags and language-dependent humor.](https://academic.oup.com/cercor/article/17/2/314/316404) [PDF](/assets/pdf/WatsonCerebralCortex2007.pdf) <br/> Watson, K.K., **Matthews, B.J.**, and Allman, J.M. <br/> *Cerebral Cortex* (2007) 17:314-324 
  
 - [BDNF increases synapse density in dendrites of developing tectal neurons in vivo.](https://dev.biologists.org/content/133/13/2477) [PDF](https://dev.biologists.org/content/develop/133/13/2477.full.pdf) <br/> Sanchez, A.L.\*, **Matthews, B.J.**\*, Meynard, M.M.\*, Hu, B.\*, Javed, S., and Cohen-Cory, S.C. (\* denotes equal contribution)<br/> *Development* (2006) 133:2477-2486  
 
