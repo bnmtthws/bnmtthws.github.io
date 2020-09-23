@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "Moustiques du yukon avec le Dr. Dan Peach"
+title:  "Postdoctoral fellowships to Dan and Yunusa"
 date:   2020-09-08 11:30:00 -0800
 categories: lab news
 ---
