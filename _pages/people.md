@@ -36,14 +36,21 @@ The research Dan is pursuing in the (Ben) Matthews lab will initially involve in
 [Twitter](https://twitter.com/DanPeach3)
 [Email](mailto:peach@zoology.ubc.ca)
 
+## Leisl Brewster
+### M.Sc. Student, Zoology
+
+Leisl received her undergraduate degree from University College London and joins us for the beginning of her studies remotely. We are looking forward to having her join us in Vancouver as soon as she is able!
+
 ## Undergraduate researchers
 
 #### USRAs and Honours students
 - Aleksandra Anoshina (NSERC USRA, 2020 and UBC Biology Honours student, 2020-2021)
+- Ivan Lo (UBC Biology Honours student, 2020-2021)
+- Ana Parra (UBC BIology Honours student, 2020-2021)
+
 
 #### Team _togoi_
-- Kunwar Puri (BIOL448 Directed Studies student and member, team togoi)
-- Atbeen Rezazadah (BIOL448 Directed Studies student and member, team togoi)
+- Atbeen Rezazadah (BIOL448 Directed Studies student and member, team togoi, 2019-2020)
 
 #### Undergraduate volunteers
 - Jonathan Chiang
@@ -55,6 +62,7 @@ The research Dan is pursuing in the (Ben) Matthews lab will initially involve in
 #### Alumni
 - Weison Chu (BIOL448 Directed Studies student and member, team feeding)
 - Kevin Poon (BIOL448 Directed Studies student and member, team feeding)
+- Kunwar Puri (BIOL448 Directed Studies student and member, team togoi)
 - Madhurya Sekhar (BIOL448 Directed Studies student and member, team feeding)
 
 ## Collaborators
