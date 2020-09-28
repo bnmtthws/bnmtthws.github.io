@@ -20,8 +20,8 @@ Ben received a BS in Biology from the California Institute of Technology in 2004
 [CV](/assets/pdf/BenMatthews_CV_20190628.pdf)
 [Email](mailto:ben.matthews@zoology.ubc.ca)
 
-
-## Dan Peach, PhD
+## Postdoctoral researchers and graduate student
+### Dan Peach, PhD
 ### Postdoctoral Fellow
 
 <img class="align-left" src="/assets/images/danpeach.jpg" width="200">
@@ -36,10 +36,14 @@ The research Dan is pursuing in the (Ben) Matthews lab will initially involve in
 [Twitter](https://twitter.com/DanPeach3)
 [Email](mailto:peach@zoology.ubc.ca)
 
-## Leisl Brewster
+### Leisl Brewster
 ### M.Sc. Student, Zoology
 
 Leisl received her undergraduate degree from University College London and joins us for the beginning of her studies remotely. We are looking forward to having her join us in Vancouver as soon as she is able!
+
+## Staff
+- Nicholas Tochor (half time lab manager)
+- Baskhar Yechuri (part time electronics technician)
 
 ## Undergraduate researchers
 
@@ -48,9 +52,17 @@ Leisl received her undergraduate degree from University College London and joins
 - Ivan Lo (UBC Biology Honours student, 2020-2021)
 - Ana Parra (UBC BIology Honours student, 2020-2021)
 
+#### IRES directed studies
+- Nicole Cheng (IRES448 Directed Studies student, 2020-present)
+<img class="align-left" src="/assets/images/nicolecheng.jpg" width="200">
 
-#### Team _togoi_
-- Atbeen Rezazadah (BIOL448 Directed Studies student and member, team togoi, 2019-2020)
+Nicole is currently working towards her dual degree of a Bachelor of Science in Environmental Science with a Master of Management at UBC.  She completed a 16 month co-op placement with Environment and Climate Change Canada based in Yellowknife, Northwest Territories where she worked on the Alberta Oil Sands Monitoring program, which extends to the north. Through field work Nicole has become well-acquainted with some northern mosquito species and is looking forward to working under Dr. Dan Peach in his project focusing on mosquitoes in the north!  
+<br/><br/>
+
+- Atbeen Rezazadah (BIOL448 Directed Studies student and member, team <i>togoi</i>, 2019-present)
+Atbeen is a fourth year student at the University of British Columbia, and is expecting to receive his BSc in Biology in 2021. His work in the Matthews lab is focused on the behavioral studies in larval development of mosquitoes under varying abiotic conditions with a focus in determining which physiological factors are playing a significant role in making some mosquitoes widespread invasive organisms. Outside of the lab, Atbeen loves to bike, kayak and hike the extensive trails all over Vancouver, and during the winter, take advantage of the local ski slopes.
+<br/><br/>
+
 
 #### Undergraduate volunteers
 - Jonathan Chiang
@@ -59,11 +71,14 @@ Leisl received her undergraduate degree from University College London and joins
 - Ravneet Tiwana
 - Annie Zeng
 
+
+## Collaborators
+- Britya Ghosh, M.Sc. Student, CELL Program.  [Lab of Dr. Mike Gordon](https://www.zoology.ubc.ca/~gordon/), UBC Zoology
+
+
 #### Alumni
 - Weison Chu (BIOL448 Directed Studies student and member, team feeding)
 - Kevin Poon (BIOL448 Directed Studies student and member, team feeding)
 - Kunwar Puri (BIOL448 Directed Studies student and member, team togoi)
 - Madhurya Sekhar (BIOL448 Directed Studies student and member, team feeding)
 
-## Collaborators
-- Britya Ghosh, M.Sc. Student, CELL Program.  [Lab of Dr. Mike Gordon](https://www.zoology.ubc.ca/~gordon/), UBC Zoology
