@@ -60,6 +60,8 @@ Nicole is currently working towards her dual degree of a Bachelor of Science in 
 <br/><br/>
 
 - Atbeen Rezazadah (BIOL448 Directed Studies student and member, team <i>togoi</i>, 2019-present)
+<img class="align-left" src="/assets/images/atbeenrezazadah.jpg" width="200">
+
 Atbeen is a fourth year student at the University of British Columbia, and is expecting to receive his BSc in Biology in 2021. His work in the Matthews lab is focused on the behavioral studies in larval development of mosquitoes under varying abiotic conditions with a focus in determining which physiological factors are playing a significant role in making some mosquitoes widespread invasive organisms. Outside of the lab, Atbeen loves to bike, kayak and hike the extensive trails all over Vancouver, and during the winter, take advantage of the local ski slopes.
 <br/><br/>
 
