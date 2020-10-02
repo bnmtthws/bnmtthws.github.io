@@ -38,7 +38,7 @@ The research Dan is pursuing in the (Ben) Matthews lab will initially involve in
 
 ### Leisl Brewster (M.Sc. Student, Zoology)<br/>
 
-Leisl received her undergraduate degree from University College London and joins us for the beginning of her studies remotely. We are looking forward to having her join us in Vancouver as soon as she is able!
+Leisl received her B.Sc. in Zoology at University College London (UCL) in the UK where she completed a research project looking at the evolution of biomineralization in molluscs. Leisl now continues her work in invertebrate zoology, looking at the genomic and molecular mechanisms behind sensory behaviour in the <i>Aedes aegypti</i> mosquito.
 
 ## Staff
 - Nicholas Tochor (half time lab manager)
