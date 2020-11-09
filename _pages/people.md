@@ -17,7 +17,13 @@ feature_row1:
      url: "#dan"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-
+- image_path: /assets/images/danpeach.jpg
+    alt: "Dan Peach, PhD"
+    title: "Dan Peach, PhD"
+    excerpt: "Postdoctoral Fellow"
+    url: "#dan"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
 sidebar:
       nav: "people"
 ---
