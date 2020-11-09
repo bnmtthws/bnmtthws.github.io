@@ -11,11 +11,12 @@ sidebar:
      alt: "Ben Matthews"
      title: "Ben Matthews, PhD"
      excerpt: "Ben received a BS in Biology from the California Institute of Technology in 2004 and completed his graduate research at Columbia University in the Laboratory of [Wes Grueber](https://grueberlab.neuroscience.columbia.edu) where he worked on the phenomenon of 'self-avoidance' during the development of sensory neuron dendritic arbors in *Drosophila melanogaster*. He then completed his postdoctoral training with [Leslie Vosshall](https://www.rockefeller.edu/research/2355-vosshall-laboratory/) at Rockefeller University/HHMI, where he focused on genetics, genomics, and behavior in the mosquito *Aedes aegypti*, a deadly vector of arbivoral pathogens that cause Zika, Dengue fever, Yellow fever, and Chikungunya. He received postdoctoral fellowships from the Jane Coffin Childs Memorial Fund for Medical Research and The Rockefeller University, as well as a predoctoral NRSA F31 from the NIH.<br/> At UBC, Ben is an Assistant Professor in the Comparative Physiology Group of the [Department of Zoology](https://www.zoology.ubc.ca). He is also a member of the [Djavad Mowafaghian Centre for Brain Health](https://www.centreforbrainhealth.ca), the [Biodiversity Research Centre](https://biodiversity.ubc.ca/) and the [Genome Science and Technology](https://www.gsat.ubc.ca) training program."
-   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-     alt: "placeholder image 2"
-     title: "Placeholder 2"
+     url: "#ben"
+   - image_path: /assets/images/danpeach.jpg
+     alt: "Dan Peach, PhD"
+     title: "Dan Peach, PhD"
      excerpt: "This is some sample content that goes here with **Markdown** formatting."
-     url: "#test-link"
+     url: "#dan"
      btn_label: "Read More"
      btn_class: "btn--inverse"
 
@@ -26,7 +27,6 @@ sidebar:
 
 {: #ben }
 
-<img class="align-right" src="/assets/images/Ben_1_cropped_0.jpg" width="200" caption="photo, Sylvia Herrera">
 
 ## Benjamin Matthews, PhD
 ### Lab Head and Assistant Professor
@@ -45,7 +45,6 @@ At UBC, Ben is an Assistant Professor in the Comparative Physiology Group of the
 ### Dan Peach, PhD
 ### Postdoctoral Fellow
 
-<img class="align-left" src="/assets/images/danpeach.jpg" width="200">
 
 Dan completed his BSc (with Distinction) and PhD (in the lab of Gerhard Gries) at Simon Fraser University. His PhD work focused on the ecology and sensory ecology of mosquitoes and their interactions with plants, during which he discovered that mosquitoes use the same cues to locate floral nectar that they use to locate vertebrate hosts, shedding light on the evolutionary origin of mosquito blood-feeding. He received an NSERC doctoral postgraduate scholarship, an SFU Provost’s Prize of Distinction, an ESC John Borden award, and was a Canadian national finalist in the Three Minute Thesis Competition.
 <br/><br/>
