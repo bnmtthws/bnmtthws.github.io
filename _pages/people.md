@@ -6,12 +6,14 @@ feature_row:
    - image_path: /assets/images/Ben_1_cropped_0.jpg
      alt: "Ben Matthews"
      title: "Ben Matthews, PhD"
-     excerpt: "Ben received a BS in Biology from the California Institute of Technology in 2004 and completed his graduate research at Columbia University in the Laboratory of [Wes Grueber](https://grueberlab.neuroscience.columbia.edu) where he worked on the phenomenon of 'self-avoidance' during the development of sensory neuron dendritic arbors in *Drosophila melanogaster*. He then completed his postdoctoral training with [Leslie Vosshall](https://www.rockefeller.edu/research/2355-vosshall-laboratory/) at Rockefeller University/HHMI, where he focused on genetics, genomics, and behavior in the mosquito *Aedes aegypti*, a deadly vector of arbivoral pathogens that cause Zika, Dengue fever, Yellow fever, and Chikungunya. He received postdoctoral fellowships from the Jane Coffin Childs Memorial Fund for Medical Research and The Rockefeller University, as well as a predoctoral NRSA F31 from the NIH.<br/> At UBC, Ben is an Assistant Professor in the Comparative Physiology Group of the [Department of Zoology](https://www.zoology.ubc.ca). He is also a member of the [Djavad Mowafaghian Centre for Brain Health](https://www.centreforbrainhealth.ca), the [Biodiversity Research Centre](https://biodiversity.ubc.ca/) and the [Genome Science and Technology](https://www.gsat.ubc.ca) training program."
+     excerpt: "Assistant Professor and Laboratory Head"
      url: "#ben"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"
    - image_path: /assets/images/danpeach.jpg
      alt: "Dan Peach, PhD"
      title: "Dan Peach, PhD"
-     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+     excerpt: "Postdoctoral Fellow"
      url: "#dan"
      btn_label: "Read More"
      btn_class: "btn--inverse"
