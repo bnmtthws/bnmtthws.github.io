@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: collection
 title: People
 permalink: /people/
 
