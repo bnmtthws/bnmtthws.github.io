@@ -9,6 +9,8 @@ sidebar:
 
 {: #ben }
 
+<img class="align-right" src="/assets/images/Ben_1_cropped_0.jpg" width="200" caption="photo, Sylvia Herrera">
+
 ## Benjamin Matthews, PhD
 ### Lab Head and Assistant Professor
 
