@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: wide
 title: People
 permalink: /people/
 
@@ -24,10 +24,7 @@ sidebar:
 
 {% include feature_row %}
 
-
 {: #ben }
-
-
 ## Benjamin Matthews, PhD
 ### Lab Head and Assistant Professor
 
