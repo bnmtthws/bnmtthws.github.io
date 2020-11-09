@@ -6,7 +6,7 @@ permalink: /people/
 sidebar:
  nav: "people"
  
- people_row:
+ feature_row:
    - image_path: /assets/images/Ben_1_cropped_0.jpg
      alt: "Ben Matthews"
      title: "Ben Matthews, PhD"
@@ -22,7 +22,7 @@ sidebar:
 
 ---
 
-{% include people_row %}
+{% include feature_row %}
 
 
 {: #ben }
