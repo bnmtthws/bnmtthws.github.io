@@ -21,7 +21,8 @@ At UBC, Ben is an Assistant Professor in the Comparative Physiology Group of the
 [CV](/assets/pdf/BenMatthews_CV_20190628.pdf)
 [Email](mailto:ben.matthews@zoology.ubc.ca)
 
-## Postdoctoral researchers and graduate student
+## Postdoctoral researchers and graduate students
+
 ### Dan Peach, PhD
 ### Postdoctoral Fellow
 
@@ -37,12 +38,13 @@ The research Dan is pursuing in the (Ben) Matthews lab will initially involve in
 [Twitter](https://twitter.com/DanPeach3)
 [Email](mailto:peach@zoology.ubc.ca)
 
-### Leisl Brewster (M.Sc. Student, Zoology)<br/>
+### Leisl Brewster 
+### M.Sc. Student, Zoology
 
 <img class="align-left" src="/assets/images/leislbrewster.jpg" width="200">
 
-
 Leisl received her B.Sc. in Zoology at University College London (UCL) in the UK where she completed a research project looking at the evolution of biomineralization in molluscs. Leisl now continues her work in invertebrate zoology, looking at the genomic and molecular mechanisms behind sensory behaviour in the <i>Aedes aegypti</i> mosquito.
+<br/> <br/> 
 
 ## Staff
 - Nicholas Tochor (half time lab manager)
