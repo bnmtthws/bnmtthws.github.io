@@ -2,7 +2,7 @@
 layout: archive
 title: People
 permalink: /people/
-feature_row:
+feature_row1:
    - image_path: /assets/images/Ben_1_cropped_0.jpg
      alt: "Ben Matthews"
      title: "Ben Matthews, PhD"
@@ -24,18 +24,23 @@ feature_row:
     url: "#leisl"
     btn_label: "Read More"
     btn_class: "btn--inverse"
+
+feature_row2:
 - image_path: /assets/images/anaparra.jpg
     alt: "Ana Parra"
     title: "Ana Parra"
     excerpt: "Biology Honours student"
     url: "#ana"
     btn_label: "Read More"
-    btn_class: "btn--inverse"    
+    btn_class: "btn--inverse"
 sidebar:
       nav: "people"
 ---
 
-{% include feature_row %}
+{% include feature_row id = "feature_row1" %}
+
+{% include feature_row id = "feature_row2" %}
+
 
 {: #ben }
 ## Benjamin Matthews, PhD
