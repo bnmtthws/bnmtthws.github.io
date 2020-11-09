@@ -17,13 +17,6 @@ feature_row1:
      url: "#dan"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-- image_path: /assets/images/leislbrewster.jpg
-    alt: "Leisl Brewster"
-    title: "Leisl Brewster"
-    excerpt: "MSc student, Zoology"
-    url: "#leisl"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
 
 sidebar:
       nav: "people"
