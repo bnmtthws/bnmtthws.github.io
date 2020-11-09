@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: splash
 title: People
 permalink: /people/
 
