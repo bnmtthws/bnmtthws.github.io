@@ -23,6 +23,8 @@ At UBC, Ben is an Assistant Professor in the Comparative Physiology Group of the
 
 ## Postdoctoral researchers and graduate students
 
+{: #dan }
+
 ### Dan Peach, PhD
 ### Postdoctoral Fellow
 
@@ -38,6 +40,7 @@ The research Dan is pursuing in the (Ben) Matthews lab will initially involve in
 [Twitter](https://twitter.com/DanPeach3)
 [Email](mailto:peach@zoology.ubc.ca)
 
+{: #leisl }
 ### Leisl Brewster 
 ### M.Sc. Student, Zoology
 
@@ -47,15 +50,20 @@ Leisl received her B.Sc. in Zoology at University College London (UCL) in the UK
 <br/> <br/> 
 
 ## Staff
-- Nicholas Tochor (half time lab manager)
-- Baskhar Yechuri (part time electronics technician)
+{: #nick }
+Nicholas Tochor (half time lab manager)
+{: #baskhar }
+Baskhar Yechuri (part time electronics technician)
 
 ## Undergraduate researchers
 
 #### USRAs and Honours students
-- Aleksandra Anoshina (NSERC USRA, 2020 and UBC Biology Honours student, 2020-2021)
-- Ivan Lo (UBC Biology Honours student, 2020-2021)
-- Ana Parra (UBC BIology Honours student, 2020-2021)
+{: #aleks }
+Aleksandra Anoshina (NSERC USRA, 2020 and UBC Biology Honours student, 2020-2021)
+{: #ivan }
+Ivan Lo (UBC Biology Honours student, 2020-2021)
+{: #ana }
+Ana Parra (UBC BIology Honours student, 2020-2021)
 
 <img class="align-left" src="/assets/images/anaparra.jpeg" width="200">
 
@@ -65,13 +73,15 @@ Her research at the (Ben) Matthews Lab involves understanding the molecular diff
 <br/><br/>
 
 #### Directed studies
-- Nicole Cheng (IRES448 Directed Studies student, 2020-present)<br/>
+{: #nicole }
+Nicole Cheng (IRES448 Directed Studies student, 2020-present)<br/>
 <img class="align-left" src="/assets/images/nicolecheng.jpg" width="200">
 
 Nicole is currently working towards her dual degree of a Bachelor of Science in Environmental Science with a Master of Management at UBC.  She completed a 16 month co-op placement with Environment and Climate Change Canada based in Yellowknife, Northwest Territories where she worked on the Alberta Oil Sands Monitoring program, which extends to the north. Through field work Nicole has become well-acquainted with some northern mosquito species and is looking forward to working under Dr. Dan Peach in his project focusing on mosquitoes in the north!  
 <br/><br/>
 
-- Atbeen Rezazadah (BIOL448 Directed Studies student and member, team <i>togoi</i>, 2019-present)<br/>
+{: #atbeen }
+Atbeen Rezazadah (BIOL448 Directed Studies student and member, team <i>togoi</i>, 2019-present)<br/>
 <img class="align-left" src="/assets/images/atbeenrezazadah.jpg" width="200">
 
 Atbeen is a fourth year student at the University of British Columbia, and is expecting to receive his BSc in Biology in 2021. His work in the Matthews lab is focused on the behavioral studies in larval development of mosquitoes under varying abiotic conditions with a focus in determining which physiological factors are playing a significant role in making some mosquitoes widespread invasive organisms. Outside of the lab, Atbeen loves to bike, kayak and hike the extensive trails all over Vancouver, and during the winter, take advantage of the local ski slopes.
