@@ -2,11 +2,7 @@
 layout: archive
 title: People
 permalink: /people/
-
-sidebar:
- nav: "people"
- 
- feature_row:
+feature_row:
    - image_path: /assets/images/Ben_1_cropped_0.jpg
      alt: "Ben Matthews"
      title: "Ben Matthews, PhD"
@@ -19,7 +15,9 @@ sidebar:
      url: "#dan"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-
+     
+sidebar:
+      nav: "people"
 ---
 
 {% include feature_row %}
