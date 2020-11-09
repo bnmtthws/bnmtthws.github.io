@@ -57,7 +57,7 @@ Baskhar Yechuri (part time electronics technician)
 
 ## Undergraduate researchers
 
-#### USRAs and Honours students
+### USRAs and Honours students
 {: #aleks }
 Aleksandra Anoshina (NSERC USRA, 2020 and UBC Biology Honours student, 2020-2021)
 {: #ivan }
@@ -72,7 +72,7 @@ Ana is currently part of a dual degree program at the University of British Colu
 Her research at the (Ben) Matthews Lab involves understanding the molecular differences between the larval stages of mosquitos <i>Aedes togoi</i> and <i>Aedes aegypti</i> that allows them to survive at distinct environmental conditions. 
 <br/><br/>
 
-#### Directed studies
+### Directed studies
 {: #nicole }
 Nicole Cheng (IRES448 Directed Studies student, 2020-present)<br/>
 <img class="align-left" src="/assets/images/nicolecheng.jpg" width="200">
@@ -88,7 +88,7 @@ Atbeen is a fourth year student at the University of British Columbia, and is ex
 <br/><br/>
 
 
-#### Undergraduate volunteers
+### Undergraduate volunteers
 - Jonathan Chiang
 - Ioana Fronea
 - Quinn Kelley
@@ -100,7 +100,7 @@ Atbeen is a fourth year student at the University of British Columbia, and is ex
 - Britya Ghosh, M.Sc. Student, CELL Program.  [Lab of Dr. Mike Gordon](https://www.zoology.ubc.ca/~gordon/), UBC Zoology
 
 
-#### Alumni
+## Alumni
 - Weison Chu (BIOL448 Directed Studies student and member, team feeding)
 - Kevin Poon (BIOL448 Directed Studies student and member, team feeding)
 - Kunwar Puri (BIOL448 Directed Studies student and member, team togoi)

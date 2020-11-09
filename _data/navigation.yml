@@ -28,6 +28,24 @@ people:
    children:
       - title: "Ben Matthews"
         url: /people/#ben
+      - title: "Dan Peach"
+        url: /people/#dan
+      - title: "Leisl Brewster"
+        url: /people/#leisl
+      - title: "Nick Tochor"
+        url: /people/#nick
+      - title: "Baskhar Yechuri"
+        url: /people/#baskhar
+      - title: "Aleksandra Anoshina"
+        url: /people/#aleks
+      - title: "Ivan Lo"
+        url: /people/#ivan
+      - title: "Ana Parra"
+        url: /people/#ana
+      - title: "Nicole Cheng"
+        url: /people/#nicole
+      - title: "Atbeen Rezazadah"
+        url: /people/#atbeen
         
                 
 protocols:
