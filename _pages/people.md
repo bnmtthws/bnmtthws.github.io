@@ -56,7 +56,7 @@ feature_row3
      url: "/people/#ana"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-   - image_path: /assets/images/larvae-sq.jpg
+   - image_path: /assets/images/larvae-sq.png
      alt: "Ivan Lo"
      title: "Ivan Lo"
      excerpt: "Biology Honours student"
