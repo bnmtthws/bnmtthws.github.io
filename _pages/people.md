@@ -71,7 +71,6 @@ feature_row3
      btn_label: "Read More"
      btn_class: "btn--inverse"
 
-
 feature_row4:
    - image_path: /assets/images/atbeenrezazadah-sq.jpg
      alt: "Atbeen Rezazadah"
@@ -80,6 +79,7 @@ feature_row4:
      url: "/people/#atbeen"
      btn_label: "Read More"
      btn_class: "btn--inverse"
+
 sidebar:
       nav: "people"
 
