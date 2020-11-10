@@ -24,6 +24,13 @@ feature_row1:
      url: "/people/#leisl"
      btn_label: "Read More"
      btn_class: "btn--inverse"
+  - image_path: /assets/images/anaparra.jpg
+     alt: "Ana Parra"
+     title: "Ana Parra"
+     excerpt: "Biology Honours student"
+     url: "/people/#ana"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"
 sidebar:
       nav: "people"
 ---
