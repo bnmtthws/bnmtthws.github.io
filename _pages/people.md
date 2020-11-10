@@ -40,6 +40,15 @@ feature_row2:
      url: "/people/#baskhar"
      btn_label: "Read More"
      btn_class: "btn--inverse"
+   - image_path: /assets/images/larvae-sq.png
+     alt: "Aleksandra Anoshina"
+     title: "Aleksandra Anoshina"
+     excerpt: "Biology Honours Student"
+     url: "/people/#aleks"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"
+   
+feature_row3
    - image_path: /assets/images/anaparra-sq.jpg
      alt: "Ana Parra"
      title: "Ana Parra"
@@ -47,8 +56,15 @@ feature_row2:
      url: "/people/#ana"
      btn_label: "Read More"
      btn_class: "btn--inverse"
+   - image_path: /assets/images/larvae-sq.jpg
+     alt: "Ivan Lo"
+     title: "Ivan Lo"
+     excerpt: "Biology Honours student"
+     url: "/people/#ivan"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"
 
-feature_row3:
+feature_row4:
    - image_path: /assets/images/nicolecheng-sq.jpg
      alt: "Nicole Cheng"
      title: "Nicole Cheng"
