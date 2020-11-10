@@ -63,8 +63,6 @@ feature_row3
      url: "/people/#ivan"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-
-feature_row4:
    - image_path: /assets/images/nicolecheng-sq.jpg
      alt: "Nicole Cheng"
      title: "Nicole Cheng"
@@ -72,6 +70,9 @@ feature_row4:
      url: "/people/#nicole"
      btn_label: "Read More"
      btn_class: "btn--inverse"
+
+
+feature_row4:
    - image_path: /assets/images/atbeenrezazadah-sq.jpg
      alt: "Atbeen Rezazadah"
      title: "Atbeen Rezazadah"
@@ -87,7 +88,7 @@ sidebar:
 {% include feature_row id = "feature_row1" %}
 {% include feature_row id = "feature_row2" %}
 {% include feature_row id = "feature_row3" %}
-
+{% include feature_row id = "feature_row4" %}
 
 {: #ben }
 ## Benjamin Matthews, PhD
