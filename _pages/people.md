@@ -3,32 +3,48 @@ layout: archive
 title: People
 permalink: /people/
 feature_row1:
-   - image_path: /assets/images/Ben_1_cropped_0.jpg
+   - image_path: /assets/images/Ben_1_cropped_0-sq.jpg
      alt: "Ben Matthews"
      title: "Ben Matthews, PhD"
      excerpt: "Assistant Professor and Laboratory Head"
      url: "/people/#ben"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-   - image_path: /assets/images/danpeach.jpg
+   - image_path: /assets/images/danpeach-sq.jpg
      alt: "Dan Peach, PhD"
      title: "Dan Peach, PhD"
      excerpt: "Postdoctoral Fellow"
      url: "/people/#dan"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-   - image_path: /assets/images/leislbrewster.jpg
+   - image_path: /assets/images/leislbrewster-sq.jpg
      alt: "Leisl Brewster"
      title: "Leisl Brewster"
      excerpt: "MSc student, Zoology"
      url: "/people/#leisl"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-  - image_path: /assets/images/anaparra.jpg
+
+feature_row2:
+   - image_path: /assets/images/anaparra-sq.jpg
      alt: "Ana Parra"
      title: "Ana Parra"
      excerpt: "Biology Honours student"
      url: "/people/#ana"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"
+   - image_path: /assets/images/nicolecheng-sq.jpg
+     alt: "Nicole Cheng"
+     title: "Nicole Cheng"
+     excerpt: "Directed Studies student"
+     url: "/people/#nicole"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"
+   - image_path: /assets/images/atbeenrezazadah-sq.jpg
+     alt: "Atbeen Rezazadah"
+     title: "Atbeen Rezazadah"
+     excerpt: "Biology Directed Studies student"
+     url: "/people/#atbeen"
      btn_label: "Read More"
      btn_class: "btn--inverse"
 sidebar:
@@ -36,13 +52,14 @@ sidebar:
 ---
 
 {% include feature_row id = "feature_row1" %}
-
+{% include feature_row id = "feature_row2" %}
 
 {: #ben }
 ## Benjamin Matthews, PhD
 ### Lab Head and Assistant Professor
 
 Ben received a BS in Biology from the California Institute of Technology in 2004 and completed his graduate research at Columbia University in the Laboratory of [Wes Grueber](https://grueberlab.neuroscience.columbia.edu) where he worked on the phenomenon of 'self-avoidance' during the development of sensory neuron dendritic arbors in *Drosophila melanogaster*. He then completed his postdoctoral training with [Leslie Vosshall](https://www.rockefeller.edu/research/2355-vosshall-laboratory/) at Rockefeller University/HHMI, where he focused on genetics, genomics, and behavior in the mosquito *Aedes aegypti*, a deadly vector of arbivoral pathogens that cause Zika, Dengue fever, Yellow fever, and Chikungunya. He received postdoctoral fellowships from the Jane Coffin Childs Memorial Fund for Medical Research and The Rockefeller University, as well as a predoctoral NRSA F31 from the NIH.<br/>
+
 At UBC, Ben is an Assistant Professor in the Comparative Physiology Group of the [Department of Zoology](https://www.zoology.ubc.ca). He is also a member of the [Djavad Mowafaghian Centre for Brain Health](https://www.centreforbrainhealth.ca), the [Biodiversity Research Centre](https://biodiversity.ubc.ca/) and the [Genome Science and Technology](https://www.gsat.ubc.ca) training program. 
 <br/><br/>
 
@@ -70,8 +87,6 @@ The research Dan is pursuing in the (Ben) Matthews lab will initially involve in
 {: #leisl }
 ### Leisl Brewster 
 ### M.Sc. Student, Zoology
-
-<img class="align-left" src="/assets/images/leislbrewster.jpg" width="200">
 
 Leisl received her B.Sc. in Zoology at University College London (UCL) in the UK where she completed a research project looking at the evolution of biomineralization in molluscs. Leisl now continues her work in invertebrate zoology, looking at the genomic and molecular mechanisms behind sensory behaviour in the <i>Aedes aegypti</i> mosquito.
 <br/> <br/> 
