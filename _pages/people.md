@@ -49,7 +49,7 @@ feature_row2:
      btn_class: "btn--inverse"
 
 feature_row3:
-  - image_path: /assets/images/nicolecheng-sq.jpg
+   - image_path: /assets/images/nicolecheng-sq.jpg
      alt: "Nicole Cheng"
      title: "Nicole Cheng"
      excerpt: "Directed Studies student"
@@ -65,6 +65,7 @@ feature_row3:
      btn_class: "btn--inverse"
 sidebar:
       nav: "people"
+
 ---
 
 {% include feature_row id = "feature_row1" %}
