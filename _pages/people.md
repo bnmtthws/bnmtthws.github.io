@@ -26,6 +26,22 @@ feature_row1:
      btn_class: "btn--inverse"
 
 feature_row2:
+   - image_path: /assets/images/larvae-sq.png
+     alt: "Nicholas Tochor"
+     title: "Nicholas Tochor"
+     excerpt: "Laboratory Technician"
+     url: "/people/#nick"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"
+     
+   - image_path: /assets/images/larvae-sq.png
+     alt: "Baskhar Yechuri"
+     title: "Baskhar Yechuri"
+     excerpt: "Electronics Technician"
+     url: "/people/#baskhar"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"
+
    - image_path: /assets/images/anaparra-sq.jpg
      alt: "Ana Parra"
      title: "Ana Parra"
@@ -33,7 +49,10 @@ feature_row2:
      url: "/people/#ana"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-   - image_path: /assets/images/nicolecheng-sq.jpg
+
+
+feature_row3:
+  - image_path: /assets/images/nicolecheng-sq.jpg
      alt: "Nicole Cheng"
      title: "Nicole Cheng"
      excerpt: "Directed Studies student"
@@ -53,6 +72,8 @@ sidebar:
 
 {% include feature_row id = "feature_row1" %}
 {% include feature_row id = "feature_row2" %}
+{% include feature_row id = "feature_row3" %}
+
 
 {: #ben }
 ## Benjamin Matthews, PhD
