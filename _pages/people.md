@@ -47,7 +47,7 @@ feature_row2:
      url: "/people/#aleks"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-   
+
 feature_row3
    - image_path: /assets/images/anaparra-sq.jpg
      alt: "Ana Parra"
@@ -81,7 +81,7 @@ feature_row4:
      btn_class: "btn--inverse"
 
 sidebar:
-      nav: "people"
+     nav: "people"
 
 ---
 
