@@ -82,7 +82,7 @@ feature_row4:
      url: "/people/#atbeen"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-   - image_path: /assets/images/larvae-sq.jpg
+   - image_path: /assets/images/larvae-png.jpg
      alt: "Annie Zeng"
      title: "Annie Zeng"
      excerpt: "Biology Directed Studies student"
