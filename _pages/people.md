@@ -3,88 +3,88 @@ layout: archive
 title: People
 permalink: /people/
 feature_row1:
-   - image_path: /assets/images/Ben_1_cropped_0-sq.jpg
-     alt: "Ben Matthews"
-     title: "Ben Matthews, PhD"
-     excerpt: "Assistant Professor and Laboratory Head"
-     url: "/people/#ben"
-     btn_label: "Read More"
-     btn_class: "btn--inverse"
-   - image_path: /assets/images/danpeach-sq.jpg
-     alt: "Dan Peach, PhD"
-     title: "Dan Peach, PhD"
-     excerpt: "Postdoctoral Fellow"
-     url: "/people/#dan"
-     btn_label: "Read More"
-     btn_class: "btn--inverse"
-   - image_path: /assets/images/leislbrewster-sq.jpg
-     alt: "Leisl Brewster"
-     title: "Leisl Brewster"
-     excerpt: "M.Sc. student, Zoology"
-     url: "/people/#leisl"
-     btn_label: "Read More"
-     btn_class: "btn--inverse"
+- image_path: /assets/images/Ben_1_cropped_0-sq.jpg
+alt: "Ben Matthews"
+title: "Ben Matthews, PhD"
+excerpt: "Assistant Professor and Laboratory Head"
+url: "/people/#ben"
+btn_label: "Read More"
+btn_class: "btn--inverse"
+- image_path: /assets/images/danpeach-sq.jpg
+alt: "Dan Peach, PhD"
+title: "Dan Peach, PhD"
+excerpt: "Postdoctoral Fellow"
+url: "/people/#dan"
+btn_label: "Read More"
+btn_class: "btn--inverse"
+- image_path: /assets/images/leislbrewster-sq.jpg
+alt: "Leisl Brewster"
+title: "Leisl Brewster"
+excerpt: "M.Sc. student, Zoology"
+url: "/people/#leisl"
+btn_label: "Read More"
+btn_class: "btn--inverse"
 
 
 feature_row2:
-   - image_path: /assets/images/orna.jpg
-     alt: "Orna Phalen"
-     title: "Orna Phalen"
-     excerpt: "M.Sc. student, Zoology"
-     url: "/people/#nick"
-     btn_label: "Read More"
-     btn_class: "btn--inverse"
-   - image_path: /assets/images/larvae-sq.png
-     alt: "Nicholas Tochor"
-     title: "Nicholas Tochor"
-     excerpt: "Laboratory Technician"
-     url: "/people/#nick"
-     btn_label: "Read More"
-     btn_class: "btn--inverse"
-   - image_path: /assets/images/bhaskar.jpg
-     alt: "Bhaskar Yechuri"
-     title: "Bhaskar Yechuri"
-     excerpt: "Electronics Technician"
-     url: "/people/#baskhar"
-     btn_label: "Read More"
-     btn_class: "btn--inverse"
+- image_path: /assets/images/orna.jpg
+alt: "Orna Phalen"
+title: "Orna Phalen"
+excerpt: "M.Sc. student, Zoology"
+url: "/people/#nick"
+btn_label: "Read More"
+btn_class: "btn--inverse"
+- image_path: /assets/images/larvae-sq.png
+alt: "Nicholas Tochor"
+title: "Nicholas Tochor"
+excerpt: "Laboratory Technician"
+url: "/people/#nick"
+btn_label: "Read More"
+btn_class: "btn--inverse"
+- image_path: /assets/images/bhaskar.jpg
+alt: "Bhaskar Yechuri"
+title: "Bhaskar Yechuri"
+excerpt: "Electronics Technician"
+url: "/people/#baskhar"
+btn_label: "Read More"
+btn_class: "btn--inverse"
 
 
 feature_row3:
-   - image_path: /assets/images/larvae-sq.png
-     alt: "Aleksandra Anoshina"
-     title: "Aleksandra Anoshina"
-     excerpt: "Biology Honours Student"
-     url: "/people/#aleks"
-     btn_label: "Read More"
-     btn_class: "btn--inverse"
-   - image_path: /assets/images/anaparra-sq.jpg
-     alt: "Ana Parra"
-     title: "Ana Parra"
-     excerpt: "Biology Honours student"
-     url: "/people/#ana"
-     btn_label: "Read More"
-     btn_class: "btn--inverse"
-   - image_path: /assets/images/ivanlo-sq.jpg
-     alt: "Ivan Lo"
-     title: "Ivan Lo"
-     excerpt: "Biology Honours student"
-     url: "/people/#ivan"
-     btn_label: "Read More"
-     btn_class: "btn--inverse"
+- image_path: /assets/images/larvae-sq.png
+alt: "Aleksandra Anoshina"
+title: "Aleksandra Anoshina"
+excerpt: "Biology Honours Student"
+url: "/people/#aleks"
+btn_label: "Read More"
+btn_class: "btn--inverse"
+- image_path: /assets/images/anaparra-sq.jpg
+alt: "Ana Parra"
+title: "Ana Parra"
+excerpt: "Biology Honours student"
+url: "/people/#ana"
+btn_label: "Read More"
+btn_class: "btn--inverse"
+- image_path: /assets/images/ivanlo-sq.jpg
+alt: "Ivan Lo"
+title: "Ivan Lo"
+excerpt: "Biology Honours student"
+url: "/people/#ivan"
+btn_label: "Read More"
+btn_class: "btn--inverse"
 
 
 feature_row4:
-   - image_path: /assets/images/atbeenrezazadah-sq.jpg
-     alt: "Atbeen Rezazadah"
-     title: "Atbeen Rezazadah"
-     excerpt: "Biology Directed Studies student"
-     url: "/people/#atbeen"
-     btn_label: "Read More"
-     btn_class: "btn--inverse"
+- image_path: /assets/images/atbeenrezazadah-sq.jpg
+alt: "Atbeen Rezazadah"
+title: "Atbeen Rezazadah"
+excerpt: "Biology Directed Studies student"
+url: "/people/#atbeen"
+btn_label: "Read More"
+btn_class: "btn--inverse"
 
 sidebar:
-     nav: "people"
+nav: "people"
 
 ---
 
