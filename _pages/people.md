@@ -25,6 +25,7 @@ feature_row1:
      btn_label: "Read More"
      btn_class: "btn--inverse"
 
+
 feature_row2:
    - image_path: /assets/images/orna.jpg
      alt: "Orna Phalen"
