@@ -31,7 +31,7 @@ feature_row2:
      alt: "Orna Phalen"
      title: "Orna Phalen"
      excerpt: "M.Sc. student, Zoology"
-     url: "/people/#nick"
+     url: "/people/#orna"
      btn_label: "Read More"
      btn_class: "btn--inverse"
    - image_path: /assets/images/larvae-sq.png
