@@ -33,9 +33,9 @@ feature_row2:
      url: "/people/#nick"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-   - image_path: /assets/images/larvae-sq.png
-     alt: "Baskhar Yechuri"
-     title: "Baskhar Yechuri"
+   - image_path: /assets/images/bhaskar.jpg
+     alt: "Bhaskar Yechuri"
+     title: "Bhaskar Yechuri"
      excerpt: "Electronics Technician"
      url: "/people/#baskhar"
      btn_label: "Read More"
@@ -56,7 +56,7 @@ feature_row3:
      url: "/people/#ana"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-   - image_path: /assets/images/larvae-sq.png
+   - image_path: /assets/images/ivanlo.jpg
      alt: "Ivan Lo"
      title: "Ivan Lo"
      excerpt: "Biology Honours student"
@@ -140,7 +140,8 @@ Baskhar Yechuri (part time electronics technician)
 {: #aleks }
 Aleksandra Anoshina (NSERC USRA, 2020 and UBC Biology Honours student, 2020-2021)
 {: #ivan }
-Ivan Lo (UBC Biology Honours student, 2020-2021)
+Ivan is currently a student in the Honors Animal Biology program at the University of British Columbia. He has previously completed Co-op internship abroad in Singapore at the Genome Institute of Singapore. In the Tang Meng How Lab, his focus area is on DNA and RNA editing, including CRISPR/Cas9 truncation and RNA editing in colorectal cancer cells. He later came back to Vancouver for a Co-op placement in Applied Biological Materials (abm) as a research student.
+His current research here in the Matthews Lab is on improving genetic editing in <i>Aedes aegypti</i> mosquitoes via CRISPR/Cas9 technology. He hopes to increase DNA repair rates using germline genes. When Ivan is not in the lab, he enjoys baking at home or dancing as part of a Hip Hop dance team.
 {: #ana }
 Ana Parra (UBC BIology Honours student, 2020-2021)
 
