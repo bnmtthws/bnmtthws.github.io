@@ -145,7 +145,7 @@ Baskhar Yechuri (part time electronics technician)
 His current research here in the Matthews Lab is on improving genetic editing in <i>Aedes aegypti</i> mosquitoes via CRISPR/Cas9 technology. He hopes to increase DNA repair rates using germline genes. When Ivan is not in the lab, he enjoys baking at home or dancing as part of a Hip Hop dance team.
 <br/><br/>
 {: #ana }
-Ana Parra (UBC BIology Honours student, 2020-2021)
+### Ana Parra (UBC BIology Honours student, 2020-2021)
 
 Ana is currently part of a dual degree program at the University of British Columbia comprised of a Bachelor of Science with Honors in Animal Biology and a Master of Management. On top of that, she's the Vice-President of the UBC Biological Sciences Society. She recently completed a 12-month co-op placement at the Vancouver Prostate Centre, where she focused on androgen receptor mutants transcriptional responses to anti-androgen drugs, in the attempt to allow cancer treatments to be more patient-specific. Outside the lab you will find her hiking or learning how to use her camera to capture the beauty of animals. 
 
