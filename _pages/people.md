@@ -56,7 +56,8 @@ feature_row3:
      excerpt: "Biology Honours Student"
      url: "/people/#aleks"
      btn_label: "Read More"
-     btn_class: "btn--inverse"image_path: /assets/images/anaparra-sq.jpg
+     btn_class: "btn--inverse"
+   - image_path: /assets/images/anaparra-sq.jpg
      alt: "Ana Parra"
      title: "Ana Parra"
      excerpt: "Biology Honours student"
