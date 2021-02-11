@@ -82,7 +82,13 @@ feature_row4:
      url: "/people/#atbeen"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-
+    - image_path: /assets/images/larvae-sq.jpg
+    alt: "Annie Zeng"
+    title: "Annie Zeng"
+    excerpt: "Biology Directed Studies student"
+    url: "/people/#annie"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
 sidebar:
      nav: "people"
 
@@ -163,18 +169,14 @@ Her research at the (Ben) Matthews Lab involves understanding the molecular diff
 <br/><br/>
 
 ### Directed studies
-{: #nicole }
-Nicole Cheng (IRES448 Directed Studies student, 2020-present)<br/>
-
-Nicole is currently working towards her dual degree of a Bachelor of Science in Environmental Science with a Master of Management at UBC.  She completed a 16 month co-op placement with Environment and Climate Change Canada based in Yellowknife, Northwest Territories where she worked on the Alberta Oil Sands Monitoring program, which extends to the north. Through field work Nicole has become well-acquainted with some northern mosquito species and is looking forward to working under Dr. Dan Peach in his project focusing on mosquitoes in the north!  
-<br/><br/>
-
 {: #atbeen }
-Atbeen Rezazadah (BIOL448 Directed Studies student and member, team <i>togoi</i>, 2019-present)<br/>
+### Atbeen Rezazadah (BIOL448 Directed Studies student and member, team <i>togoi</i>, 2019-present)<br/>
 
 Atbeen is a fourth year student at the University of British Columbia, and is expecting to receive his BSc in Biology in 2021. His work in the Matthews lab is focused on the behavioral studies in larval development of mosquitoes under varying abiotic conditions with a focus in determining which physiological factors are playing a significant role in making some mosquitoes widespread invasive organisms. Outside of the lab, Atbeen loves to bike, kayak and hike the extensive trails all over Vancouver, and during the winter, take advantage of the local ski slopes.
 <br/><br/>
 
+{: #annie }
+### Annie Zeng (BIOL448 Directed Studies student, 2021)
 
 ### Undergraduate volunteers
 - Jonathan Chiang
@@ -193,5 +195,6 @@ Atbeen is a fourth year student at the University of British Columbia, and is ex
 - Kevin Poon (BIOL448 Directed Studies student and member, team feeding)
 - Kunwar Puri (BIOL448 Directed Studies student and member, team togoi)
 - Madhurya Sekhar (BIOL448 Directed Studies student and member, team feeding)
+- Nicole Cheng (Undergraduate Directed Studies student, 2020)
 
 {% include feature_row %}
