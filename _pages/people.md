@@ -82,13 +82,13 @@ feature_row4:
      url: "/people/#atbeen"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-    - image_path: /assets/images/larvae-sq.jpg
-    alt: "Annie Zeng"
-    title: "Annie Zeng"
-    excerpt: "Biology Directed Studies student"
-    url: "/people/#annie"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
+   - image_path: /assets/images/larvae-sq.jpg
+     alt: "Annie Zeng"
+     title: "Annie Zeng"
+     excerpt: "Biology Directed Studies student"
+     url: "/people/#annie"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"
 sidebar:
      nav: "people"
 
@@ -177,6 +177,7 @@ Atbeen is a fourth year student at the University of British Columbia, and is ex
 
 {: #annie }
 ### Annie Zeng (BIOL448 Directed Studies student, 2021)
+<br/><br/>
 
 ### Undergraduate volunteers
 - Jonathan Chiang
