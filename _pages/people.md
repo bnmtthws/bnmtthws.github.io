@@ -20,12 +20,19 @@ feature_row1:
    - image_path: /assets/images/leislbrewster-sq.jpg
      alt: "Leisl Brewster"
      title: "Leisl Brewster"
-     excerpt: "MSc student, Zoology"
+     excerpt: "M.Sc. student, Zoology"
      url: "/people/#leisl"
      btn_label: "Read More"
      btn_class: "btn--inverse"
 
 feature_row2:
+   - image_path: /assets/images/orna.jpg
+     alt: "Orna Phalen"
+     title: "Orna Phalen"
+     excerpt: "M.Sc. student, Zoology"
+     url: "/people/#nick"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"
    - image_path: /assets/images/larvae-sq.png
      alt: "Nicholas Tochor"
      title: "Nicholas Tochor"
@@ -40,16 +47,16 @@ feature_row2:
      url: "/people/#baskhar"
      btn_label: "Read More"
      btn_class: "btn--inverse"
+
+
+feature_row3:
    - image_path: /assets/images/larvae-sq.png
      alt: "Aleksandra Anoshina"
      title: "Aleksandra Anoshina"
      excerpt: "Biology Honours Student"
      url: "/people/#aleks"
      btn_label: "Read More"
-     btn_class: "btn--inverse"
-
-feature_row3:
-   - image_path: /assets/images/anaparra-sq.jpg
+     btn_class: "btn--inverse"image_path: /assets/images/anaparra-sq.jpg
      alt: "Ana Parra"
      title: "Ana Parra"
      excerpt: "Biology Honours student"
@@ -63,13 +70,7 @@ feature_row3:
      url: "/people/#ivan"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-   - image_path: /assets/images/nicolecheng-sq.jpg
-     alt: "Nicole Cheng"
-     title: "Nicole Cheng"
-     excerpt: "Directed Studies student"
-     url: "/people/#nicole"
-     btn_label: "Read More"
-     btn_class: "btn--inverse"
+
 
 feature_row4:
    - image_path: /assets/images/atbeenrezazadah-sq.jpg
