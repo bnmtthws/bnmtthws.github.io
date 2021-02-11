@@ -75,14 +75,21 @@ feature_row3:
 
 
 feature_row4:
-   - image_path: /assets/images/atbeenrezazadah-sq.jpg
+  - image_path: /assets/images/larvae-sq.png
+    alt: "Kunwar Puri"
+    title: "Kunwar Puri"
+    excerpt: "Biology Directed Studies student"
+    url: "/people/#kunwar"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/atbeenrezazadah-sq.jpg
      alt: "Atbeen Rezazadah"
      title: "Atbeen Rezazadah"
      excerpt: "Biology Directed Studies student"
      url: "/people/#atbeen"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-   - image_path: /assets/images/larvae-png.jpg
+   - image_path: /assets/images/larvae-sq.png
      alt: "Annie Zeng"
      title: "Annie Zeng"
      excerpt: "Biology Directed Studies student"
@@ -169,6 +176,10 @@ Her research at the (Ben) Matthews Lab involves understanding the molecular diff
 <br/><br/>
 
 ### Directed studies
+
+{: #kunwar }
+### Kunwar Puri (BIOL448 Directed Studies student and member, team <i>togoi</i>, 2019-present)
+
 {: #atbeen }
 ### Atbeen Rezazadah (BIOL448 Directed Studies student and member, team <i>togoi</i>, 2019-present)<br/>
 
@@ -194,7 +205,6 @@ Atbeen is a fourth year student at the University of British Columbia, and is ex
 ## Alumni
 - Weison Chu (BIOL448 Directed Studies student and member, team feeding)
 - Kevin Poon (BIOL448 Directed Studies student and member, team feeding)
-- Kunwar Puri (BIOL448 Directed Studies student and member, team togoi)
 - Madhurya Sekhar (BIOL448 Directed Studies student and member, team feeding)
 - Nicole Cheng (Undergraduate Directed Studies student, 2020)
 
