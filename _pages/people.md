@@ -56,7 +56,7 @@ feature_row3:
      url: "/people/#ana"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-   - image_path: /assets/images/ivanlo.jpg
+   - image_path: /assets/images/ivanlo-sq.jpg
      alt: "Ivan Lo"
      title: "Ivan Lo"
      excerpt: "Biology Honours student"
@@ -128,6 +128,12 @@ The research Dan is pursuing in the (Ben) Matthews lab will initially involve in
 Leisl received her B.Sc. in Zoology at University College London (UCL) in the UK where she completed a research project looking at the evolution of biomineralization in molluscs. Leisl now continues her work in invertebrate zoology, looking at the genomic and molecular mechanisms behind sensory behaviour in the <i>Aedes aegypti</i> mosquito.
 <br/> <br/> 
 
+{: #orna}
+### Orna Phalen
+### M.Sc. Student, Zoology
+
+Orna received her B.S.c in Zoology at University College Dublin in Ireland where she worked on a physiology project investigating the role of UTB transporters in cow rumen. She has an interest in physiology, molecular biology and entomology and now continues her work at the (Ben) Matthews lab investigating the genetic basis of oviposition behavior in the <i>Aedes togoi mosquito</i>.
+
 ## Staff
 {: #nick }
 Nicholas Tochor (half time lab manager)
@@ -140,8 +146,9 @@ Baskhar Yechuri (part time electronics technician)
 {: #aleks }
 ### Aleksandra Anoshina (NSERC USRA, 2020 and UBC Biology Honours student, 2020-2021)
 {: #ivan }
-### Ivan Lo
-(UBC Biology Honours student, 2020-2021) Ivan is currently a student in the Honors Animal Biology program at the University of British Columbia. He has previously completed Co-op internship abroad in Singapore at the Genome Institute of Singapore. In the Tang Meng How Lab, his focus area is on DNA and RNA editing, including CRISPR/Cas9 truncation and RNA editing in colorectal cancer cells. He later came back to Vancouver for a Co-op placement in Applied Biological Materials (abm) as a research student.
+### Ivan Lo (UBC Biology Honours student, 2020-2021) 
+
+Ivan is currently a student in the Honors Animal Biology program at the University of British Columbia. He has previously completed Co-op internship abroad in Singapore at the Genome Institute of Singapore. In the Tang Meng How Lab, his focus area is on DNA and RNA editing, including CRISPR/Cas9 truncation and RNA editing in colorectal cancer cells. He later came back to Vancouver for a Co-op placement in Applied Biological Materials (abm) as a research student.
 His current research here in the Matthews Lab is on improving genetic editing in <i>Aedes aegypti</i> mosquitoes via CRISPR/Cas9 technology. He hopes to increase DNA repair rates using germline genes. When Ivan is not in the lab, he enjoys baking at home or dancing as part of a Hip Hop dance team.
 <br/><br/>
 {: #ana }
