@@ -75,14 +75,14 @@ feature_row3:
 
 
 feature_row4:
-  - image_path: /assets/images/larvae-sq.png
-    alt: "Kunwar Puri"
-    title: "Kunwar Puri"
-    excerpt: "Biology Directed Studies student"
-    url: "/people/#kunwar"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-  - image_path: /assets/images/atbeenrezazadah-sq.jpg
+   - image_path: /assets/images/larvae-sq.png
+     alt: "Kunwar Puri"
+     title: "Kunwar Puri"
+     excerpt: "Biology Directed Studies student"
+     url: "/people/#kunwar"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"
+   - image_path: /assets/images/atbeenrezazadah-sq.jpg
      alt: "Atbeen Rezazadah"
      title: "Atbeen Rezazadah"
      excerpt: "Biology Directed Studies student"
