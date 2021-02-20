@@ -32,6 +32,8 @@ people:
         url: /people/#dan
       - title: "Leisl Brewster"
         url: /people/#leisl
+      - title: "Orna Phalen
+        url: /people/#orna"
       - title: "Nick Tochor"
         url: /people/#nick
       - title: "Baskhar Yechuri"
@@ -42,10 +44,12 @@ people:
         url: /people/#ivan
       - title: "Ana Parra"
         url: /people/#ana
-      - title: "Nicole Cheng"
-        url: /people/#nicole
+      - title: "Kunwar Puri"
+        url: /people/#kunwar
       - title: "Atbeen Rezazadah"
         url: /people/#atbeen
+      - title: "Annie Zeng"
+        url: /people/#annie
         
                 
 protocols:

@@ -197,15 +197,11 @@ Atbeen is a fourth year student at the University of British Columbia, and is ex
 - Ravneet Tiwana
 - Annie Zeng
 
-
-## Collaborators
-- Britya Ghosh, M.Sc. Student, CELL Program.  [Lab of Dr. Mike Gordon](https://www.zoology.ubc.ca/~gordon/), UBC Zoology
-
-
 ## Alumni
 - Weison Chu (BIOL448 Directed Studies student and member, team feeding)
 - Kevin Poon (BIOL448 Directed Studies student and member, team feeding)
 - Madhurya Sekhar (BIOL448 Directed Studies student and member, team feeding)
 - Nicole Cheng (Undergraduate Directed Studies student, 2020)
+- Britya Ghosh, M.Sc. CELL Program.  [Lab of Dr. Mike Gordon](https://www.zoology.ubc.ca/~gordon/), UBC Zoology
 
 {% include feature_row %}
