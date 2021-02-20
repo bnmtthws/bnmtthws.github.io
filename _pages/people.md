@@ -34,7 +34,7 @@ feature_row2:
      url: "/people/#orna"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-   - image_path: /assets/images/larvae-sq.png
+   - image_path: /assets/images/tochor.jpg
      alt: "Nicholas Tochor"
      title: "Nicholas Tochor"
      excerpt: "Laboratory Technician"
@@ -152,7 +152,7 @@ Orna received her B.S.c in Zoology at University College Dublin in Ireland where
 
 ## Staff
 {: #nick }
-Nicholas Tochor (half time lab manager)
+Nick received his B.Sc. in Environmental Sciences and Biology at the University of British Columbia's Okanagan campus in December 2019. During his undergraduate degree, he worked in several labs specializing in landscape ecology. Past projects include a spatiotemporal analysis of grizzly bear habitat suitability North of Jasper, Alberta; an analysis of mycorrhizal connectivity between understory and canopy forest flora; an analysis of dark diversity patterns in global diatom species richness; and an analysis of the impacts of recreational land use on watersheds within public land in the Okanagan. He is now working as a lab technician in Ben Matthews’ and Doug Altshuler’s labs. When not in either lab, he enjoys hiking, biking, kayaking, surfing, and playing guitar.
 {: #baskhar }
 Baskhar Yechuri (part time electronics technician)
 
