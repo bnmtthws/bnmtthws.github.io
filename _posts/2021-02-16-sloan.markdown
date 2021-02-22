@@ -1,0 +1,13 @@
+---
+layout: posts
+title:  "Sloan Fellowship"
+date:   2021-02-16 19:00:00 -0800
+categories: lab news
+---
+
+We are very pleased that Ben has been awarded a 2021 Sloan Foundation Fellowship in Neurosciences, celebrating the hard work of everyone who has been through our young lab!
+
+[Zoology writeup](https://www.zoology.ubc.ca/article/ben-matthews-wins-2021-sloan-research-fellowship)
+
+[Faculty of Science writeup](https://science.ubc.ca/news/ubc-biologist-recognized-one-north-america%E2%80%99s-top-young-scientists)
+
