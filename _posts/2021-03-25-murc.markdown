@@ -1,0 +1,12 @@
+---
+layout: posts
+title:  "Congratulations to Aleks and Ana for their MURC presentations!"
+date:   2021-03-20 19:00:00 -0800
+categories: lab news
+---
+
+Congratulations to Aleksandra Anoshina and Ana Parra for giving fantastic oral presentations at this year's "Multidisciplinary Undergraduate Research Conference" (MURC).  You did the lab proud!
+
+![anascreen][screen]
+
+[screen]: assets/images/murc2021.png "MURC 2021"
