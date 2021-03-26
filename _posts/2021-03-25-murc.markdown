@@ -9,4 +9,4 @@ Congratulations to Aleksandra Anoshina and Ana Parra for giving fantastic oral p
 
 ![anascreen][screen]
 
-[screen]: assets/images/murc2021.png "MURC 2021"
+[screen]: /assets/images/murc2021.png "MURC 2021"
