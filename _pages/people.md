@@ -28,8 +28,8 @@ feature_row1:
 
 feature_row2:
    - image_path: /assets/images/orna.jpg
-     alt: "Orna Phalen"
-     title: "Orna Phalen"
+     alt: "Orna Phelan"
+     title: "Orna Phelan"
      excerpt: "M.Sc. student, Zoology"
      url: "/people/#orna"
      btn_label: "Read More"
@@ -145,7 +145,7 @@ Leisl received her B.Sc. in Zoology at University College London (UCL) in the UK
 <br/> <br/> 
 
 {: #orna}
-### Orna Phalen
+### Orna Phelan
 ### M.Sc. Student, Zoology
 
 Orna received her B.S.c in Zoology at University College Dublin in Ireland where she worked on a physiology project investigating the role of UTB transporters in cow rumen. She has an interest in physiology, molecular biology and entomology and now continues her work at the (Ben) Matthews lab investigating the genetic basis of oviposition behavior in the <i>Aedes togoi mosquito</i>.
