@@ -1,0 +1,8 @@
+---
+layout: posts
+title:  "Congratulations to 2021 grads!"
+date:   2021-06-22 13:00:00 -0800
+categories: lab news
+---
+
+Congratulations to Aleksandra Anoshina, Ivan Lo, and Ana Parra for successfully defending their Honour's theses and graduating this spring!  Congratulations also to Atbeen Rezazadah and Kunwar Puri, who also graduated with their B.Sc. in Biology!
