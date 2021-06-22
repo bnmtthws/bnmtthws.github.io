@@ -156,23 +156,24 @@ The research Dan is pursuing in the (Ben) Matthews lab will initially involve in
 [Email](mailto:peach@zoology.ubc.ca)
 
 {: #leisl }
-### Leisl Brewster 
-### M.Sc. Student, Zoology
+### Leisl Brewster, M.Sc. Student, Zoology
 
 Leisl received her B.Sc. in Zoology at University College London (UCL) in the UK where she completed a research project looking at the evolution of biomineralization in molluscs. Leisl now continues her work in invertebrate zoology, looking at the genomic and molecular mechanisms behind sensory behaviour in the <i>Aedes aegypti</i> mosquito.
 <br/> <br/> 
 
 {: #orna}
-### Orna Phelan
-### M.Sc. Student, Zoology
+### Orna Phelan, M.Sc. Student, Zoology
 
 Orna received her B.S.c in Zoology at University College Dublin in Ireland where she worked on a physiology project investigating the role of UTB transporters in cow rumen. She has an interest in physiology, molecular biology and entomology and now continues her work at the (Ben) Matthews lab investigating the genetic basis of oviposition behavior in the <i>Aedes togoi mosquito</i>.
 
 ## Staff
 {: #nick }
+### Nicholas Tochor, Research Technician
+
 Nick received his B.Sc. in Environmental Sciences and Biology at the University of British Columbia's Okanagan campus in December 2019. During his undergraduate degree, he worked in several labs specializing in landscape ecology. Past projects include a spatiotemporal analysis of grizzly bear habitat suitability North of Jasper, Alberta; an analysis of mycorrhizal connectivity between understory and canopy forest flora; an analysis of dark diversity patterns in global diatom species richness; and an analysis of the impacts of recreational land use on watersheds within public land in the Okanagan. He is now working as a lab technician in Ben Matthews’ and Doug Altshuler’s labs. When not in either lab, he enjoys hiking, biking, kayaking, surfing, and playing guitar.
-{: #Bhaskar }
-Bhaskar Yechuri (part time electronics technician)
+
+{: #Bhaskar}
+### Bhaskar Yechuri (part time electronics technician)
 
 ## Undergraduate researchers
 
