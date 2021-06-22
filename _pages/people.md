@@ -54,21 +54,21 @@ feature_row3:
    - image_path: /assets/images/larvae-sq.png
      alt: "Aleksandra Anoshina"
      title: "Aleksandra Anoshina"
-     excerpt: "Biology Honours Student"
+     excerpt: "Biology Honours Student, graduated 2021"
      url: "/people/#aleks"
      btn_label: "Read More"
      btn_class: "btn--inverse"
    - image_path: /assets/images/anaparra-sq.jpg
      alt: "Ana Parra"
      title: "Ana Parra"
-     excerpt: "Biology Honours student"
+     excerpt: "Biology Honours student, graduated 2021"
      url: "/people/#ana"
      btn_label: "Read More"
      btn_class: "btn--inverse"
    - image_path: /assets/images/ivanlo-sq.jpg
      alt: "Ivan Lo"
      title: "Ivan Lo"
-     excerpt: "Biology Honours student"
+     excerpt: "Biology Honours student, graduated 2021"
      url: "/people/#ivan"
      btn_label: "Read More"
      btn_class: "btn--inverse"
@@ -78,14 +78,14 @@ feature_row4:
    - image_path: /assets/images/larvae-sq.png
      alt: "Kunwar Puri"
      title: "Kunwar Puri"
-     excerpt: "Biology Directed Studies student"
+     excerpt: "Biology Directed Studies student, graduated 2021"
      url: "/people/#kunwar"
      btn_label: "Read More"
      btn_class: "btn--inverse"
    - image_path: /assets/images/atbeenrezazadah-sq.jpg
      alt: "Atbeen Rezazadah"
      title: "Atbeen Rezazadah"
-     excerpt: "Biology Directed Studies student"
+     excerpt: "Biology Directed Studies student, graduated 2021"
      url: "/people/#atbeen"
      btn_label: "Read More"
      btn_class: "btn--inverse"
@@ -96,6 +96,23 @@ feature_row4:
      url: "/people/#annie"
      btn_label: "Read More"
      btn_class: "btn--inverse"
+     
+feature_row5:
+   - image_path: /assets/images/larvae-sq.png
+     alt: "Lauren Semkow"
+     title: "Lauren Semkow"
+     excerpt: "UBC SURE awardee, 2021"
+     url: "/people/#lauren"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"
+   - image_path: /assets/images/larvae-sq.png
+     alt: "Joshua Chen"
+     title: "Joshua Chen"
+     excerpt: "UBC SURE awardee, 2021"
+     url: "/people/#joshua"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"
+
 sidebar:
      nav: "people"
 
@@ -105,6 +122,7 @@ sidebar:
 {% include feature_row id = "feature_row2" %}
 {% include feature_row id = "feature_row3" %}
 {% include feature_row id = "feature_row4" %}
+{% include feature_row id = "feature_row5" %}
 
 
 {: #ben }
@@ -175,13 +193,21 @@ Ana is currently part of a dual degree program at the University of British Colu
 Her research at the (Ben) Matthews Lab involves understanding the molecular differences between the larval stages of mosquitos <i>Aedes togoi</i> and <i>Aedes aegypti</i> that allows them to survive at distinct environmental conditions. 
 <br/><br/>
 
+{: #lauren}
+### Lauren Semkow (UBC SURE Awardee, summer 2021)
+<br/><br/>
+
+{: #joshua}
+### Joshua Chen (UBC SURE Awardee, summer 2021)
+<br/><br/>
+
 ### Directed studies
 
 {: #kunwar }
-### Kunwar Puri (BIOL448 Directed Studies student and member, team <i>togoi</i>, 2019-present)
+### Kunwar Puri (BIOL448 Directed Studies student and member, team <i>togoi</i>, 2019-2021)
 
 {: #atbeen }
-### Atbeen Rezazadah (BIOL448 Directed Studies student and member, team <i>togoi</i>, 2019-present)<br/>
+### Atbeen Rezazadah (BIOL448 Directed Studies student and member, team <i>togoi</i>, 2019-2021)<br/>
 
 Atbeen is a fourth year student at the University of British Columbia, and is expecting to receive his BSc in Biology in 2021. His work in the Matthews lab is focused on the behavioral studies in larval development of mosquitoes under varying abiotic conditions with a focus in determining which physiological factors are playing a significant role in making some mosquitoes widespread invasive organisms. Outside of the lab, Atbeen loves to bike, kayak and hike the extensive trails all over Vancouver, and during the winter, take advantage of the local ski slopes.
 <br/><br/>
@@ -195,7 +221,6 @@ Atbeen is a fourth year student at the University of British Columbia, and is ex
 - Ioana Fronea
 - Quinn Kelley
 - Ravneet Tiwana
-- Annie Zeng
 
 ## Alumni
 - Weison Chu (BIOL448 Directed Studies student and member, team feeding)
