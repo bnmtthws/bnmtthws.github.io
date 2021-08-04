@@ -48,7 +48,7 @@ Details on publications can also be found at [Google Scholar](https://scholar.go
 
 {: #reviews }
 ### Invited reviews
-- [How to turn an organism into a model organism in 10 'easy' steps](https://journals.biologists.com/jeb/article/223/Suppl_1/jeb218198/224666/How-to-turn-an-organism-into-a-model-organism-in) [PDF](https://journals.biologists.com/jeb/article-pdf/223/Suppl_1/jeb218198/1680082/jeb218198.pdf) <br/> **Matthews, B.J.** and Vosshall, L.B.<br/> *Journal of Experimental Biology* (2020) 223 (Suppl_1): jeb218198
+- [How to turn an organism into a model organism in 10 'easy' steps.](https://journals.biologists.com/jeb/article/223/Suppl_1/jeb218198/224666/How-to-turn-an-organism-into-a-model-organism-in) [PDF](https://journals.biologists.com/jeb/article-pdf/223/Suppl_1/jeb218198/1680082/jeb218198.pdf) <br/> **Matthews, B.J.** and Vosshall, L.B.<br/> *Journal of Experimental Biology* (2020) 223 (Suppl_1): jeb218198
 
 - [*Aedes aegypti*](https://www.cell.com/trends/genetics/fulltext/S0168-9525(19)30051-4) [PDF](https://authors.elsevier.com/a/1Z2Y3cQbIvPMY) <br/> **Matthews, B.J.** <br/> *Trends in Genetics* (2019) 35:470-471
 
@@ -58,6 +58,8 @@ Details on publications can also be found at [Google Scholar](https://scholar.go
 
 {: #press }
 ### Press
+- [UBC biologist recognized as one of North America’s top young scientists](https://science.ubc.ca/news/ubc-biologist-recognized-one-north-america%E2%80%99s-top-young-scientists)<br/> Silvia Moreno-Garcia, UBC Faculty of Science, February 16, 2021.
+- [Blood is the life: An appreciation of mosquitoes](https://focus.science.ubc.ca/mosquito-970c4d6de785)<br/> Silvia Moreno-Garcia, UBC Faculty of Science, October 19, 2020.
 - [Science Says: Why scientists prize plant, animal genomes](https://www.apnews.com/6b19552bee6a4b4c84d3aaaab7f37cdb) <br/> Malcolm Ritter, Associated Press, March 29 2019.
 - [Mosquito genome opens new avenues for reducing bug-borne disease](https://www.rockefeller.edu/news/24300-mosquito-genome-opens-new-avenues-reducing-bug-borne-disease/) <br/> Rockefeller University, November 14 2018.
 - [All the world's genes, at our fingertips](https://www.case.org/system/files/media/file/Rockefelleruniversity_SeekSpring2017_CRISPR.pdf) <br/> Alexander Gelfand, Rockefeller University, Spring 2017.
