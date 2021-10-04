@@ -68,7 +68,7 @@ feature_row3:
    - image_path: /assets/images/ivanlo-sq.jpg
      alt: "Ivan Lo"
      title: "Ivan Lo"
-     excerpt: "Biology Honours student, graduated 2021"
+     excerpt: "Biology Honours (2020-2021); M.Sc. (2021-present)"
      url: "/people/#ivan"
      btn_label: "Read More"
      btn_class: "btn--inverse"
