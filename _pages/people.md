@@ -82,15 +82,36 @@ feature_row4:
      btn_label: "Read More"
      btn_class: "btn--inverse"
    - image_path: /assets/images/larvae-sq.png
+     alt: "Quinn Kelley"
+     title: "Quinn Kelley"
+     excerpt: "Biology Directed Studies student"
+     url: "/people/#quinn"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"
+   - image_path: /assets/images/larvae-sq.png
+     alt: "Andrew Oh"
+     title: "Andrew Oh"
+     excerpt: "Biology Directed Studies"
+     url: "/people/#andrew"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"     
+
+     
+feature_row5:
+   - image_path: /assets/images/larvae-sq.png
+     alt: "Smit Patel"
+     title: "Smit Patel"
+     excerpt: "Biology Directed Studies student"
+     url: "/people/#smit"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"
+   - image_path: /assets/images/larvae-sq.png
      alt: "Maryann Rogers"
      title: "Maryann Rogers"
      excerpt: "Biology Honours Student"
      url: "/people/#maryann"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-
-     
-feature_row5:
    - image_path: /assets/images/larvae-sq.png
      alt: "Lauren Semkow"
      title: "Lauren Semkow"
@@ -98,6 +119,9 @@ feature_row5:
      url: "/people/#lauren"
      btn_label: "Read More"
      btn_class: "btn--inverse"
+
+
+feature_row6:
    - image_path: /assets/images/larvae-sq.png
      alt: "Parsa Seyfourian"
      title: "Parsa Seyfourian"
@@ -106,13 +130,29 @@ feature_row5:
      btn_label: "Read More"
      btn_class: "btn--inverse"     
    - image_path: /assets/images/larvae-sq.png
+     alt: "Shruti Swami"
+     title: "Shruti Swami"
+     excerpt: "Integrated Sciences Directed Studies student"
+     url: "/people/#shruti"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"
+   - image_path: /assets/images/larvae-sq.png
      alt: "Annie Zeng"
      title: "Annie Zeng"
      excerpt: "Biology Directed Studies student"
      url: "/people/#annie"
      btn_label: "Read More"
      btn_class: "btn--inverse"
+
      
+feature_row7:
+   - image_path: /assets/images/dirk.png
+     alt: "Dirk VandePol"
+     title: "Dirk VandePol"
+     excerpt: "Biology Directed Studies student"
+     url: "/people/#dirk"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"          
      
 sidebar:
      nav: "people"
@@ -124,6 +164,8 @@ sidebar:
 {% include feature_row id = "feature_row3" %}
 {% include feature_row id = "feature_row4" %}
 {% include feature_row id = "feature_row5" %}
+{% include feature_row id = "feature_row6" %}
+{% include feature_row id = "feature_row7" %}
 
 
 {: #ben }
@@ -157,21 +199,16 @@ The research Dan is pursuing in the (Ben) Matthews lab will initially involve in
 [Email](mailto:peach@zoology.ubc.ca)
 <br/><br/>
 
+
+{: #tahnee}
+### Tahnee Ames, M.Sc. student, Zoology (2021-present)
+<br/><br/>
+
 {: #leisl }
 ### Leisl Brewster, M.Sc. Student, Zoology (2020-present)
 
 Leisl received her B.Sc. in Zoology at University College London (UCL) in the UK where she completed a research project looking at the evolution of biomineralization in molluscs. Leisl now continues her work in invertebrate zoology, looking at the genomic and molecular mechanisms behind sensory behaviour in the <i>Aedes aegypti</i> mosquito.
 <br/> <br/> 
-
-{: #orna}
-### Orna Phelan, M.Sc. Student, Zoology (2021-present)
-
-Orna received her B.S.c in Zoology at University College Dublin in Ireland where she worked on a physiology project investigating the role of UTB transporters in cow rumen. She has an interest in physiology, molecular biology and entomology and now continues her work at the (Ben) Matthews lab investigating the genetic basis of oviposition behavior in the <i>Aedes togoi mosquito</i>.
-<br/> <br/>
-
-{: #tahnee}
-### Tahnee Ames, M.Sc. student, Zoology (2021-present)
-<br/><br/>
 
 {: #elsa}
 ### Elsa Cyr, M.Sc. Student, Zoology (2021-present))
@@ -186,7 +223,11 @@ Ivan is currently an M.Sc. student in Zoology after completing an Honours Animal
 His current research here in the Matthews Lab is on improving genetic editing in <i>Aedes aegypti</i> mosquitoes via CRISPR/Cas9 technology. He hopes to increase DNA repair rates using germline genes. When Ivan is not in the lab, he enjoys baking at home or dancing as part of a Hip Hop dance team.
 <br/><br/>
 
+{: #orna}
+### Orna Phelan, M.Sc. Student, Zoology (2021-present)
 
+Orna received her B.S.c in Zoology at University College Dublin in Ireland where she worked on a physiology project investigating the role of UTB transporters in cow rumen. She has an interest in physiology, molecular biology and entomology and now continues her work at the (Ben) Matthews lab investigating the genetic basis of oviposition behavior in the <i>Aedes togoi mosquito</i>.
+<br/> <br/>
 
 
 ## Staff
@@ -238,6 +279,12 @@ Nick received his B.Sc. in Environmental Sciences and Biology at the University 
 {: #annie }
 ### Annie Zeng (BIOL448 Directed Studies student, 2021)
 <br/><br/>
+
+## Visiting scientists
+{: #dirk}
+Greetings dear webpage reader,
+I’m Dirk VandePol, an unassigned sessional lecturer, joining the lab in some limited capacity, to occupy my time hopefully for at least three months. Hopefully during this time I’ll get ideas to contribute to the lab, and ideas to enrich my teaching through deep contemplation of mosquitoes.
+ 
 
 
 ## Alumni
