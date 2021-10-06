@@ -60,7 +60,7 @@ feature_row3:
    - image_path: /assets/images/larvae-sq.png
      alt: "Jonathan Chiang"
      title: "Jonathan Chiang"
-     excerpt: "Research Assistant, UBC Biology Co-op"
+     excerpt: "Research Assistant, UBC Biology Co-op Program"
      url: "/people/#jonathan"
      btn_label: "Read More"
      btn_class: "btn--inverse"     

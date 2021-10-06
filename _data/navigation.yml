@@ -30,27 +30,40 @@ people:
         url: /people/#ben
       - title: "Dan Peach"
         url: /people/#dan
+      - title: "Tahnee Ames"
+        url: /people/#tahnee
       - title: "Leisl Brewster"
         url: /people/#leisl
-      - title: "Orna Phelan"
-        url: /people/#orna
-      - title: "Nick Tochor"
-        url: /people/#nick
-      - title: "Bhaskar Yechuri"
-        url: /people/#bhaskar
-      - title: "Aleksandra Anoshina"
-        url: /people/#aleks
+      - title: "Elsa Cyr"
+        url: /people/#elsa
       - title: "Ivan Lo"
         url: /people/#ivan
-      - title: "Ana Parra"
-        url: /people/#ana
-      - title: "Kunwar Puri"
-        url: /people/#kunwar
-      - title: "Atbeen Rezazadah"
-        url: /people/#atbeen
+      - title: "Orna Phelan"
+        url: /people/#orna
+      - title: "Jonathan Chiang"
+        url: /people/#jonathan
+      - title: "Nick Tochor"
+        url: /people/#nick
+      - title: "Joshua Chen"
+        url: /people/#joshua
+      - title: "Quinn Kelley"
+        url: /people/#quinn
+      - title: "Andrew Oh"
+        url: /people/#andrew
+      - title: "Smit Patel"
+        url: /people/#smit
+      - title: "Maryann Rogers"
+        url: /people/#maryann
+      - title: "Lauren Semkow"
+        url: /people/#lauren
+      - title: "Parsa Seyfourian"
+        url: /people/#parsa
+      - title: "Shruti Swami"
+        url: /people/#shruti
       - title: "Annie Zeng"
         url: /people/#annie
-        
+      - title: "Dirk VandePol"
+        url: /people/#dirk
                 
 protocols:
  - title: Protocols
