@@ -27,6 +27,20 @@ feature_row1:
 
 
 feature_row2:
+   - image_path: /assets/images/elsa.png
+     alt: "Elsa Cyr"
+     title: "Elsa Cyr"
+     excerpt: "M.Sc. student, Zoology"
+     url: "/people/#elsa"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"
+   - image_path: /assets/images/ivanlo-sq.jpg
+     alt: "Ivan Lo"
+     title: "Ivan Lo"
+     excerpt: "M.Sc. student, Zoology"
+     url: "/people/#ivan"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"
    - image_path: /assets/images/orna.jpg
      alt: "Orna Phelan"
      title: "Orna Phelan"
@@ -34,6 +48,10 @@ feature_row2:
      url: "/people/#orna"
      btn_label: "Read More"
      btn_class: "btn--inverse"
+
+
+
+feature_row3:
    - image_path: /assets/images/tochor.jpg
      alt: "Nicholas Tochor"
      title: "Nicholas Tochor"
@@ -41,17 +59,7 @@ feature_row2:
      url: "/people/#nick"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-
-
-feature_row3:
-   - image_path: /assets/images/ivanlo-sq.jpg
-     alt: "Ivan Lo"
-     title: "Ivan Lo"
-     excerpt: "Biology Honours (2020-2021); M.Sc. (2021-present)"
-     url: "/people/#ivan"
-     btn_label: "Read More"
-     btn_class: "btn--inverse"
-
+     
 
 feature_row4:
    - image_path: /assets/images/larvae-sq.png
@@ -179,8 +187,12 @@ Nick received his B.Sc. in Environmental Sciences and Biology at the University 
 ### Andrew Oh (BIOL448 Directed Studies student, 2021)
 <br/>
 
-{: #smit }
+{: #smit}
 ### Smit Patel (BIOL448 Directed Studies student, 2021)
+<br/>
+
+{: #maryann}
+### Maryann Rogers (Biology Honours Student, 2021)
 <br/>
 
 {: #lauren}
@@ -199,10 +211,6 @@ Nick received his B.Sc. in Environmental Sciences and Biology at the University 
 ### Annie Zeng (BIOL448 Directed Studies student, 2021)
 <br/><br/>
 
-### Undergraduate volunteers
-- Ioana Fronea
-- Quinn Kelley
-- Ravneet Tiwana
 
 ## Alumni
 - Bhaskar Yechuri (part time electronics technician, 2020-2021)
