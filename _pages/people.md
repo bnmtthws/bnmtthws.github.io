@@ -81,7 +81,7 @@ feature_row4:
      url: "/people/#joshua"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-   - image_path: /assets/images/larvae-sq.png
+   - image_path: /assets/images/quinn.jpg
      alt: "Quinn Kelley"
      title: "Quinn Kelley"
      excerpt: "Biology Directed Studies student"
