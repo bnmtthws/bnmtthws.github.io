@@ -149,7 +149,7 @@ feature_row7:
    - image_path: /assets/images/dirk.png
      alt: "Dirk VandePol"
      title: "Dirk VandePol"
-     excerpt: "Biology Directed Studies student"
+     excerpt: "Visiting Scientist"
      url: "/people/#dirk"
      btn_label: "Read More"
      btn_class: "btn--inverse"          
