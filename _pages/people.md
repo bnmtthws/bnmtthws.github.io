@@ -51,20 +51,7 @@ feature_row2:
 
 
 feature_row3:
-   - image_path: /assets/images/larvae-sq.png
-     alt: "Aleksandra Anoshina"
-     title: "Aleksandra Anoshina"
-     excerpt: "Biology Honours Student, graduated 2021"
-     url: "/people/#aleks"
-     btn_label: "Read More"
-     btn_class: "btn--inverse"
-   - image_path: /assets/images/anaparra-sq.jpg
-     alt: "Ana Parra"
-     title: "Ana Parra"
-     excerpt: "Biology Honours student, graduated 2021"
-     url: "/people/#ana"
-     btn_label: "Read More"
-     btn_class: "btn--inverse"
+
    - image_path: /assets/images/ivanlo-sq.jpg
      alt: "Ivan Lo"
      title: "Ivan Lo"
@@ -156,15 +143,36 @@ The research Dan is pursuing in the (Ben) Matthews lab will initially involve in
 [Email](mailto:peach@zoology.ubc.ca)
 
 {: #leisl }
-### Leisl Brewster, M.Sc. Student, Zoology
+### Leisl Brewster, M.Sc. Student, Zoology (2020-present)
 
 Leisl received her B.Sc. in Zoology at University College London (UCL) in the UK where she completed a research project looking at the evolution of biomineralization in molluscs. Leisl now continues her work in invertebrate zoology, looking at the genomic and molecular mechanisms behind sensory behaviour in the <i>Aedes aegypti</i> mosquito.
 <br/> <br/> 
 
 {: #orna}
-### Orna Phelan, M.Sc. Student, Zoology
+### Orna Phelan, M.Sc. Student, Zoology (2021-present)
 
 Orna received her B.S.c in Zoology at University College Dublin in Ireland where she worked on a physiology project investigating the role of UTB transporters in cow rumen. She has an interest in physiology, molecular biology and entomology and now continues her work at the (Ben) Matthews lab investigating the genetic basis of oviposition behavior in the <i>Aedes togoi mosquito</i>.
+<br/> <br/>
+
+{: #tahnee}
+### Tahnee Ames, M.Sc. student, Zoology (2021-present)
+<br/><br/>
+
+{: #elsa}
+### Elsa Cyr, M.Sc. Student, Zoology (2021-present))
+Elsa received her B.Sc. in Biology at UBC where she completed a research project investigating optimal flight patterns in birds with various stimuli. She has an interest in physiology, genetics, and neurobiology. Elsa now works in the Ben Matthews lab and the Mike Gordon lab investigating the cellular and molecular basis of taste processing in <i>Aedes aegypti</i> mosquitoes using the <i>Drosophila melanogaster</i> taste mechanism model.
+[Email](mailto:ecyr@zoology.ubc.ca)
+<br/><br/>
+
+{: #ivan}
+### Ivan Lo, M.Sc. student, Zoology, 2021-present; Biology Honours student, 2020-2021
+
+Ivan is currently an M.Sc. student in Zoology after completing an Honours Animal Biology program at UBC. He has previously completed Co-op internship abroad in Singapore at the Genome Institute of Singapore. In the Tang Meng How Lab, his focus area is on DNA and RNA editing, including CRISPR/Cas9 truncation and RNA editing in colorectal cancer cells. He later came back to Vancouver for a Co-op placement in Applied Biological Materials (abm) as a research student.
+His current research here in the Matthews Lab is on improving genetic editing in <i>Aedes aegypti</i> mosquitoes via CRISPR/Cas9 technology. He hopes to increase DNA repair rates using germline genes. When Ivan is not in the lab, he enjoys baking at home or dancing as part of a Hip Hop dance team.
+<br/><br/>
+
+
+
 
 ## Staff
 {: #nick }
@@ -180,22 +188,22 @@ Nick received his B.Sc. in Environmental Sciences and Biology at the University 
 ### USRAs and Honours students
 {: #aleks }
 ### Aleksandra Anoshina (NSERC USRA, 2020 and UBC Biology Honours student, 2020-2021)
-{: #ivan }
-### Ivan Lo (UBC Biology Honours student, 2020-2021) 
 
-Ivan is currently a student in the Honors Animal Biology program at the University of British Columbia. He has previously completed Co-op internship abroad in Singapore at the Genome Institute of Singapore. In the Tang Meng How Lab, his focus area is on DNA and RNA editing, including CRISPR/Cas9 truncation and RNA editing in colorectal cancer cells. He later came back to Vancouver for a Co-op placement in Applied Biological Materials (abm) as a research student.
-His current research here in the Matthews Lab is on improving genetic editing in <i>Aedes aegypti</i> mosquitoes via CRISPR/Cas9 technology. He hopes to increase DNA repair rates using germline genes. When Ivan is not in the lab, he enjoys baking at home or dancing as part of a Hip Hop dance team.
-<br/><br/>
-{: #ana }
-### Ana Parra (UBC BIology Honours student, 2020-2021)
-
-Ana is currently part of a dual degree program at the University of British Columbia comprised of a Bachelor of Science with Honors in Animal Biology and a Master of Management. On top of that, she's the Vice-President of the UBC Biological Sciences Society. She recently completed a 12-month co-op placement at the Vancouver Prostate Centre, where she focused on androgen receptor mutants transcriptional responses to anti-androgen drugs, in the attempt to allow cancer treatments to be more patient-specific. Outside the lab you will find her hiking or learning how to use her camera to capture the beauty of animals. 
-
-Her research at the (Ben) Matthews Lab involves understanding the molecular differences between the larval stages of mosquitos <i>Aedes togoi</i> and <i>Aedes aegypti</i> that allows them to survive at distinct environmental conditions. 
-<br/><br/>
 
 {: #lauren}
-### Lauren Semkow (UBC SURE Awardee, summer 2021)
+### Lauren Semkow (UBC SURE Awardee, summer 2021 and BIOL448 Directed Studies Student, 2021)
+<br/><br/>
+
+{: #parsa}
+### Parsa Seyfourian (BIOL448 Directed Studies student, 2021)
+<br/><br/>
+
+{: #shruti}
+### 
+<br/><br/>
+
+{: #andrew}
+### Andrew Oh (BIOL448 Directed Studies student, 2021)
 <br/><br/>
 
 {: #joshua}
@@ -203,14 +211,8 @@ Her research at the (Ben) Matthews Lab involves understanding the molecular diff
 <br/><br/>
 
 ### Directed studies
-
-{: #kunwar }
-### Kunwar Puri (BIOL448 Directed Studies student and member, team <i>togoi</i>, 2019-2021)
-
-{: #atbeen }
-### Atbeen Rezazadah (BIOL448 Directed Studies student and member, team <i>togoi</i>, 2019-2021)<br/>
-
-Atbeen is a fourth year student at the University of British Columbia, and is expecting to receive his BSc in Biology in 2021. His work in the Matthews lab is focused on the behavioral studies in larval development of mosquitoes under varying abiotic conditions with a focus in determining which physiological factors are playing a significant role in making some mosquitoes widespread invasive organisms. Outside of the lab, Atbeen loves to bike, kayak and hike the extensive trails all over Vancouver, and during the winter, take advantage of the local ski slopes.
+{: #smit }
+### Smit Patel (BIOL448 Directed Studies student, 2021)
 <br/><br/>
 
 {: #annie }
@@ -224,10 +226,13 @@ Atbeen is a fourth year student at the University of British Columbia, and is ex
 - Ravneet Tiwana
 
 ## Alumni
-- Weison Chu (BIOL448 Directed Studies student and member, team feeding)
-- Kevin Poon (BIOL448 Directed Studies student and member, team feeding)
-- Madhurya Sekhar (BIOL448 Directed Studies student and member, team feeding)
+- Ana Parra (Biology Honours student, 2020-2021)
+- Kunwar Puri (BIOL448 Directed Studies student and member, team togoi; 2019-2021)
+- Atbeen Rezazadah (BIOL448 Directed Studies student and member, team togoi; 2019-2021)
+- Weison Chu (BIOL448 Directed Studies student and member, team feeding; 2019-2020)
+- Kevin Poon (BIOL448 Directed Studies student and member, team feeding; 2019-2020)
+- Madhurya Sekhar (BIOL448 Directed Studies student and member, team feeding; 2019-2020)
 - Nicole Cheng (Undergraduate Directed Studies student, 2020)
-- Britya Ghosh, M.Sc. CELL Program.  [Lab of Dr. Mike Gordon](https://www.zoology.ubc.ca/~gordon/), UBC Zoology
+- Britya Ghosh, M.Sc. CELL Program 2020.  [Lab of Dr. Mike Gordon](https://www.zoology.ubc.ca/~gordon/), UBC Zoology
 
 {% include feature_row %}
