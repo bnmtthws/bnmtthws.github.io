@@ -105,7 +105,7 @@ feature_row5:
      url: "/people/#smit"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-   - image_path: /assets/images/larvae-sq.png
+   - image_path: /assets/images/maryann.jpg
      alt: "Maryann Rogers"
      title: "Maryann Rogers"
      excerpt: "Biology Honours Student"
