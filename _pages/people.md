@@ -17,6 +17,15 @@ feature_row1:
      url: "/people/#dan"
      btn_label: "Read More"
      btn_class: "btn--inverse"
+   - image_path: /assets/images/larvae-sq.png
+     alt: "Tahnee Ames"
+     title: "Tahnee Ames"
+     excerpt: "M.Sc. student, Zoology"
+     url: "/people/#tahnee"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"
+
+feature_row2:
    - image_path: /assets/images/leislbrewster-sq.jpg
      alt: "Leisl Brewster"
      title: "Leisl Brewster"
@@ -24,9 +33,6 @@ feature_row1:
      url: "/people/#leisl"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-
-
-feature_row2:
    - image_path: /assets/images/elsa.png
      alt: "Elsa Cyr"
      title: "Elsa Cyr"
@@ -41,6 +47,9 @@ feature_row2:
      url: "/people/#ivan"
      btn_label: "Read More"
      btn_class: "btn--inverse"
+
+
+feature_row3:
    - image_path: /assets/images/orna.jpg
      alt: "Orna Phelan"
      title: "Orna Phelan"
@@ -48,20 +57,54 @@ feature_row2:
      url: "/people/#orna"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-
-
-
-feature_row3:
+   - image_path: /assets/images/larvae-sq.png
+     alt: "Jonathan Chiang"
+     title: "Jonathan Chiang"
+     excerpt: "Research Assistant, UBC Biology Co-op"
+     url: "/people/#jonathan"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"     
    - image_path: /assets/images/tochor.jpg
      alt: "Nicholas Tochor"
      title: "Nicholas Tochor"
-     excerpt: "Laboratory Technician"
+     excerpt: "Laboratory Technician & Lab Manager"
      url: "/people/#nick"
      btn_label: "Read More"
      btn_class: "btn--inverse"
      
 
 feature_row4:
+   - image_path: /assets/images/larvae-sq.png
+     alt: "Joshua Chen"
+     title: "Joshua Chen"
+     excerpt: "Biology Honours Student"
+     url: "/people/#joshua"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"
+   - image_path: /assets/images/larvae-sq.png
+     alt: "Maryann Rogers"
+     title: "Maryann Rogers"
+     excerpt: "Biology Honours Student"
+     url: "/people/#maryann"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"
+
+     
+feature_row5:
+   - image_path: /assets/images/larvae-sq.png
+     alt: "Lauren Semkow"
+     title: "Lauren Semkow"
+     excerpt: "Biology Directed Studies student"
+     url: "/people/#lauren"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"
+   - image_path: /assets/images/larvae-sq.png
+     alt: "Parsa Seyfourian"
+     title: "Parsa Seyfourian"
+     excerpt: "Biology Directed Studies student"
+     url: "/people/#parsa"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"     
    - image_path: /assets/images/larvae-sq.png
      alt: "Annie Zeng"
      title: "Annie Zeng"
@@ -70,22 +113,7 @@ feature_row4:
      btn_label: "Read More"
      btn_class: "btn--inverse"
      
-feature_row5:
-   - image_path: /assets/images/larvae-sq.png
-     alt: "Lauren Semkow"
-     title: "Lauren Semkow"
-     excerpt: "UBC SURE awardee, 2021"
-     url: "/people/#lauren"
-     btn_label: "Read More"
-     btn_class: "btn--inverse"
-   - image_path: /assets/images/larvae-sq.png
-     alt: "Joshua Chen"
-     title: "Joshua Chen"
-     excerpt: "UBC SURE awardee, 2021"
-     url: "/people/#joshua"
-     btn_label: "Read More"
-     btn_class: "btn--inverse"
-
+     
 sidebar:
      nav: "people"
 
