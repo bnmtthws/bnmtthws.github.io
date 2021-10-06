@@ -41,17 +41,9 @@ feature_row2:
      url: "/people/#nick"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-   - image_path: /assets/images/bhaskar.jpg
-     alt: "Bhaskar Yechuri"
-     title: "Bhaskar Yechuri"
-     excerpt: "Electronics Technician"
-     url: "/people/#bhaskar"
-     btn_label: "Read More"
-     btn_class: "btn--inverse"
 
 
 feature_row3:
-
    - image_path: /assets/images/ivanlo-sq.jpg
      alt: "Ivan Lo"
      title: "Ivan Lo"
@@ -62,20 +54,6 @@ feature_row3:
 
 
 feature_row4:
-   - image_path: /assets/images/larvae-sq.png
-     alt: "Kunwar Puri"
-     title: "Kunwar Puri"
-     excerpt: "Biology Directed Studies student, graduated 2021"
-     url: "/people/#kunwar"
-     btn_label: "Read More"
-     btn_class: "btn--inverse"
-   - image_path: /assets/images/atbeenrezazadah-sq.jpg
-     alt: "Atbeen Rezazadah"
-     title: "Atbeen Rezazadah"
-     excerpt: "Biology Directed Studies student, graduated 2021"
-     url: "/people/#atbeen"
-     btn_label: "Read More"
-     btn_class: "btn--inverse"
    - image_path: /assets/images/larvae-sq.png
      alt: "Annie Zeng"
      title: "Annie Zeng"
@@ -179,53 +157,54 @@ His current research here in the Matthews Lab is on improving genetic editing in
 ### Nicholas Tochor, Research Technician
 
 Nick received his B.Sc. in Environmental Sciences and Biology at the University of British Columbia's Okanagan campus in December 2019. During his undergraduate degree, he worked in several labs specializing in landscape ecology. Past projects include a spatiotemporal analysis of grizzly bear habitat suitability North of Jasper, Alberta; an analysis of mycorrhizal connectivity between understory and canopy forest flora; an analysis of dark diversity patterns in global diatom species richness; and an analysis of the impacts of recreational land use on watersheds within public land in the Okanagan. He is now working as a lab technician in Ben Matthews’ and Doug Altshuler’s labs. When not in either lab, he enjoys hiking, biking, kayaking, surfing, and playing guitar.
-
-{: #Bhaskar}
-### Bhaskar Yechuri (part time electronics technician)
+<br/>
+{: #jonathan}
+### Jonathan Chiang, Biology Co-op Undergraduate Research Assistant
 
 ## Undergraduate researchers
 
-### USRAs and Honours students
 {: #aleks }
 ### Aleksandra Anoshina (NSERC USRA, 2020 and UBC Biology Honours student, 2020-2021)
 
+{: #joshua}
+### Joshua Chen (Biology Honours Student; UBC SURE Awardee, summer 2021)
+<br/>
 
-{: #lauren}
-### Lauren Semkow (UBC SURE Awardee, summer 2021 and BIOL448 Directed Studies Student, 2021)
-<br/><br/>
-
-{: #parsa}
-### Parsa Seyfourian (BIOL448 Directed Studies student, 2021)
-<br/><br/>
-
-{: #shruti}
-### 
-<br/><br/>
+{: #quinn}
+### Quinn Kelley (BIOL448 Directed Studies student, 2021)
+<br/>
 
 {: #andrew}
 ### Andrew Oh (BIOL448 Directed Studies student, 2021)
-<br/><br/>
+<br/>
 
-{: #joshua}
-### Joshua Chen (UBC SURE Awardee, summer 2021)
-<br/><br/>
-
-### Directed studies
 {: #smit }
 ### Smit Patel (BIOL448 Directed Studies student, 2021)
-<br/><br/>
+<br/>
+
+{: #lauren}
+### Lauren Semkow (UBC SURE Awardee, summer 2021 and BIOL448 Directed Studies Student, 2021)
+<br/>
+
+{: #parsa}
+### Parsa Seyfourian (BIOL448 Directed Studies student, 2021)
+<br/>
+
+{: #shruti}
+### Shruti Swami (Integrated Sciences Directed Studies Student, 2021)
+<br/>
 
 {: #annie }
 ### Annie Zeng (BIOL448 Directed Studies student, 2021)
 <br/><br/>
 
 ### Undergraduate volunteers
-- Jonathan Chiang
 - Ioana Fronea
 - Quinn Kelley
 - Ravneet Tiwana
 
 ## Alumni
+- Bhaskar Yechuri (part time electronics technician, 2020-2021)
 - Ana Parra (Biology Honours student, 2020-2021)
 - Kunwar Puri (BIOL448 Directed Studies student and member, team togoi; 2019-2021)
 - Atbeen Rezazadah (BIOL448 Directed Studies student and member, team togoi; 2019-2021)
