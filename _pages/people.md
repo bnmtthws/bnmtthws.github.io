@@ -111,14 +111,15 @@ At UBC, Ben is an Assistant Professor in the Comparative Physiology Group of the
 
 
 Dan completed his BSc (with Distinction) and PhD (in the lab of Gerhard Gries) at Simon Fraser University. His PhD work focused on the ecology and sensory ecology of mosquitoes and their interactions with plants, during which he discovered that mosquitoes use the same cues to locate floral nectar that they use to locate vertebrate hosts, shedding light on the evolutionary origin of mosquito blood-feeding. He received an NSERC doctoral postgraduate scholarship, an SFU Provost’s Prize of Distinction, an ESC John Borden award, and was a Canadian national finalist in the Three Minute Thesis Competition.
-<br/><br/>
+<br/>
 
 The research Dan is pursuing in the (Ben) Matthews lab will initially involve investigating egg-deposition in mosquitoes at different biological levels, including the genomic, molecular, physiological, and ecological, to determine what makes some mosquitoes so good at exploiting novel habitat and becoming widespread invasive organisms. He is the recipient of a three-year Trainee Award from the Michael Smith Foundation for Health Research to support his work.
-<br/><br/>
+<br/>
 
 [Website](http://www.danpeach.net)
 [Twitter](https://twitter.com/DanPeach3)
 [Email](mailto:peach@zoology.ubc.ca)
+<br/><br/>
 
 {: #leisl }
 ### Leisl Brewster, M.Sc. Student, Zoology (2020-present)
