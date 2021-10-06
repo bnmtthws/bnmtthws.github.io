@@ -177,7 +177,7 @@ Ben received a BS in Biology from the California Institute of Technology in 2004
 At UBC, Ben is an Assistant Professor in the Comparative Physiology Group of the [Department of Zoology](https://www.zoology.ubc.ca). He is also a member of the [Djavad Mowafaghian Centre for Brain Health](https://www.centreforbrainhealth.ca), the [Biodiversity Research Centre](https://biodiversity.ubc.ca/) and the [Genome Science and Technology](https://www.gsat.ubc.ca) training program. He has received a Sloan Foundation Fellowship in the Neurosciences and a Scholar Award from the Michael Smith Foundation for Health Research.
 <br/><br/>
 
-[CV](/assets/pdf/BenMatthews_CV_20190628.pdf)
+[CV](/assets/pdf/BenMatthews_CV_20211006.pdf)
 [Email](mailto:ben.matthews@zoology.ubc.ca)
 
 ## Postdoctoral researchers and graduate students
