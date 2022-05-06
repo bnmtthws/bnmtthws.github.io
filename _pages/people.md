@@ -256,7 +256,7 @@ I’m Dirk VandePol, an unassigned sessional lecturer, joining the lab in some l
 - Quinn Kelley (Biology Directed Studies student, 2021)
 - Andrew Oh (Biology Directed Studies student, 2021-2022)
 - Smit Patel (Biology Directed Studies student, 2021-2022)
-- Lauren Semkow (Biology Directed Studies student, 2021-2022)
+- Lauren Semkow (Biology Directed Studies student and UBC SURE awardee, 2021-2022)
 - Annie Zeng (Biology Directed Studies student, 2020-2021)
 - Bhaskar Yechuri (part time electronics technician, 2020-2021)
 - Ana Parra (Biology Honours student, 2020-2021)
