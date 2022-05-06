@@ -96,7 +96,7 @@ feature_row4:
      btn_label: "Read More"
      btn_class: "btn--inverse"     
 
-feature_row4:
+feature_row5:
    - image_path: /assets/images/larvae-sq.png
      alt: "Cassidy Mark"
      title: "Cassidy Mark"
