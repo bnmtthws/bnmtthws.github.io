@@ -64,16 +64,6 @@ feature_row3:
      url: "/people/#orna"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-   - image_path: /assets/images/larvae-sq.png
-     alt: "Jonathan Chiang"
-     title: "Jonathan Chiang"
-     excerpt: "Research Assistant, UBC Biology Co-op Program"
-     url: "/people/#jonathan"
-     btn_label: "Read More"
-     btn_class: "btn--inverse"     
-     
-
-feature_row4:
    - image_path: /assets/images/tochor.jpg
      alt: "Nicholas Tochor"
      title: "Nicholas Tochor"
@@ -81,6 +71,9 @@ feature_row4:
      url: "/people/#nick"
      btn_label: "Read More"
      btn_class: "btn--inverse"
+
+feature_row4:
+
    - image_path: /assets/images/larvae-sq.png
      alt: "Joshua Chen"
      title: "Joshua Chen"
@@ -88,23 +81,6 @@ feature_row4:
      url: "/people/#joshua"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-   - image_path: /assets/images/quinn.jpg
-     alt: "Quinn Kelley"
-     title: "Quinn Kelley"
-     excerpt: "Biology Directed Studies student"
-     url: "/people/#quinn"
-     btn_label: "Read More"
-     btn_class: "btn--inverse"
-   - image_path: /assets/images/larvae-sq.png
-     alt: "Andrew Oh"
-     title: "Andrew Oh"
-     excerpt: "Biology Directed Studies"
-     url: "/people/#andrew"
-     btn_label: "Read More"
-     btn_class: "btn--inverse"     
-
-     
-feature_row5:
    - image_path: /assets/images/maryann.jpg
      alt: "Maryann Rogers"
      title: "Maryann Rogers"
@@ -113,39 +89,28 @@ feature_row5:
      btn_label: "Read More"
      btn_class: "btn--inverse"
    - image_path: /assets/images/larvae-sq.png
-     alt: "Lauren Semkow"
-     title: "Lauren Semkow"
-     excerpt: "Biology Directed Studies student"
-     url: "/people/#lauren"
-     btn_label: "Read More"
-     btn_class: "btn--inverse"
-
-
-feature_row6:
-   - image_path: /assets/images/larvae-sq.png
      alt: "Parsa Seyfourian"
      title: "Parsa Seyfourian"
      excerpt: "Biology Directed Studies student"
      url: "/people/#parsa"
      btn_label: "Read More"
      btn_class: "btn--inverse"     
+
+feature_row4:
    - image_path: /assets/images/larvae-sq.png
-     alt: "Shruti Swami"
-     title: "Shruti Swami"
-     excerpt: "Integrated Sciences Directed Studies student"
-     url: "/people/#shruti"
-     btn_label: "Read More"
-     btn_class: "btn--inverse"
-   - image_path: /assets/images/larvae-sq.png
-     alt: "Annie Zeng"
-     title: "Annie Zeng"
-     excerpt: "Biology Directed Studies student"
+     alt: "Cassidy Mark"
+     title: "Cassidy Mark"
+     excerpt: "Co-op Researcher"
      url: "/people/#annie"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-
-     
-feature_row7:
+   - image_path: /assets/images/larvae-sq.png
+     alt: "Danica Shannon"
+     title: "Danica Shannon"
+     excerpt: "Biology Directed Studies Student and Co-op Researcher"
+     url: "/people/#shruti"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"
    - image_path: /assets/images/dirk.png
      alt: "Dirk VandePol"
      title: "Dirk VandePol"
@@ -248,27 +213,13 @@ Nick received his B.Sc. in Environmental Sciences and Biology at the University 
 
 ## Undergraduate researchers
 
-{: #aleks }
-### Aleksandra Anoshina (NSERC USRA, 2020 and UBC Biology Honours student, 2020-2021)
 
 {: #joshua}
-### Joshua Chen (Biology Honours Student; UBC SURE Awardee, summer 2021)
-<br/>
-
-{: #quinn}
-### Quinn Kelley (BIOL448 Directed Studies student, 2021)
-<br/>
-
-{: #andrew}
-### Andrew Oh (BIOL448 Directed Studies student, 2021)
-<br/>
-
-{: #smit}
-### Smit Patel (BIOL448 Directed Studies student, 2021)
+### Joshua Chen (UBC SURE Awardee and Biology Honours Student 2021, and NSERC USRA 2022)
 <br/>
 
 {: #maryann}
-### Maryann Rogers (Biology Honours Student, 2021)
+### Maryann Rogers (Biology Honours Student, 2021 and NSERC USRA 2022)
 <br/>
 <br/>
 
@@ -276,12 +227,6 @@ Nick received his B.Sc. in Environmental Sciences and Biology at the University 
 ### Parsa Seyfourian (Directed Studies student, 2021 and Biodiversity Fellowship Award Winner, 2022)
 <br/>
 
-{: #shruti}
-### Shruti Swami (Integrated Sciences Directed Studies Student, 2021)
-<br/>
-
-{: #annie }
-### Annie Zeng (BIOL448 Directed Studies student, 2021)
 <br/><br/>
 
 ## Visiting scientists
@@ -292,13 +237,13 @@ I’m Dirk VandePol, an unassigned sessional lecturer, joining the lab in some l
 
 
 ## Alumni
-
+- Aleksandra Anoshina (NSERC USRA, 2020 and Biology Honours student, 2020-2021)
 - Jonathan Chiang (Biology Co-op Undergraduate Research Assistant, 2021)
 - Quinn Kelley (Biology Directed Studies student, 2021)
+- Andrew Oh (Biology Directed Studies student, 2021-2022)
 - Smit Patel (Biology Directed Studies student, 2021-2022)
 - Lauren Semkow (Biology Directed Studies student, 2021-2022)
 - Annie Zeng (Biology Directed Studies student, 2020-2021)
-
 - Bhaskar Yechuri (part time electronics technician, 2020-2021)
 - Ana Parra (Biology Honours student, 2020-2021)
 - Kunwar Puri (BIOL448 Directed Studies student and member, team togoi; 2019-2021)
