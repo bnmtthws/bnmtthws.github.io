@@ -15,6 +15,9 @@ sidebar:
 - [Molecular evidence of intertidal habitats selecting for repeated ice-binding protein evolution in invertebrates](https://journals.biologists.com/jeb/article/225/Suppl_1/jeb243409/274373/Molecular-evidence-of-intertidal-habitats)
 <br/> Box I.C.H., **Matthews B.J.**, and Marshall K.E. *Journal of Experimental Biology* (2022) *bioRxiv* (2021)<br/>
 
+- [Non-Canonical Odor Coding in the Mosquito](https://www.biorxiv.org/content/10.1101/2020.11.07.368720v2.full) <br/> 
+Younger M.A., Herre M., Goldman O.V., Lu T-C., Caballero-Vidal G., Qi Y., Gilbert Z.N., Gong Z., Morita T., Rahiel S., Ghaninia M., Ignell R., **Matthews B.J.**, Li H., Vosshall L.B. *bioRxiv* (2020; 2022)
+
 - [A single unidirectional piRNA cluster similar to the flamenco locus is the major source of EVE-derived transcription and small RNAs in _Aedes aegypti_ mosquitoes](https://rnajournal.cshlp.org/content/early/2020/01/29/rna.073965.119.abstract)
 <br/> Aguiar, E.R.G.R., Almeida, J.P.P., Queiroz L.R., Oliveira L.S., Olmo R.P., Faria I.J.S., Imler J-L., Gruber A., **Matthews B.J.**, and Marques J.T. *RNA* (2020) <br/>
 
