@@ -47,9 +47,6 @@ feature_row2:
      url: "/people/#elsa"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-
-
-feature_row3:
    - image_path: /assets/images/ivanlo-sq.jpg
      alt: "Ivan Lo"
      title: "Ivan Lo"
@@ -72,7 +69,7 @@ feature_row3:
      btn_label: "Read More"
      btn_class: "btn--inverse"
 
-feature_row4:
+feature_row3:
 
    - image_path: /assets/images/larvae-sq.png
      alt: "Joshua Chen"
@@ -102,8 +99,6 @@ feature_row4:
      url: "/people/#parsa"
      btn_label: "Read More"
      btn_class: "btn--inverse"     
-
-feature_row5:
    - image_path: /assets/images/larvae-sq.png
      alt: "Cassidy Mark"
      title: "Cassidy Mark"
