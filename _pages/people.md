@@ -81,6 +81,13 @@ feature_row4:
      url: "/people/#joshua"
      btn_label: "Read More"
      btn_class: "btn--inverse"
+   - image_path: /assets/images/larvae-sq.png
+     alt: "Hanna Elford"
+     title: "Hanna Elford"
+     excerpt: "Integrated Sciences Directed Studies student"
+     url: "/people/#hanna"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"
    - image_path: /assets/images/maryann.jpg
      alt: "Maryann Rogers"
      title: "Maryann Rogers"
@@ -101,14 +108,14 @@ feature_row5:
      alt: "Cassidy Mark"
      title: "Cassidy Mark"
      excerpt: "Co-op Researcher"
-     url: "/people/#annie"
+     url: "/people/#cassidy"
      btn_label: "Read More"
      btn_class: "btn--inverse"
    - image_path: /assets/images/larvae-sq.png
      alt: "Danica Shannon"
      title: "Danica Shannon"
      excerpt: "Biology Directed Studies Student and Co-op Researcher"
-     url: "/people/#shruti"
+     url: "/people/#danica"
      btn_label: "Read More"
      btn_class: "btn--inverse"
    - image_path: /assets/images/dirk.png
@@ -211,11 +218,23 @@ Orna received her B.S.c in Zoology at University College Dublin in Ireland where
 Nick received his B.Sc. in Environmental Sciences and Biology at the University of British Columbia's Okanagan campus in December 2019. During his undergraduate degree, he worked in several labs specializing in landscape ecology. Past projects include a spatiotemporal analysis of grizzly bear habitat suitability North of Jasper, Alberta; an analysis of mycorrhizal connectivity between understory and canopy forest flora; an analysis of dark diversity patterns in global diatom species richness; and an analysis of the impacts of recreational land use on watersheds within public land in the Okanagan. He is now working as a lab technician in Ben Matthews’ and Doug Altshuler’s labs. When not in either lab, he enjoys hiking, biking, kayaking, surfing, and playing guitar.
 <br/>
 
+{: #cassidy}
+### Cassidy Mark (UBC Science Co-op researcher, 2021-2022)
+<br/>
+{: #danica}
+### Danica Shannon (UBC Science Co-op researcher, 2022)
+<br/>
+<br/>
+
 ## Undergraduate researchers
 
 
 {: #joshua}
 ### Joshua Chen (UBC SURE Awardee and Biology Honours Student 2021, and NSERC USRA 2022)
+<br/>
+
+{: #hanna}
+### Hanna Elford (UBC Integrated Sciences Directed Studies student, 2022)
 <br/>
 
 {: #maryann}
