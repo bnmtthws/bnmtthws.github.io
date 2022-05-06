@@ -9,8 +9,14 @@ sidebar:
 {: #research }
 ### Research publications
 
+- [Mosquito brains encode unique features of human odour to drive host seeking](https://www.nature.com/articles/s41586-022-04675-4)
+<br/> Zhao Z., Zung J.L., Hinze A., Kriete A.L., Iqbal A., Younger M.A., **Matthews B.J.**, Merhof D., Thiberge S., Ignell R., Strauch M., and McBride C.S. *Nature* (2022) *bioRxiv* (2020)<br/>
+
+- [Molecular evidence of intertidal habitats selecting for repeated ice-binding protein evolution in invertebrates](https://journals.biologists.com/jeb/article/225/Suppl_1/jeb243409/274373/Molecular-evidence-of-intertidal-habitats)
+<br/> Box I.C.H., **Matthews B.J.**, and Marshall K.E. *Journal of Experimental Biology* (2022) *bioRxiv* (2021)<br/>
+
 - [A single unidirectional piRNA cluster similar to the flamenco locus is the major source of EVE-derived transcription and small RNAs in _Aedes aegypti_ mosquitoes](https://rnajournal.cshlp.org/content/early/2020/01/29/rna.073965.119.abstract)
-<br/> Aguiar, E.R.G.R., Almeida, J.P.P., Queiroz L.R., Oliveira L.S., Olmo R.P., Faria I.J.S., Imler J-L., Gruber A., **Matthews B.J.**, and Marques J.T.. *RNA* (2020) *advanced online publication* <br/>
+<br/> Aguiar, E.R.G.R., Almeida, J.P.P., Queiroz L.R., Oliveira L.S., Olmo R.P., Faria I.J.S., Imler J-L., Gruber A., **Matthews B.J.**, and Marques J.T. *RNA* (2020) *advanced online publication* <br/>
 
 - [Modeling the Putative Ancient Distribution of _Aedes togoi_ (Diptera: Culicidae)](https://doi.org/10.1093/jisesa/ieaa035)
 [PDF](/assets/pdf/PeachMatthews2020.pdf)
@@ -48,6 +54,8 @@ Details on publications can also be found at [Google Scholar](https://scholar.go
 
 {: #reviews }
 ### Invited reviews
+- [Seeing smell: the structural underpinnings of insect olfaction.](https://doi.org/10.1016/j.tibs.2021.12.003)
+<br/> Brewster, L.I., and **Matthews, B.J.** <br/>Trends in Biochemical Sciences (2021).
 - [How to turn an organism into a model organism in 10 'easy' steps.](https://journals.biologists.com/jeb/article/223/Suppl_1/jeb218198/224666/How-to-turn-an-organism-into-a-model-organism-in) [PDF](https://journals.biologists.com/jeb/article-pdf/223/Suppl_1/jeb218198/1680082/jeb218198.pdf) <br/> **Matthews, B.J.** and Vosshall, L.B.<br/> *Journal of Experimental Biology* (2020) 223 (Suppl_1): jeb218198
 
 - [*Aedes aegypti*](https://www.cell.com/trends/genetics/fulltext/S0168-9525(19)30051-4) [PDF](https://authors.elsevier.com/a/1Z2Y3cQbIvPMY) <br/> **Matthews, B.J.** <br/> *Trends in Genetics* (2019) 35:470-471
