@@ -17,6 +17,15 @@ feature_row1:
      url: "/people/#dan"
      btn_label: "Read More"
      btn_class: "btn--inverse"
+   - image_path: /assets/images/YunusaMohammed_cropped.jpg
+     alt: "Yunusa Mohammed Garba, PhD"
+     title: "Yunusa Mohammed Garba, PhD"
+     excerpt: "Postdoctoral Fellow"
+     url: "/people/#yunusa"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"
+
+feature_row2:
    - image_path: /assets/images/larvae-sq.png
      alt: "Tahnee Ames"
      title: "Tahnee Ames"
@@ -24,8 +33,6 @@ feature_row1:
      url: "/people/#tahnee"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-
-feature_row2:
    - image_path: /assets/images/leislbrewster-sq.jpg
      alt: "Leisl Brewster"
      title: "Leisl Brewster"
@@ -40,6 +47,9 @@ feature_row2:
      url: "/people/#elsa"
      btn_label: "Read More"
      btn_class: "btn--inverse"
+
+
+feature_row3:
    - image_path: /assets/images/ivanlo-sq.jpg
      alt: "Ivan Lo"
      title: "Ivan Lo"
@@ -47,9 +57,6 @@ feature_row2:
      url: "/people/#ivan"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-
-
-feature_row3:
    - image_path: /assets/images/orna.jpg
      alt: "Orna Phelan"
      title: "Orna Phelan"
@@ -64,6 +71,9 @@ feature_row3:
      url: "/people/#jonathan"
      btn_label: "Read More"
      btn_class: "btn--inverse"     
+     
+
+feature_row4:
    - image_path: /assets/images/tochor.jpg
      alt: "Nicholas Tochor"
      title: "Nicholas Tochor"
@@ -71,13 +81,10 @@ feature_row3:
      url: "/people/#nick"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-     
-
-feature_row4:
    - image_path: /assets/images/larvae-sq.png
      alt: "Joshua Chen"
      title: "Joshua Chen"
-     excerpt: "Biology Honours Student"
+     excerpt: "Biology Honours Student and NSERC USRA"
      url: "/people/#joshua"
      btn_label: "Read More"
      btn_class: "btn--inverse"
@@ -98,17 +105,10 @@ feature_row4:
 
      
 feature_row5:
-   - image_path: /assets/images/larvae-sq.png
-     alt: "Smit Patel"
-     title: "Smit Patel"
-     excerpt: "Biology Directed Studies student"
-     url: "/people/#smit"
-     btn_label: "Read More"
-     btn_class: "btn--inverse"
    - image_path: /assets/images/maryann.jpg
      alt: "Maryann Rogers"
      title: "Maryann Rogers"
-     excerpt: "Biology Honours Student"
+     excerpt: "Biology Honours Student and NSERC USRA"
      url: "/people/#maryann"
      btn_label: "Read More"
      btn_class: "btn--inverse"
@@ -191,7 +191,7 @@ At UBC, Ben is an Assistant Professor in the Comparative Physiology Group of the
 Dan completed his BSc (with Distinction) and PhD (in the lab of Gerhard Gries) at Simon Fraser University. His PhD work focused on the ecology and sensory ecology of mosquitoes and their interactions with plants, during which he discovered that mosquitoes use the same cues to locate floral nectar that they use to locate vertebrate hosts, shedding light on the evolutionary origin of mosquito blood-feeding. He received an NSERC doctoral postgraduate scholarship, an SFU Provost’s Prize of Distinction, an ESC John Borden award, and was a Canadian national finalist in the Three Minute Thesis Competition.
 <br/>
 
-The research Dan is pursuing in the (Ben) Matthews lab will initially involve investigating egg-deposition in mosquitoes at different biological levels, including the genomic, molecular, physiological, and ecological, to determine what makes some mosquitoes so good at exploiting novel habitat and becoming widespread invasive organisms. He is the recipient of a three-year Trainee Award from the Michael Smith Foundation for Health Research to support his work.
+The research Dan is pursuing in the (Ben) Matthews lab will initially involve investigating egg-deposition in mosquitoes at different biological levels, including the genomic, molecular, physiological, and ecological, to determine what makes some mosquitoes so good at exploiting novel habitat and becoming widespread invasive organisms. He is the recipient of a Banting Postdoctoral Fellowship and a three-year Trainee Award from the Michael Smith Foundation for Health Research to support his work.
 <br/>
 
 [Website](http://www.danpeach.net)
@@ -199,6 +199,15 @@ The research Dan is pursuing in the (Ben) Matthews lab will initially involve in
 [Email](mailto:peach@zoology.ubc.ca)
 <br/><br/>
 
+{: #yunusa }
+
+### Yunusa Garba Mohammed, PhD
+### Postdoctoral Fellow (2021-present)
+
+Yunusa has received a long-term Fellowship from HFSP and a three-year Trainee Award from the Michael Smith Foundation for Health Research to support his work.
+
+[Twitter](https://twitter.com/DanPeach3)
+[Email](mailto:peach@zoology.ubc.ca)
 
 {: #tahnee}
 ### Tahnee Ames, M.Sc. student, Zoology (2021-present)
@@ -236,8 +245,6 @@ Orna received her B.S.c in Zoology at University College Dublin in Ireland where
 
 Nick received his B.Sc. in Environmental Sciences and Biology at the University of British Columbia's Okanagan campus in December 2019. During his undergraduate degree, he worked in several labs specializing in landscape ecology. Past projects include a spatiotemporal analysis of grizzly bear habitat suitability North of Jasper, Alberta; an analysis of mycorrhizal connectivity between understory and canopy forest flora; an analysis of dark diversity patterns in global diatom species richness; and an analysis of the impacts of recreational land use on watersheds within public land in the Okanagan. He is now working as a lab technician in Ben Matthews’ and Doug Altshuler’s labs. When not in either lab, he enjoys hiking, biking, kayaking, surfing, and playing guitar.
 <br/>
-{: #jonathan}
-### Jonathan Chiang, Biology Co-op Undergraduate Research Assistant
 
 ## Undergraduate researchers
 
@@ -263,13 +270,10 @@ Nick received his B.Sc. in Environmental Sciences and Biology at the University 
 {: #maryann}
 ### Maryann Rogers (Biology Honours Student, 2021)
 <br/>
-
-{: #lauren}
-### Lauren Semkow (UBC SURE Awardee, summer 2021 and BIOL448 Directed Studies Student, 2021)
 <br/>
 
 {: #parsa}
-### Parsa Seyfourian (BIOL448 Directed Studies student, 2021)
+### Parsa Seyfourian (Directed Studies student, 2021 and Biodiversity Fellowship Award Winner, 2022)
 <br/>
 
 {: #shruti}
@@ -288,6 +292,13 @@ I’m Dirk VandePol, an unassigned sessional lecturer, joining the lab in some l
 
 
 ## Alumni
+
+- Jonathan Chiang (Biology Co-op Undergraduate Research Assistant, 2021)
+- Quinn Kelley (Biology Directed Studies student, 2021)
+- Smit Patel (Biology Directed Studies student, 2021-2022)
+- Lauren Semkow (Biology Directed Studies student, 2021-2022)
+- Annie Zeng (Biology Directed Studies student, 2020-2021)
+
 - Bhaskar Yechuri (part time electronics technician, 2020-2021)
 - Ana Parra (Biology Honours student, 2020-2021)
 - Kunwar Puri (BIOL448 Directed Studies student and member, team togoi; 2019-2021)
