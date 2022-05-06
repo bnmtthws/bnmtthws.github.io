@@ -18,8 +18,8 @@ feature_row1:
      btn_label: "Read More"
      btn_class: "btn--inverse"
    - image_path: /assets/images/YunusaMohammed_cropped.jpg
-     alt: "Yunusa Mohammed Garba, PhD"
-     title: "Yunusa Mohammed Garba, PhD"
+     alt: "Yunusa Garba Mohammed, PhD"
+     title: "Yunusa Garba Mohammed, PhD"
      excerpt: "Postdoctoral Fellow"
      url: "/people/#yunusa"
      btn_label: "Read More"
@@ -206,8 +206,8 @@ The research Dan is pursuing in the (Ben) Matthews lab will initially involve in
 
 Yunusa has received a long-term Fellowship from HFSP and a three-year Trainee Award from the Michael Smith Foundation for Health Research to support his work.
 
-[Twitter](https://twitter.com/DanPeach3)
-[Email](mailto:peach@zoology.ubc.ca)
+[Twitter](https://twitter.com/ygarbawala1)
+[Email](mailto:yunusa.mohammed@zoology.ubc.ca)
 
 {: #tahnee}
 ### Tahnee Ames, M.Sc. student, Zoology (2021-present)
