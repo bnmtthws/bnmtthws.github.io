@@ -57,6 +57,8 @@ Details on publications can also be found at [Google Scholar](https://scholar.go
 
 {: #reviews }
 ### Invited reviews
+- [Sensory mechanisms for the shift from phytophagy to haematophagy in mosquitoes.]
+<br/> Peach, D.A.H., and **Matthews, B.J.** <br/>Current Opinion in Insect Science (*In press*).
 - [Seeing smell: the structural underpinnings of insect olfaction.](https://doi.org/10.1016/j.tibs.2021.12.003)
 <br/> Brewster, L.I., and **Matthews, B.J.** <br/>Trends in Biochemical Sciences (2021).
 - [How to turn an organism into a model organism in 10 'easy' steps.](https://journals.biologists.com/jeb/article/223/Suppl_1/jeb218198/224666/How-to-turn-an-organism-into-a-model-organism-in) [PDF](https://journals.biologists.com/jeb/article-pdf/223/Suppl_1/jeb218198/1680082/jeb218198.pdf) <br/> **Matthews, B.J.** and Vosshall, L.B.<br/> *Journal of Experimental Biology* (2020)
