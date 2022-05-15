@@ -57,7 +57,7 @@ Details on publications can also be found at [Google Scholar](https://scholar.go
 
 {: #reviews }
 ### Invited reviews
-- [Sensory mechanisms for the shift from phytophagy to haematophagy in mosquitoes.]
+- [Sensory mechanisms for the shift from phytophagy to haematophagy in mosquitoes.](https://authors.elsevier.com/sd/article/S2214-5745(22)00065-7)
 <br/> Peach, D.A.H., and **Matthews, B.J.** <br/>Current Opinion in Insect Science (*In press*).
 - [Seeing smell: the structural underpinnings of insect olfaction.](https://doi.org/10.1016/j.tibs.2021.12.003)
 <br/> Brewster, L.I., and **Matthews, B.J.** <br/>Trends in Biochemical Sciences (2021).
