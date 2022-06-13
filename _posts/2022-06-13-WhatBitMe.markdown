@@ -5,7 +5,7 @@ date:   2022-06-13 12:00:00 -0800
 categories: lab news
 ---
 
-Dan getting out the word about an exciting project in the lab, "What Bit Me?" that aims to add to our understanding of mosquito distributions across the Pacific Northwest. In exchange for your beat up mosquito carcasses, we will use genome sequencing and DNA barcoding to identiy them and add them to our database.
+Dan getting out the word about an exciting project in the lab, "What Bit Me?" that aims to add to our understanding of mosquito distributions across the Pacific Northwest. In exchange for your beat up mosquito carcasses, we will use genome sequencing and DNA barcoding to identify them and add them to our database.
 
  To submit specimens, see details [here](/assets/pdf/whatbitme.pdf)
 
