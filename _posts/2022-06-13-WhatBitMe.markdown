@@ -12,4 +12,5 @@ Dan getting out the word about an exciting project in the lab, "What Bit Me?" th
 News coverage:
 
 [Times Colonist](https://www.timescolonist.com/life/bc-scientist-wants-you-to-send-him-slapped-mosquitoes-in-the-mail-5463929)
+
 [Alaska Highway News](https://www.alaskahighwaynews.ca/fort-st-john/bc-scientist-wants-you-to-send-him-slapped-mosquitoes-in-the-mail-5463929)
