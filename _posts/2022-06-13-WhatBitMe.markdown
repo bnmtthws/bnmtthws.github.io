@@ -11,6 +11,8 @@ Dan getting out the word about an exciting project in the lab, "What Bit Me?" th
 
 News coverage:
 
+[CBC radio](https://www.cbc.ca/listen/live-radio/1-96-radio-west/clip/15918827-ubc-researcher-dan-peach-wants-people-send-mosquitos)
+
 [Times Colonist](https://www.timescolonist.com/life/bc-scientist-wants-you-to-send-him-slapped-mosquitoes-in-the-mail-5463929)
 
 [Alaska Highway News](https://www.alaskahighwaynews.ca/fort-st-john/bc-scientist-wants-you-to-send-him-slapped-mosquitoes-in-the-mail-5463929)
