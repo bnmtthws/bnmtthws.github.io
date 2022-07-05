@@ -56,7 +56,9 @@ Trible W., Olivos-Cisneros L., McKenzie S.K., Saragosti J., Chang, N.C., **Matth
 Details on publications can also be found at [Google Scholar](https://scholar.google.com/citations?user=REWvweQAAAAJ) and [ORCID](https://orcid.org/0000-0002-8697-699X)
 
 {: #reviews }
-### Invited reviews
+### Reviews
+- [Host manipulation, gene editing, and non-traditional model organisms: a new frontier for behavioral research?](https://www.frontiersin.org/articles/10.3389/finsc.2022.938644/abstract)
+<br/> Doherty, J-F., and **Matthews, B.J.** <br/>Frontiers in Insect Science (*In press*)
 - [Sensory mechanisms for the shift from phytophagy to haematophagy in mosquitoes.](https://authors.elsevier.com/sd/article/S2214-5745(22)00065-7)
 <br/> Peach, D.A.H., and **Matthews, B.J.** <br/>Current Opinion in Insect Science (*In press*).
 - [Seeing smell: the structural underpinnings of insect olfaction.](https://doi.org/10.1016/j.tibs.2021.12.003)

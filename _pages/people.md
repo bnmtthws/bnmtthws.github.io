@@ -24,6 +24,13 @@ feature_row1:
      url: "/people/#yunusa"
      btn_label: "Read More"
      btn_class: "btn--inverse"
+   - image_path: /assets/images/larva-sq.png
+     alt: "Jean-François (Jeff) Doherty, PhD"
+     title: "Jean-François (Jeff) Doherty, PhD"
+     excerpt: "Postdoctoral Fellow"
+     url: "/people/#jeff"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"    
 
 feature_row2:
    - image_path: /assets/images/larvae-sq.png
@@ -158,7 +165,7 @@ At UBC, Ben is an Assistant Professor in the Comparative Physiology Group of the
 Dan completed his BSc (with Distinction) and PhD (in the lab of Gerhard Gries) at Simon Fraser University. His PhD work focused on the ecology and sensory ecology of mosquitoes and their interactions with plants, during which he discovered that mosquitoes use the same cues to locate floral nectar that they use to locate vertebrate hosts, shedding light on the evolutionary origin of mosquito blood-feeding. He received an NSERC doctoral postgraduate scholarship, an SFU Provost’s Prize of Distinction, an ESC John Borden award, and was a Canadian national finalist in the Three Minute Thesis Competition.
 <br/>
 
-The research Dan is pursuing in the (Ben) Matthews lab will initially involve investigating egg-deposition in mosquitoes at different biological levels, including the genomic, molecular, physiological, and ecological, to determine what makes some mosquitoes so good at exploiting novel habitat and becoming widespread invasive organisms. He is the recipient of a Banting Postdoctoral Fellowship and a three-year Trainee Award from the Michael Smith Foundation for Health Research to support his work.
+The research Dan is pursuing in the (Ben) Matthews lab will initially involve investigating egg-deposition in mosquitoes at different biological levels, including the genomic, molecular, physiological, and ecological, to determine what makes some mosquitoes so good at exploiting novel habitat and becoming widespread invasive organisms. He is the recipient of a Banting Postdoctoral Fellowship and a three-year Trainee Award from the Michael Smith Foundation for Health Research to support his work. Dan recently announced that he would be taking an Assistant Professor position at the University of Georgia, beginning in August 2022 - congratulations Dan!
 <br/>
 
 [Website](http://www.danpeach.net)
@@ -171,10 +178,20 @@ The research Dan is pursuing in the (Ben) Matthews lab will initially involve in
 ### Yunusa Garba Mohammed, PhD
 ### Postdoctoral Fellow (2021-present)
 
-Yunusa has received a long-term Fellowship from HFSP and a three-year Trainee Award from the Michael Smith Foundation for Health Research to support his work.
+Yunusa has received a long-term Fellowship from HFSP and a three-year Trainee Award from the Michael Smith Foundation for Health Research to support his work. He is focused on understanding egg-laying and other behaviours in strains of _Aedes aegypti_ collected from urban and rural environments in sub-Saharan Africa.
 
 [Twitter](https://twitter.com/ygarbawala1)
 [Email](mailto:yunusa.mohammed@zoology.ubc.ca)
+
+{: #jeff }
+
+### Jean-François (Jeff) Doherty, PhD
+### Postdoctoral Fellow (2022-present)
+
+Jeff received his PhD from the University of Otago, where he studied the ecology and evolution of host-parasite interactions. He is a joint-appointed postdoctoral fellow with [Leonard Foster's lab](https://fosterlab.msl.ubc.ca/) and will be working on how parasites can manipulate the behaviour of their host(s) using transcriptomic, proteomic, and quantitative behavioural techniques.
+
+[Web](https://www.jeff-doherty.com/)
+[Email](mailto:jeff.doherty@msl.ubc.ca)
 
 {: #tahnee}
 ### Tahnee Ames, M.Sc. student, Zoology (2021-present)
