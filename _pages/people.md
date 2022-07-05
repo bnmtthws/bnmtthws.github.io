@@ -24,7 +24,7 @@ feature_row1:
      url: "/people/#yunusa"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-   - image_path: /assets/images/larva-sq.png
+   - image_path: /assets/images/larvae-sq.png
      alt: "Jean-François (Jeff) Doherty, PhD"
      title: "Jean-François (Jeff) Doherty, PhD"
      excerpt: "Postdoctoral Fellow"
@@ -190,7 +190,7 @@ Yunusa has received a long-term Fellowship from HFSP and a three-year Trainee Aw
 
 Jeff received his PhD from the University of Otago, where he studied the ecology and evolution of host-parasite interactions. He is a joint-appointed postdoctoral fellow with [Leonard Foster's lab](https://fosterlab.msl.ubc.ca/) and will be working on how parasites can manipulate the behaviour of their host(s) using transcriptomic, proteomic, and quantitative behavioural techniques.
 
-[Web](https://www.jeff-doherty.com/)
+[Website](https://www.jeff-doherty.com/)
 [Email](mailto:jeff.doherty@msl.ubc.ca)
 
 {: #tahnee}
@@ -204,7 +204,7 @@ Leisl received her B.Sc. in Zoology at University College London (UCL) in the UK
 <br/> <br/> 
 
 {: #elsa}
-### Elsa Cyr, M.Sc. Student, Zoology (2021-present))
+### Elsa Cyr, M.Sc. Student, Zoology (2021-present)
 Elsa received her B.Sc. in Biology at UBC where she completed a research project investigating optimal flight patterns in birds with various stimuli. She has an interest in physiology, genetics, and neurobiology. Elsa now works in the Ben Matthews lab and the Mike Gordon lab investigating the cellular and molecular basis of taste processing in <i>Aedes aegypti</i> mosquitoes using the <i>Drosophila melanogaster</i> taste mechanism model.
 [Email](mailto:ecyr@zoology.ubc.ca)
 <br/><br/>
