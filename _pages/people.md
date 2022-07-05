@@ -24,7 +24,7 @@ feature_row1:
      url: "/people/#yunusa"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-   - image_path: /assets/images/larvae-sq.png
+   - image_path: /assets/images/jeff.jpg
      alt: "Jean-François (Jeff) Doherty, PhD"
      title: "Jean-François (Jeff) Doherty, PhD"
      excerpt: "Postdoctoral Fellow"
