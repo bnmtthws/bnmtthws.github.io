@@ -57,6 +57,8 @@ Details on publications can also be found at [Google Scholar](https://scholar.go
 
 {: #reviews }
 ### Reviews
+- [The Invasive Mosquitoes of Canada: An Entomological, Medical, and Veterinary Review](https://doi.org/10.4269/ajtmh.21-0167)
+<br/> Peach, D.A.H., and Matthews, B.J. <br/>The American Journal of Tropical Medicine and Hygiene (*In press*)
 - [Host manipulation, gene editing, and non-traditional model organisms: a new frontier for behavioral research?](https://www.frontiersin.org/articles/10.3389/finsc.2022.938644/abstract)
 <br/> Doherty, J-F., and **Matthews, B.J.** <br/>Frontiers in Insect Science (*In press*)
 - [Sensory mechanisms for the shift from phytophagy to haematophagy in mosquitoes.](https://authors.elsevier.com/sd/article/S2214-5745(22)00065-7)
