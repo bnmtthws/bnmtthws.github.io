@@ -58,11 +58,11 @@ Details on publications can also be found at [Google Scholar](https://scholar.go
 {: #reviews }
 ### Reviews
 - [The Invasive Mosquitoes of Canada: An Entomological, Medical, and Veterinary Review](https://doi.org/10.4269/ajtmh.21-0167)
-<br/> Peach, D.A.H., and Matthews, B.J. <br/>The American Journal of Tropical Medicine and Hygiene (*In press*)
+<br/> Peach, D.A.H., and Matthews, B.J. <br/>*The American Journal of Tropical Medicine and Hygiene* (2022)
 - [Host manipulation, gene editing, and non-traditional model organisms: a new frontier for behavioral research?](https://www.frontiersin.org/articles/10.3389/finsc.2022.938644/abstract)
-<br/> Doherty, J-F., and **Matthews, B.J.** <br/>Frontiers in Insect Science (*In press*)
+<br/> Doherty, J-F., and **Matthews, B.J.** <br/>*Frontiers in Insect Science* (2022)
 - [Sensory mechanisms for the shift from phytophagy to haematophagy in mosquitoes.](https://authors.elsevier.com/sd/article/S2214-5745(22)00065-7)
-<br/> Peach, D.A.H., and **Matthews, B.J.** <br/>Current Opinion in Insect Science (*In press*).
+<br/> Peach, D.A.H., and **Matthews, B.J.** <br/>*Current Opinion in Insect Science* (2022).
 - [Seeing smell: the structural underpinnings of insect olfaction.](https://doi.org/10.1016/j.tibs.2021.12.003)
 <br/> Brewster, L.I., and **Matthews, B.J.** <br/>Trends in Biochemical Sciences (2021).
 - [How to turn an organism into a model organism in 10 'easy' steps.](https://journals.biologists.com/jeb/article/223/Suppl_1/jeb218198/224666/How-to-turn-an-organism-into-a-model-organism-in) [PDF](https://journals.biologists.com/jeb/article-pdf/223/Suppl_1/jeb218198/1680082/jeb218198.pdf) <br/> **Matthews, B.J.** and Vosshall, L.B.<br/> *Journal of Experimental Biology* (2020)
