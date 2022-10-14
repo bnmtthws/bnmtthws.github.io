@@ -92,6 +92,13 @@ feature_row3:
      btn_label: "Read More"
      btn_class: "btn--inverse" 
    - image_path: /assets/images/larvae-sq.png
+     alt: "Dania Samara"
+     title: "Dania Samara"
+     excerpt: "Biology Directed Studies student"
+     url: "/people/#dania"
+     btn_label: "Read More"
+     btn_class: "btn--inverse" 
+   - image_path: /assets/images/larvae-sq.png
      alt: "Parsa Seyfourian"
      title: "Parsa Seyfourian"
      excerpt: "Biology Honours student"
@@ -111,7 +118,14 @@ feature_row3:
      excerpt: "Visiting Scientist"
      url: "/people/#dirk"
      btn_label: "Read More"
-     btn_class: "btn--inverse"          
+     btn_class: "btn--inverse"
+   - image_path: /assets/images/larvae-sq.png
+     alt: "Celine Zhang"
+     title: "Celine Zhang"
+     excerpt: "Biology Directed Studies student"
+     url: "/people/#celine"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"    
      
 sidebar:
      nav: "people"
