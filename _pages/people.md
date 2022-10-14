@@ -215,6 +215,7 @@ Nick received his B.Sc. in Environmental Sciences and Biology at the University 
 
 {: #phillip}
 ### Phillip Lee (Biology Honours, 2022)
+<br/>
 
 {: #bing}
 Bing is a fourth-year biology student here at UBC. He is working on a parasitology based project using behavioural assay with postdoctoral fellow Jeff Doherty as his directed study for the 2022 winter term. He has an interest in the behaviour of the parasite-infected host namely hairworm-infected crickets. He is working to determine the environmental cues that lead to the hydrotaxis behaviour of hairworm-infected cricket here at Ben Matthews Lab. In his free time, he likes keeping nepenthes carnivorous plants.
