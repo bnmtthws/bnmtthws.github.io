@@ -179,7 +179,7 @@ Leisl received her B.Sc. in Zoology at University College London (UCL) in the UK
 <br/> <br/> 
 
 {: #elsa}
-### Elsa Cyr, M.Sc. Student, Zoology (2021-present)
+### Elsa Cyr, M.Sc. Student, Zoology (2021-present; co-supervised with [Mike Gordon](https://www.zoology.ubc.ca/~gordon/))
 Elsa received her B.Sc. in Biology at UBC where she completed a research project investigating optimal flight patterns in birds with various stimuli. She has an interest in physiology, genetics, and neurobiology. Elsa now works in the Ben Matthews lab and the Mike Gordon lab investigating the cellular and molecular basis of taste processing in <i>Aedes aegypti</i> mosquitoes using the <i>Drosophila melanogaster</i> taste mechanism model.
 [Email](mailto:ecyr@zoology.ubc.ca)
 <br/><br/>
@@ -223,12 +223,20 @@ Nick received his B.Sc. in Environmental Sciences and Biology at the University 
 Bing is a fourth-year biology student here at UBC. He is working on a parasitology based project using behavioural assay with postdoctoral fellow Jeff Doherty as his directed study for the 2022 winter term. He has an interest in the behaviour of the parasite-infected host namely hairworm-infected crickets. He is working to determine the environmental cues that lead to the hydrotaxis behaviour of hairworm-infected cricket here at Ben Matthews Lab. In his free time, he likes keeping nepenthes carnivorous plants.
 <br/>
 
+{: #dania}
+### Dania Samara (Biology Directed Studies, 2022)
+<br/>
+
 {: #parsa}
 ### Parsa Seyfourian (Biology Directed Studies and Honours, 2021-2022; Biodiversity Fellowship Award Winner, 2022)
 <br/>
 
 {: #danica}
 ### Danica Shannon (UBC Science Co-op researcher and Biology Honours, 2022)
+<br/>
+
+{: #celine}
+### Celine Zhang (Biology Directed Studies, 2022)
 <br/>
 
 <br/>
