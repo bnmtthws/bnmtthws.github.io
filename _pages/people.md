@@ -10,13 +10,6 @@ feature_row1:
      url: "/people/#ben"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-   - image_path: /assets/images/danpeach-sq.jpg
-     alt: "Dan Peach, PhD"
-     title: "Dan Peach, PhD"
-     excerpt: "Postdoctoral Fellow"
-     url: "/people/#dan"
-     btn_label: "Read More"
-     btn_class: "btn--inverse"
    - image_path: /assets/images/YunusaMohammed_cropped.jpg
      alt: "Yunusa Garba Mohammed, PhD"
      title: "Yunusa Garba Mohammed, PhD"
@@ -30,7 +23,14 @@ feature_row1:
      excerpt: "Postdoctoral Fellow"
      url: "/people/#jeff"
      btn_label: "Read More"
-     btn_class: "btn--inverse"    
+     btn_class: "btn--inverse"   
+   - image_path: /assets/images/tochor.jpg
+     alt: "Nicholas Tochor"
+     title: "Nicholas Tochor"
+     excerpt: "Laboratory Technician & Lab Manager"
+     url: "/people/#nick"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"
 
 feature_row2:
    - image_path: /assets/images/larvae-sq.png
@@ -68,55 +68,40 @@ feature_row2:
      url: "/people/#orna"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-   - image_path: /assets/images/tochor.jpg
-     alt: "Nicholas Tochor"
-     title: "Nicholas Tochor"
-     excerpt: "Laboratory Technician & Lab Manager"
-     url: "/people/#nick"
-     btn_label: "Read More"
-     btn_class: "btn--inverse"
 
 feature_row3:
-
    - image_path: /assets/images/larvae-sq.png
-     alt: "Joshua Chen"
-     title: "Joshua Chen"
-     excerpt: "Biology Honours Student and NSERC USRA"
-     url: "/people/#joshua"
+     alt: "Cam Kelley"
+     title: "Cam Kelley"
+     excerpt: "Psychology Honours student"
+     url: "/people/#cam"
      btn_label: "Read More"
-     btn_class: "btn--inverse"
+     btn_class: "btn--inverse" 
    - image_path: /assets/images/larvae-sq.png
-     alt: "Hanna Elford"
-     title: "Hanna Elford"
-     excerpt: "Integrated Sciences Directed Studies student"
-     url: "/people/#hanna"
+     alt: "Phillip Lee"
+     title: "Phillip Lee"
+     excerpt: "Biology Honours student"
+     url: "/people/#phillip"
      btn_label: "Read More"
-     btn_class: "btn--inverse"
-   - image_path: /assets/images/maryann.jpg
-     alt: "Maryann Rogers"
-     title: "Maryann Rogers"
-     excerpt: "Biology Honours Student and NSERC USRA"
-     url: "/people/#maryann"
+     btn_class: "btn--inverse" 
+   - image_path: /assets/images/bing.jpg
+     alt: "Bing Liu"
+     title: "Bing Liu"
+     excerpt: "Biology Directed Studies student"
+     url: "/people/#bing"
      btn_label: "Read More"
-     btn_class: "btn--inverse"
+     btn_class: "btn--inverse" 
    - image_path: /assets/images/larvae-sq.png
      alt: "Parsa Seyfourian"
      title: "Parsa Seyfourian"
-     excerpt: "Biology Directed Studies student"
+     excerpt: "Biology Honours student"
      url: "/people/#parsa"
      btn_label: "Read More"
      btn_class: "btn--inverse"     
    - image_path: /assets/images/larvae-sq.png
-     alt: "Cassidy Mark"
-     title: "Cassidy Mark"
-     excerpt: "Co-op Researcher"
-     url: "/people/#cassidy"
-     btn_label: "Read More"
-     btn_class: "btn--inverse"
-   - image_path: /assets/images/larvae-sq.png
      alt: "Danica Shannon"
      title: "Danica Shannon"
-     excerpt: "Biology Directed Studies Student and Co-op Researcher"
+     excerpt: "Biology Honours student"
      url: "/people/#danica"
      btn_label: "Read More"
      btn_class: "btn--inverse"
@@ -156,23 +141,6 @@ At UBC, Ben is an Assistant Professor in the Comparative Physiology Group of the
 
 ## Postdoctoral researchers and graduate students
 
-{: #dan }
-
-### Dan Peach, PhD
-### Postdoctoral Fellow (2019-present)
-
-
-Dan completed his BSc (with Distinction) and PhD (in the lab of Gerhard Gries) at Simon Fraser University. His PhD work focused on the ecology and sensory ecology of mosquitoes and their interactions with plants, during which he discovered that mosquitoes use the same cues to locate floral nectar that they use to locate vertebrate hosts, shedding light on the evolutionary origin of mosquito blood-feeding. He received an NSERC doctoral postgraduate scholarship, an SFU Provost’s Prize of Distinction, an ESC John Borden award, and was a Canadian national finalist in the Three Minute Thesis Competition.
-<br/>
-
-The research Dan is pursuing in the (Ben) Matthews lab will initially involve investigating egg-deposition in mosquitoes at different biological levels, including the genomic, molecular, physiological, and ecological, to determine what makes some mosquitoes so good at exploiting novel habitat and becoming widespread invasive organisms. He is the recipient of a Banting Postdoctoral Fellowship and a three-year Trainee Award from the Michael Smith Foundation for Health Research to support his work. Dan recently announced that he would be taking an Assistant Professor position at the University of Georgia, beginning in August 2022 - congratulations Dan!
-<br/>
-
-[Website](http://www.danpeach.net)
-[Twitter](https://twitter.com/DanPeach3)
-[Email](mailto:peach@zoology.ubc.ca)
-<br/><br/>
-
 {: #yunusa }
 
 ### Yunusa Garba Mohammed, PhD
@@ -194,7 +162,7 @@ Jeff received his PhD from the University of Otago, where he studied the ecology
 [Email](mailto:jeff.doherty@msl.ubc.ca)
 
 {: #tahnee}
-### Tahnee Ames, M.Sc. student, Zoology (2021-present)
+### Tahnee Ames, M.Sc. student, Zoology (2021-present; co-supervised with [Phil Matthews](https://matthewslab.zoology.ubc.ca/))
 <br/><br/>
 
 {: #leisl }
@@ -229,36 +197,31 @@ Orna received her B.S.c in Zoology at University College Dublin in Ireland where
 
 Nick received his B.Sc. in Environmental Sciences and Biology at the University of British Columbia's Okanagan campus in December 2019. During his undergraduate degree, he worked in several labs specializing in landscape ecology. Past projects include a spatiotemporal analysis of grizzly bear habitat suitability North of Jasper, Alberta; an analysis of mycorrhizal connectivity between understory and canopy forest flora; an analysis of dark diversity patterns in global diatom species richness; and an analysis of the impacts of recreational land use on watersheds within public land in the Okanagan. He is now working as a lab technician in Ben Matthews’ and Doug Altshuler’s labs. When not in either lab, he enjoys hiking, biking, kayaking, surfing, and playing guitar.
 <br/>
-
-{: #cassidy}
-### Cassidy Mark (UBC Science Co-op researcher, 2021-2022)
-<br/>
-{: #danica}
-### Danica Shannon (UBC Science Co-op researcher, 2022)
-<br/>
 <br/>
 
 ## Undergraduate researchers
 
 
-{: #joshua}
-### Joshua Chen (UBC SURE Awardee and Biology Honours Student 2021, and NSERC USRA 2022)
+{: #cam}
+### Cam Kelley (Psychology Honours, 2022)
 <br/>
 
-{: #hanna}
-### Hanna Elford (UBC Integrated Sciences Directed Studies student, 2022)
-<br/>
+{: #phillip}
+### Phillip Lee (Biology Honours, 2022)
 
-{: #maryann}
-### Maryann Rogers (Biology Honours Student, 2021 and NSERC USRA 2022)
-<br/>
+{: #bing}
+Bing is a fourth-year biology student here at UBC. He is working on a parasitology based project using behavioural assay with postdoctoral fellow Jeff Doherty as his directed study for the 2022 winter term. He has an interest in the behaviour of the parasite-infected host namely hairworm-infected crickets. He is working to determine the environmental cues that lead to the hydrotaxis behaviour of hairworm-infected cricket here at Ben Matthews Lab. In his free time, he likes keeping nepenthes carnivorous plants.
 <br/>
 
 {: #parsa}
-### Parsa Seyfourian (Directed Studies student, 2021 and Biodiversity Fellowship Award Winner, 2022)
+### Parsa Seyfourian (Biology Directed Studies and Honours, 2021-2022; Biodiversity Fellowship Award Winner, 2022)
 <br/>
 
-<br/><br/>
+{: #danica}
+### Danica Shannon (UBC Science Co-op researcher and Biology Honours, 2022)
+<br/>
+
+<br/>
 
 ## Visiting scientists
 {: #dirk}
@@ -268,21 +231,27 @@ I’m Dirk VandePol, an unassigned sessional lecturer, joining the lab in some l
 
 
 ## Alumni
-- Aleksandra Anoshina (NSERC USRA, 2020 and Biology Honours student, 2020-2021)
+- Aleksandra Anoshina (NSERC USRA and Biology Honours, 2020-2021)
+- Joshua Chen (NSERC USRA and Biology Honours, 2021-2022)
+- Nicole Cheng (Undergraduate Directed Studies, 2020)
 - Jonathan Chiang (Biology Co-op Undergraduate Research Assistant, 2021)
-- Quinn Kelley (Biology Directed Studies student, 2021)
-- Andrew Oh (Biology Directed Studies student, 2021-2022)
-- Smit Patel (Biology Directed Studies student, 2021-2022)
-- Lauren Semkow (Biology Directed Studies student and UBC SURE awardee, 2021-2022)
-- Annie Zeng (Biology Directed Studies student, 2020-2021)
-- Bhaskar Yechuri (part time electronics technician, 2020-2021)
-- Ana Parra (Biology Honours student, 2020-2021)
-- Kunwar Puri (BIOL448 Directed Studies student and member, team togoi; 2019-2021)
-- Atbeen Rezazadah (BIOL448 Directed Studies student and member, team togoi; 2019-2021)
-- Weison Chu (BIOL448 Directed Studies student and member, team feeding; 2019-2020)
-- Kevin Poon (BIOL448 Directed Studies student and member, team feeding; 2019-2020)
-- Madhurya Sekhar (BIOL448 Directed Studies student and member, team feeding; 2019-2020)
-- Nicole Cheng (Undergraduate Directed Studies student, 2020)
+- Weison Chu (Biology Directed Studies, 2019-2020)
+- Hanna Elford (Integrated Science Directed Studies, 2022)
 - Britya Ghosh, M.Sc. CELL Program 2020.  [Lab of Dr. Mike Gordon](https://www.zoology.ubc.ca/~gordon/), UBC Zoology
+- Quinn Kelley (Biology Directed Studies, 2021)
+- Cassidy Mark (Biology Co-op Undergraduate Research Assistant, 2022)
+- Andrew Oh (Biology Directed Studies, 2021-2022)
+- Ana Parra (Biology Honours, 2020-2021)
+- Smit Patel (Biology Directed Studies, 2021-2022)
+- Dan Peach (Postdoctoral Fellow, 2019-2022; now Assistant Professor at University of Georgia)
+- Kevin Poon (Biology Directed Studies, 2019-2020)
+- Kunwar Puri (Biology Directed Studies student and member, team togoi; 2019-2021)
+- Atbeen Rezazadah (Biology Directed Studies, 2019-2021)
+- Maryann Rogers (NSERC USRA and Biology Honours, 2021-2022)
+- Madhurya Sekhar (Biology Directed Studies, 2019-2020)
+- Lauren Semkow (Biology Directed Studies and UBC SURE, 2021-2022)
+- Bhaskar Yechuri (part time electronics technician, 2020-2021)
+- Annie Zeng (Biology Directed Studies, 2020-2021)
+
 
 {% include feature_row %}
