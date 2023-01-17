@@ -47,6 +47,13 @@ feature_row2:
      url: "/people/#leisl"
      btn_label: "Read More"
      btn_class: "btn--inverse"
+   - image_path: /assets/images/larvae-sq.png
+     alt: "Jonathan Chiang"
+     title: "Jonathan Chiang"
+     excerpt: "M.Sc. student, Genome Sciences and Technology (GSAT)"
+     url: "/people/#jonathan"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"
    - image_path: /assets/images/elsa.png
      alt: "Elsa Cyr"
      title: "Elsa Cyr"
@@ -92,13 +99,6 @@ feature_row3:
      btn_label: "Read More"
      btn_class: "btn--inverse" 
    - image_path: /assets/images/larvae-sq.png
-     alt: "Dania Samara"
-     title: "Dania Samara"
-     excerpt: "Biology Directed Studies student"
-     url: "/people/#dania"
-     btn_label: "Read More"
-     btn_class: "btn--inverse" 
-   - image_path: /assets/images/larvae-sq.png
      alt: "Parsa Seyfourian"
      title: "Parsa Seyfourian"
      excerpt: "Biology Honours student"
@@ -119,13 +119,6 @@ feature_row3:
      url: "/people/#dirk"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-   - image_path: /assets/images/larvae-sq.png
-     alt: "Celine Zhang"
-     title: "Celine Zhang"
-     excerpt: "Biology Directed Studies student"
-     url: "/people/#celine"
-     btn_label: "Read More"
-     btn_class: "btn--inverse"    
      
 ---
 
@@ -223,9 +216,6 @@ Nick received his B.Sc. in Environmental Sciences and Biology at the University 
 Bing is a fourth-year biology student here at UBC. He is working on a parasitology based project using behavioural assay with postdoctoral fellow Jeff Doherty as his directed study for the 2022 winter term. He has an interest in the behaviour of the parasite-infected host namely hairworm-infected crickets. He is working to determine the environmental cues that lead to the hydrotaxis behaviour of hairworm-infected cricket here at Ben Matthews Lab. In his free time, he likes keeping nepenthes carnivorous plants.
 <br/>
 
-{: #dania}
-### Dania Samara (Biology Directed Studies, 2022)
-<br/>
 
 {: #parsa}
 ### Parsa Seyfourian (Biology Directed Studies and Honours, 2021-2022; Biodiversity Fellowship Award Winner, 2022)
@@ -235,9 +225,6 @@ Bing is a fourth-year biology student here at UBC. He is working on a parasitolo
 ### Danica Shannon (UBC Science Co-op researcher and Biology Honours, 2022)
 <br/>
 
-{: #celine}
-### Celine Zhang (Biology Directed Studies, 2022)
-<br/>
 
 <br/>
 
@@ -266,10 +253,12 @@ I’m Dirk VandePol, an unassigned sessional lecturer, joining the lab in some l
 - Kunwar Puri (Biology Directed Studies student and member, team togoi; 2019-2021)
 - Atbeen Rezazadah (Biology Directed Studies, 2019-2021)
 - Maryann Rogers (NSERC USRA and Biology Honours, 2021-2022)
+- Dania Samara (Biology Directed Studies, 2022)
 - Madhurya Sekhar (Biology Directed Studies, 2019-2020)
 - Lauren Semkow (Biology Directed Studies and UBC SURE, 2021-2022)
 - Bhaskar Yechuri (part time electronics technician, 2020-2021)
 - Annie Zeng (Biology Directed Studies, 2020-2021)
+- Celine Zhang (Biology Directed Studies, 2022)
 
 
 {% include feature_row %}
