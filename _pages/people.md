@@ -171,6 +171,12 @@ Jeff received his PhD from the University of Otago, where he studied the ecology
 Leisl received her B.Sc. in Zoology at University College London (UCL) in the UK where she completed a research project looking at the evolution of biomineralization in molluscs. Leisl now continues her work in invertebrate zoology, looking at the genomic and molecular mechanisms behind sensory behaviour in the <i>Aedes aegypti</i> mosquito.
 <br/> <br/> 
 
+{: #jonathan }
+### Jonathan Chiang, M.Sc. Student, Genome Sciences and Technology (2023-present)
+
+Jonathan was a Biology Co-op Undergraduate Research Assistant in 2021. After graduating from UBC in 2022 with a degree in Biology and a Masters of Management from the Sauder School of Business, he returned to the lab as a M.Sc. student where he is working on genome assembly and annotation.
+<br/> <br/> 
+
 {: #elsa}
 ### Elsa Cyr, M.Sc. Student, Zoology (2021-present; co-supervised with [Mike Gordon](https://www.zoology.ubc.ca/~gordon/))
 Elsa received her B.Sc. in Biology at UBC where she completed a research project investigating optimal flight patterns in birds with various stimuli. She has an interest in physiology, genetics, and neurobiology. Elsa now works in the Ben Matthews lab and the Mike Gordon lab investigating the cellular and molecular basis of taste processing in <i>Aedes aegypti</i> mosquitoes using the <i>Drosophila melanogaster</i> taste mechanism model.
@@ -239,22 +245,22 @@ I’m Dirk VandePol, an unassigned sessional lecturer, joining the lab in some l
 - Aleksandra Anoshina (NSERC USRA and Biology Honours, 2020-2021)
 - Joshua Chen (NSERC USRA and Biology Honours, 2021-2022)
 - Nicole Cheng (Undergraduate Directed Studies, 2020)
-- Jonathan Chiang (Biology Co-op Undergraduate Research Assistant, 2021)
+
 - Weison Chu (Biology Directed Studies, 2019-2020)
 - Hanna Elford (Integrated Science Directed Studies, 2022)
-- Britya Ghosh, M.Sc. CELL Program 2020.  [Lab of Dr. Mike Gordon](https://www.zoology.ubc.ca/~gordon/), UBC Zoology
+- Britya Ghosh, M.Sc. CELL Program 2020.  [Lab of Dr. Mike Gordon](https://www.zoology.ubc.ca/~gordon/), UBC Zoology -- now Research Technician, Kara Marshall Lab, Baylor College of Medicine
 - Quinn Kelley (Biology Directed Studies, 2021)
 - Cassidy Mark (Biology Co-op Undergraduate Research Assistant, 2022)
 - Andrew Oh (Biology Directed Studies, 2021-2022)
 - Ana Parra (Biology Honours, 2020-2021)
 - Smit Patel (Biology Directed Studies, 2021-2022)
-- Dan Peach (Postdoctoral Fellow, 2019-2022; now Assistant Professor at University of Georgia)
+- Dan Peach (Postdoctoral Fellow, 2019-2022) -- now Assistant Professor at University of Georgia
 - Kevin Poon (Biology Directed Studies, 2019-2020)
 - Kunwar Puri (Biology Directed Studies student and member, team togoi; 2019-2021)
 - Atbeen Rezazadah (Biology Directed Studies, 2019-2021)
 - Maryann Rogers (NSERC USRA and Biology Honours, 2021-2022)
 - Dania Samara (Biology Directed Studies, 2022)
-- Madhurya Sekhar (Biology Directed Studies, 2019-2020)
+- Madhurya Sekhar (Biology Directed Studies, 2019-2020) -- now Research Associate I at Spotlight Therapeutics
 - Lauren Semkow (Biology Directed Studies and UBC SURE, 2021-2022)
 - Bhaskar Yechuri (part time electronics technician, 2020-2021)
 - Annie Zeng (Biology Directed Studies, 2020-2021)
