@@ -235,7 +235,7 @@ I’m Dirk VandePol, an unassigned sessional lecturer, joining the lab in some l
 - Madhurya Sekhar (Biology Directed Studies, 2019-2020) -- now Research Associate I at Spotlight Therapeutics
 - Lauren Semkow (Biology Directed Studies and UBC SURE, 2021-2022)
 - Parsa Seyfourian (Biology Directed Studies & Honours, 2021-2023; Biodiversity Fellowship Award Winner, 2022)
-- Danica Shannon (Biology Honours, 2022-2023)
+- Danica Shannon (Biology Honours, 2022-2023) -- incoming M.Sc. student (Fall 2023), University of Georgia 
 - Bhaskar Yechuri (part time electronics technician, 2020-2021)
 - Annie Zeng (Biology Directed Studies, 2020-2021)
 - Celine Zhang (Biology Directed Studies, 2022)
