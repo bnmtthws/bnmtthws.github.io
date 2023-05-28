@@ -78,40 +78,26 @@ feature_row2:
 
 feature_row3:
    - image_path: /assets/images/larvae-sq.png
-     alt: "Cam Kelsey"
-     title: "Cam Kelsey"
-     excerpt: "Psychology Honours student"
-     url: "/people/#cam"
-     btn_label: "Read More"
-     btn_class: "btn--inverse" 
-   - image_path: /assets/images/larvae-sq.png
-     alt: "Phillip Lee"
-     title: "Phillip Lee"
-     excerpt: "Biology Honours student"
-     url: "/people/#phillip"
-     btn_label: "Read More"
-     btn_class: "btn--inverse" 
-   - image_path: /assets/images/bing.jpg
-     alt: "Bing Liu"
-     title: "Bing Liu"
+     alt: "Layla Ali"
+     title: "Layla Ali"
      excerpt: "Biology Directed Studies student"
-     url: "/people/#bing"
+     url: "/people/#layla"
      btn_label: "Read More"
      btn_class: "btn--inverse" 
    - image_path: /assets/images/larvae-sq.png
-     alt: "Parsa Seyfourian"
-     title: "Parsa Seyfourian"
-     excerpt: "Biology Honours student"
-     url: "/people/#parsa"
+     alt: "Rinky Manivannan"
+     title: "Rinky Manivannan"
+     excerpt: "Biodiversity Research Center Fellowship Awardee"
+     url: "/people/#rinky"
      btn_label: "Read More"
-     btn_class: "btn--inverse"     
+     btn_class: "btn--inverse" 
    - image_path: /assets/images/larvae-sq.png
-     alt: "Danica Shannon"
-     title: "Danica Shannon"
-     excerpt: "Biology Honours student"
-     url: "/people/#danica"
+     alt: "Ben Rossouw"
+     title: "Ben Rossouw"
+     excerpt: "Biology Directed Studies Student"
+     url: "/people/#benR"
      btn_label: "Read More"
-     btn_class: "btn--inverse"
+     btn_class: "btn--inverse" 
    - image_path: /assets/images/dirk.png
      alt: "Dirk VandePol"
      title: "Dirk VandePol"
@@ -207,29 +193,13 @@ Nick received his B.Sc. in Environmental Sciences and Biology at the University 
 
 ## Undergraduate researchers
 
+{: #layla} 
+Layla is a Biology Directed Studies student working with Elsa Cyr on the anatomy of taste processing in *Aedes aegypti* mosquitoes.
+{: #rinky}
+Rinky is a winner of the Biodiversity Research Center Fellowship Award Winner and is joining us for the summer of 2023. She is working with Jonathan Chiang on the annotation of the *Aedes togoi* genome. 
+{: #benR}
+Ben is a Biology Directed Studies student working with Jeff Doherty on hairworm-cricket interactions. 
 
-{: #cam}
-### Cam Kelsey (Psychology Honours, 2022)
-<br/>
-
-{: #phillip}
-### Phillip Lee (Biology Honours, 2022)
-<br/>
-
-{: #bing}
-### Bing Liu (Biology Directed Studies, 2022)
-
-Bing is a fourth-year biology student here at UBC. He is working on a parasitology based project using behavioural assay with postdoctoral fellow Jeff Doherty as his directed study for the 2022 winter term. He has an interest in the behaviour of the parasite-infected host namely hairworm-infected crickets. He is working to determine the environmental cues that lead to the hydrotaxis behaviour of hairworm-infected cricket here at Ben Matthews Lab. In his free time, he likes keeping nepenthes carnivorous plants.
-<br/>
-
-
-{: #parsa}
-### Parsa Seyfourian (Biology Directed Studies and Honours, 2021-2022; Biodiversity Fellowship Award Winner, 2022)
-<br/>
-
-{: #danica}
-### Danica Shannon (UBC Science Co-op researcher and Biology Honours, 2022)
-<br/>
 
 
 <br/>
@@ -245,11 +215,13 @@ I’m Dirk VandePol, an unassigned sessional lecturer, joining the lab in some l
 - Aleksandra Anoshina (NSERC USRA and Biology Honours, 2020-2021)
 - Joshua Chen (NSERC USRA and Biology Honours, 2021-2022)
 - Nicole Cheng (Undergraduate Directed Studies, 2020)
-
 - Weison Chu (Biology Directed Studies, 2019-2020)
 - Hanna Elford (Integrated Science Directed Studies, 2022)
 - Britya Ghosh, M.Sc. CELL Program 2020.  [Lab of Dr. Mike Gordon](https://www.zoology.ubc.ca/~gordon/), UBC Zoology -- now Research Technician, Kara Marshall Lab, Baylor College of Medicine
 - Quinn Kelley (Biology Directed Studies, 2021)
+- Cam Kelsey (Psychology Honours, 2022-2023) -- incoming PhD student (Fall 2023), University of Arizona
+- Phillip Lee (Biology Honours, 2022-2023)
+- Bing Liu (Biology Directed Studies, 2022-2023) -- incoming M.Sc. student (Fall 2023), University of British Columbia
 - Cassidy Mark (Biology Co-op Undergraduate Research Assistant, 2022)
 - Andrew Oh (Biology Directed Studies, 2021-2022)
 - Ana Parra (Biology Honours, 2020-2021)
@@ -262,6 +234,8 @@ I’m Dirk VandePol, an unassigned sessional lecturer, joining the lab in some l
 - Dania Samara (Biology Directed Studies, 2022)
 - Madhurya Sekhar (Biology Directed Studies, 2019-2020) -- now Research Associate I at Spotlight Therapeutics
 - Lauren Semkow (Biology Directed Studies and UBC SURE, 2021-2022)
+- Parsa Seyfourian (Biology Directed Studies & Honours, 2021-2023; Biodiversity Fellowship Award Winner, 2022)
+- Danica Shannon (Biology Honours, 2022-2023)
 - Bhaskar Yechuri (part time electronics technician, 2020-2021)
 - Annie Zeng (Biology Directed Studies, 2020-2021)
 - Celine Zhang (Biology Directed Studies, 2022)
