@@ -127,35 +127,46 @@ Jeff received his PhD from the University of Otago, where he studied the ecology
 
 [Website](https://www.jeff-doherty.com/) [Email](mailto:jeff.doherty@msl.ubc.ca)
 
-{: #tahnee} \### Tahnee Ames, M.Sc. student, Zoology (2021-present; co-supervised with [Phil Matthews](https://matthewslab.zoology.ubc.ca/)) <br/><br/>
+{: #tahnee} 
+### Tahnee Ames, M.Sc. student, Zoology (2021-present; co-supervised with [Phil Matthews](https://matthewslab.zoology.ubc.ca/)) <br/><br/>
 
-{: #leisl } \### Leisl Brewster, M.Sc. Student, Zoology (2020-present)
+{: #leisl } 
+### Leisl Brewster, M.Sc. Student, Zoology (2020-present)
 
 Leisl received her B.Sc. in Zoology at University College London (UCL) in the UK where she completed a research project looking at the evolution of biomineralization in molluscs. Leisl now continues her work in invertebrate zoology, looking at the genomic and molecular mechanisms behind sensory behaviour in the <i>Aedes aegypti</i> mosquito. <br/> <br/>
 
-{: #jonathan } \### Jonathan Chiang, M.Sc. Student, Genome Sciences and Technology (2023-present)
+{: #jonathan } 
+### Jonathan Chiang, M.Sc. Student, Genome Sciences and Technology (2023-present)
 
 Jonathan was a Biology Co-op Undergraduate Research Assistant in 2021. After graduating from UBC in 2022 with a degree in Biology and a Masters of Management from the Sauder School of Business, he returned to the lab as a M.Sc. student where he is working on genome assembly and annotation. <br/> <br/>
 
-{: #elsa} \### Elsa Cyr, M.Sc. Student, Zoology (2021-present; co-supervised with [Mike Gordon](https://www.zoology.ubc.ca/~gordon/)) Elsa received her B.Sc. in Biology at UBC where she completed a research project investigating optimal flight patterns in birds with various stimuli. She has an interest in physiology, genetics, and neurobiology. Elsa now works in the Ben Matthews lab and the Mike Gordon lab investigating the cellular and molecular basis of taste processing in <i>Aedes aegypti</i> mosquitoes using the <i>Drosophila melanogaster</i> taste mechanism model. [Email](mailto:ecyr@zoology.ubc.ca) <br/><br/>
+{: #elsa} 
+### Elsa Cyr, M.Sc. Student, Zoology (2021-present; co-supervised with [Mike Gordon](https://www.zoology.ubc.ca/~gordon/)) 
 
-{: #ivan} \### Ivan Lo, M.Sc. student, Zoology, 2021-present; Biology Honours student, 2020-2021
+Elsa received her B.Sc. in Biology at UBC where she completed a research project investigating optimal flight patterns in birds with various stimuli. She has an interest in physiology, genetics, and neurobiology. Elsa now works in the Ben Matthews lab and the Mike Gordon lab investigating the cellular and molecular basis of taste processing in <i>Aedes aegypti</i> mosquitoes using the <i>Drosophila melanogaster</i> taste mechanism model. [Email](mailto:ecyr@zoology.ubc.ca) <br/><br/>
+
+{: #ivan} 
+### Ivan Lo, M.Sc. student, Zoology, 2021-present; Biology Honours student, 2020-2021
 
 Ivan is currently an M.Sc. student in Zoology after completing an Honours Animal Biology program at UBC. He has previously completed Co-op internship abroad in Singapore at the Genome Institute of Singapore. In the Tang Meng How Lab, his focus area is on DNA and RNA editing, including CRISPR/Cas9 truncation and RNA editing in colorectal cancer cells. He later came back to Vancouver for a Co-op placement in Applied Biological Materials (abm) as a research student. His current research here in the Matthews Lab is on improving genetic editing in <i>Aedes aegypti</i> mosquitoes via CRISPR/Cas9 technology. He hopes to increase DNA repair rates using germline genes. When Ivan is not in the lab, he enjoys baking at home or dancing as part of a Hip Hop dance team. <br/><br/>
 
-{: #orna} \### Orna Phelan, M.Sc. Student, Zoology (2021-present)
-
-Orna received her B.S.c in Zoology at University College Dublin in Ireland where she worked on a physiology project investigating the role of UTB transporters in cow rumen. She has an interest in physiology, molecular biology and entomology and now continues her work at the (Ben) Matthews lab investigating the genetic basis of oviposition behavior in the <i>Aedes togoi mosquito</i>. <br/> <br/>
-
 ## Staff
 
-{: #nick } \### Nicholas Tochor, Research Technician
+{: #nick } 
+### Nicholas Tochor, Research Technician
 
 Nick received his B.Sc. in Environmental Sciences and Biology at the University of British Columbia's Okanagan campus in December 2019. During his undergraduate degree, he worked in several labs specializing in landscape ecology. Past projects include a spatiotemporal analysis of grizzly bear habitat suitability North of Jasper, Alberta; an analysis of mycorrhizal connectivity between understory and canopy forest flora; an analysis of dark diversity patterns in global diatom species richness; and an analysis of the impacts of recreational land use on watersheds within public land in the Okanagan. He is now working as a lab technician in Ben Matthews' and Doug Altshuler's labs. When not in either lab, he enjoys hiking, biking, kayaking, surfing, and playing guitar. <br/> <br/>
 
 ## Undergraduate researchers
 
-{: #layla} Layla is a Biology Directed Studies student working with Elsa Cyr on the anatomy of taste processing in *Aedes aegypti* mosquitoes. {: #rinky} Rinky is a winner of the Biodiversity Research Center Fellowship Award Winner and is joining us for the summer of 2023. She is working with Jonathan Chiang on the annotation of the *Aedes togoi* genome. {: #benR} Ben is a Biology Directed Studies student working with Jeff Doherty on hairworm-cricket interactions.
+{: #layla} 
+Layla is a Biology Directed Studies student working with Elsa Cyr on the anatomy of taste processing in *Aedes aegypti* mosquitoes. 
+
+{: #rinky} 
+Rinky is a winner of the Biodiversity Research Center Fellowship Award Winner and is joining us for the summer of 2023. She is working with Jonathan Chiang on the annotation of the *Aedes togoi* genome. 
+
+{: #benR} 
+Ben is a Biology Directed Studies student working with Jeff Doherty on hairworm-cricket interactions.
 
 <br/>
 
