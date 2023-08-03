@@ -43,7 +43,7 @@ feature_row2:
    - image_path: /assets/images/leislbrewster-sq.jpg
      alt: "Leisl Brewster"
      title: "Leisl Brewster"
-     excerpt: "M.Sc. student, Zoology"
+     excerpt: "Ph.D. student, Zoology"
      url: "/people/#leisl"
      btn_label: "Read More"
      btn_class: "btn--inverse"
@@ -131,7 +131,7 @@ Jeff received his PhD from the University of Otago, where he studied the ecology
 ### Tahnee Ames, M.Sc. student, Zoology (2021-present; co-supervised with [Phil Matthews](https://matthewslab.zoology.ubc.ca/)) <br/><br/>
 
 {: #leisl } 
-### Leisl Brewster, M.Sc. Student, Zoology (2020-present)
+### Leisl Brewster, Ph.D. Student, Zoology (2020-present)
 
 Leisl received her B.Sc. in Zoology at University College London (UCL) in the UK where she completed a research project looking at the evolution of biomineralization in molluscs. Leisl now continues her work in invertebrate zoology, looking at the genomic and molecular mechanisms behind sensory behaviour in the <i>Aedes aegypti</i> mosquito. <br/> <br/>
 
