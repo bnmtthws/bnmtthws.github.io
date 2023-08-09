@@ -15,10 +15,5 @@ At the graduate level, our research group is currently full and is not accepting
 ### Postdoctoral researchers: 
 Candidates at the postdoctoral level should [email Ben](mailto:ben.matthews@zoology.ubc.ca) a CV, contact information for three references, and a brief proposal for a postdoctoral project. As a postdoctoral candidate, you will be expected to identify and apply for external funding (e.g. HFSP, NSERC, CIHR, Michael Smith). Before reaching out, you should research these mechanisms and present a timeline for applying to those for which you are eligible.
 
-### Research staff:
-We are currently hiring a full-time [technician and lab manager](https://ubc.wd10.myworkdayjobs.com/en-US/ubcstaffjobs/job/Research-Assistant--Technician-2_JR13001) with a start date of September 1, 2023. The position is fully funded for up to three years.
-
-
-
 ## Citizen Science:
 We recently began a project, led by Dr. Dan Peach (now at University of Georgia), Joshua Chen, and Danica Shannon, aimed at identifying mosquitoes using genome sequencing and DNA barcoding. We want to sincerely thank you all for the wonderful response to this project, and provide a quick update. [We've received thousands of mosquitoes from all over BC](http://mosquitolab.zoology.ubc.ca/assets/whatbitme/) and for the coming year are only accepting samples from the Central Coast, North Coast, Stikine, Peace River, and Kootney regions. We are currently processing the samples that have been sent in, but due to the overwhelming numbers that were submitted this is taking longer than anticipated. Thank you for your submissions and your patience!
