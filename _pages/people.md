@@ -31,7 +31,14 @@ feature_row1:
      url: "/people/#nick"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-
+   - image_path: /assets/images/larvae-sq.jpg
+     alt: "Bridget White"
+     title: "Bridget White"
+     excerpt: "Laboratory Technician & Insectary Manager"
+     url: "/people/#bridget"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"
+     
 feature_row2:
    - image_path: /assets/images/larvae-sq.png
      alt: "Tahnee Ames"
@@ -47,7 +54,7 @@ feature_row2:
      url: "/people/#leisl"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-   - image_path: /assets/images/larvae-sq.png
+   - image_path: /assets/images/hiking-headshot_720.png
      alt: "Jonathan Chiang"
      title: "Jonathan Chiang"
      excerpt: "M.Sc. student, Genome Sciences and Technology (GSAT)"
