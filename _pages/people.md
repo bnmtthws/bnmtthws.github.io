@@ -31,7 +31,7 @@ feature_row1:
      url: "/people/#nick"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-   - image_path: /assets/images/larvae-sq.jpg
+   - image_path: /assets/images/larvae-sq.png
      alt: "Bridget White"
      title: "Bridget White"
      excerpt: "Laboratory Technician & Insectary Manager"
