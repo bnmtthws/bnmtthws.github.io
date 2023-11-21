@@ -83,28 +83,6 @@ feature_row2:
      btn_label: "Read More"
      btn_class: "btn--inverse"
 
-feature_row3:
-   - image_path: /assets/images/larvae-sq.png
-     alt: "Layla Ali"
-     title: "Layla Ali"
-     excerpt: "Biology Directed Studies student"
-     url: "/people/#layla"
-     btn_label: "Read More"
-     btn_class: "btn--inverse" 
-   - image_path: /assets/images/larvae-sq.png
-     alt: "Rinky Manivannan"
-     title: "Rinky Manivannan"
-     excerpt: "Biodiversity Research Center Fellowship Awardee"
-     url: "/people/#rinky"
-     btn_label: "Read More"
-     btn_class: "btn--inverse" 
-   - image_path: /assets/images/larvae-sq.png
-     alt: "Ben Rossouw"
-     title: "Ben Rossouw"
-     excerpt: "Biology Directed Studies Student"
-     url: "/people/#benR"
-     btn_label: "Read More"
-     btn_class: "btn--inverse" 
 ---
 
 {% include feature_row id = "feature_row1" %} {% include feature_row id = "feature_row2" %} {% include feature_row id = "feature_row3" %}
