@@ -20,21 +20,28 @@ feature_row1:
    - image_path: /assets/images/jeff.jpg
      alt: "Jean-François (Jeff) Doherty, PhD"
      title: "Jean-François (Jeff) Doherty, PhD"
-     excerpt: "Postdoctoral Fellow"
+     excerpt: "Postdoctoral Fellow (co-supervised, Leonard Foster)"
      url: "/people/#jeff"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"   
+   - image_path: /assets/images/larvae-sq.png
+     alt: "Ian Bouyoucos, PhD"
+     title: "Ian Bouyoucos, PhD"
+     excerpt: "Postdoctoral Fellow (co-supervised, Colin Brauner)"
+     url: "/people/#ian"
      btn_label: "Read More"
      btn_class: "btn--inverse"   
    - image_path: /assets/images/tochor.jpg
      alt: "Nicholas Tochor"
      title: "Nicholas Tochor"
-     excerpt: "Laboratory Technician & Lab Manager"
+     excerpt: "Research Technician & Lab Manager"
      url: "/people/#nick"
      btn_label: "Read More"
      btn_class: "btn--inverse"
    - image_path: /assets/images/larvae-sq.png
      alt: "Bridget White"
      title: "Bridget White"
-     excerpt: "Laboratory Technician & Insectary Manager"
+     excerpt: "Research Technician & Insectary Manager"
      url: "/people/#bridget"
      btn_label: "Read More"
      btn_class: "btn--inverse"
@@ -122,7 +129,7 @@ At UBC, Ben is an Assistant Professor in the Comparative Physiology Group of the
 
 Yunusa has received a long-term Fellowship from HFSP and a three-year Trainee Award from the Michael Smith Foundation for Health Research to support his work. He is focused on understanding egg-laying and other behaviours in strains of *Aedes aegypti* collected from urban and rural environments in sub-Saharan Africa.
 
-[Twitter](https://twitter.com/ygarbawala1) [Email](mailto:yunusa.mohammed@zoology.ubc.ca)
+[Twitter](https://twitter.com/ygarbawala1) [Email](mailto:yunusa.mohammed@zoology.ubc.ca) <br/><br/>
 
 {: #jeff }
 
@@ -132,7 +139,15 @@ Yunusa has received a long-term Fellowship from HFSP and a three-year Trainee Aw
 
 Jeff received his PhD from the University of Otago, where he studied the ecology and evolution of host-parasite interactions. He is a joint-appointed postdoctoral fellow with [Leonard Foster's lab](https://fosterlab.msl.ubc.ca/) and will be working on how parasites can manipulate the behaviour of their host(s) using transcriptomic, proteomic, and quantitative behavioural techniques.
 
-[Website](https://www.jeff-doherty.com/) [Email](mailto:jeff.doherty@msl.ubc.ca)
+[Website](https://www.jeff-doherty.com/) [Email](mailto:jeff.doherty@msl.ubc.ca) <br/><br/>
+
+{: #ian }
+
+### Ian Bouyoucos, PhD
+
+### Postdoctoral Fellow (2023-present)
+
+[Website](https://ianbouyoucos.com/) [Email](mailto:ian.bouyoucos@zoology.ubc.ca) <br/><br/>
 
 {: #tahnee} 
 ### Tahnee Ames, M.Sc. student, Zoology (2021-present; co-supervised with [Phil Matthews](https://matthewslab.zoology.ubc.ca/)) <br/><br/>
@@ -160,20 +175,16 @@ Ivan is currently an M.Sc. student in Zoology after completing an Honours Animal
 ## Staff
 
 {: #nick } 
-### Nicholas Tochor, Research Technician
+### Nicholas Tochor, Laboratory Manager
 
 Nick received his B.Sc. in Environmental Sciences and Biology at the University of British Columbia's Okanagan campus in December 2019. During his undergraduate degree, he worked in several labs specializing in landscape ecology. Past projects include a spatiotemporal analysis of grizzly bear habitat suitability North of Jasper, Alberta; an analysis of mycorrhizal connectivity between understory and canopy forest flora; an analysis of dark diversity patterns in global diatom species richness; and an analysis of the impacts of recreational land use on watersheds within public land in the Okanagan. He is now working as a lab technician in Ben Matthews' and Doug Altshuler's labs. When not in either lab, he enjoys hiking, biking, kayaking, surfing, and playing guitar. <br/> <br/>
 
+{: #bridget } 
+### Bridget White, Insectary Manager
+
+Bridget joins us after finishing her M.Sc. degree at the University of Manitoba in 2023. She is in charge of strain maintenance and all aspects of our insectary operation, in addition to assisting with various projects across the lab. <br/> <br/>
+
 ## Undergraduate researchers
-
-{: #layla} 
-Layla is a Biology Directed Studies student working with Elsa Cyr on the anatomy of taste processing in *Aedes aegypti* mosquitoes. 
-
-{: #rinky} 
-Rinky is a winner of the Biodiversity Research Center Fellowship Award Winner and is joining us for the summer of 2023. She is working with Jonathan Chiang on the annotation of the *Aedes togoi* genome. 
-
-{: #benR} 
-Ben is a Biology Directed Studies student working with Jeff Doherty on hairworm-cricket interactions.
 
 <br/>
 
@@ -183,24 +194,27 @@ Ben is a Biology Directed Studies student working with Jeff Doherty on hairworm-
 
 ## Alumni, undergraduates and affiliates
 
+-   Layla Ali (Biology Directed Studies, 2023)
 -   Aleksandra Anoshina (NSERC USRA and Biology Honours, 2020-2021)
 -   Joshua Chen (NSERC USRA and Biology Honours, 2021-2022)
 -   Nicole Cheng (Undergraduate Directed Studies, 2020)
 -   Weison Chu (Biology Directed Studies, 2019-2020)
 -   Hanna Elford (Integrated Science Directed Studies, 2022)
--   Britya Ghosh, M.Sc. CELL Program 2020. [Lab of Dr. Mike Gordon](https://www.zoology.ubc.ca/~gordon/), UBC Zoology -- now Research Technician, Kara Marshall Lab, Baylor College of Medicine
+-   Britya Ghosh, M.Sc. CELL Program 2020. [Lab of Dr. Mike Gordon](https://www.zoology.ubc.ca/~gordon/), UBC Zoology -- now Ph.D. student, Kara Marshall Lab, Baylor College of Medicine
 -   Quinn Kelley (Biology Directed Studies, 2021)
 -   Cam Kelsey (Psychology Honours, 2022-2023) -- incoming PhD student (Fall 2023), University of Arizona
--   Phillip Lee (Biology Honours, 2022-2023)
--   Bing Liu (Biology Directed Studies, 2022-2023) -- incoming M.Sc. student (Fall 2023), University of British Columbia
+-   Phillip Lee (Biology Honours, 2022-2023) -- incoming M.Sc. student (Fall 2023), Altshuler Lab, University of British Columbia
+-   Bing Liu (Biology Directed Studies, 2022-2023) -- incoming M.Sc. student (Fall 2023), Richards Lab, University of British Columbia
+-   Rinky Manivannan (Biodiversity Research Center Fellowship Awardee and Undergraduate Researcher, 2023)
 -   Cassidy Mark (Biology Co-op Undergraduate Research Assistant, 2022)
 -   Andrew Oh (Biology Directed Studies, 2021-2022)
 -   Ana Parra (Biology Honours, 2020-2021)
 -   Smit Patel (Biology Directed Studies, 2021-2022)
 -   Kevin Poon (Biology Directed Studies, 2019-2020)
--   Kunwar Puri (Biology Directed Studies student and member, team togoi; 2019-2021)
+-   Kunwar Puri (Biology Directed Studies student, 2019-2021)
 -   Atbeen Rezazadah (Biology Directed Studies, 2019-2021)
 -   Maryann Rogers (NSERC USRA and Biology Honours, 2021-2022)
+-   Ben Roussow (Biology Directed Studies, 2023)
 -   Dania Samara (Biology Directed Studies, 2022)
 -   Madhurya Sekhar (Biology Directed Studies, 2019-2020) -- now Research Associate I at Spotlight Therapeutics
 -   Lauren Semkow (Biology Directed Studies and UBC SURE, 2021-2022)
