@@ -24,7 +24,7 @@ feature_row1:
      url: "/people/#jeff"
      btn_label: "Read More"
      btn_class: "btn--inverse"   
-   - image_path: /assets/images/ian.jpg
+   - image_path: /assets/images/ian.JPG
      alt: "Ian Bouyoucos, PhD"
      title: "Ian Bouyoucos, PhD"
      excerpt: "Postdoctoral Fellow (co-supervised, Colin Brauner)"
