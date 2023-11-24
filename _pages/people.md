@@ -24,7 +24,7 @@ feature_row1:
      url: "/people/#jeff"
      btn_label: "Read More"
      btn_class: "btn--inverse"   
-   - image_path: /assets/images/larvae-sq.png
+   - image_path: /assets/images/ian.jpg
      alt: "Ian Bouyoucos, PhD"
      title: "Ian Bouyoucos, PhD"
      excerpt: "Postdoctoral Fellow (co-supervised, Colin Brauner)"
@@ -124,6 +124,8 @@ Jeff received his PhD from the University of Otago, where he studied the ecology
 ### Ian Bouyoucos, PhD
 
 ### Postdoctoral Fellow (2023-present)
+
+Ian recently completed postdoctoral training at the University of Manitoba where he researched functional evolution of the hypothalamus-pituitary-interrenal axis in chondrichthyan fishes. He received his PhD from James Cook University and École Pratique des Hautes Études where he studied ecophysiology in reef sharks in the context of climate change. In the Matthews and Brauner labs, Ian studies the effects of aquatic acidification and habitat on imprinting and homing in Pacific salmon.
 
 [Website](https://ianbouyoucos.com/) [Email](mailto:ian.bouyoucos@zoology.ubc.ca) <br/><br/>
 
