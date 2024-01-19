@@ -9,5 +9,5 @@ Braving a snowstorm, Elsa Cyr hopped onto zoom this afternoon and defended her M
 
 ![mural][mural]
 
-[mural]: /assets/images/elsa-painting.jpeg "Elsa Cyr, Mural Painter"
+[mural]: /assets/images/elsa-painting.jpg "Elsa Cyr, Mural Painter"
 
