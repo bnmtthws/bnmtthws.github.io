@@ -9,6 +9,9 @@ sidebar:
 {: #research }
 ### Research publications
 
+- [Cross-modal sensory compensation increases mosquito attraction to humans](https://www.biorxiv.org/content/10.1101/2023.10.10.561721v1)<br/>
+Morita T., Lyn N.G., von Heynitz R.K., Goldman O.V., Sorrells T.R., DeGennaro M., **Matthews B.J.**, Houri-Zeevi L., Vosshall L.B. *bioRxiv* (2023)<br/>
+
 - [Non-Canonical Odor Coding in the Mosquito](https://authors.elsevier.com/sd/article/S0092867422009278)<br/> 
 Herre M., Goldman O.V., Lu T-C., Caballero-Vidal G., Qi Y., Gilbert Z.N., Gong Z., Morita T., Rahiel S., Ghaninia M., Ignell R., **Matthews B.J.**, Li H., Vosshall L.B., Younger M.A. *Cell* (2022) *bioRxiv* (2020; 2022)<br/>
 
@@ -55,8 +58,9 @@ Trible W., Olivos-Cisneros L., McKenzie S.K., Saragosti J., Chang, N.C., **Matth
 
 Details on publications can also be found at [Google Scholar](https://scholar.google.com/citations?user=REWvweQAAAAJ) and [ORCID](https://orcid.org/0000-0002-8697-699X)
 
-{: #reviews }
+{: #reviews and protocols}
 ### Reviews
+- An update and review of arthropod vector sensory systems: potential targets for behavioural manipulation by parasites and other disease agents. Doherty J-F., Ames T., Brewster L.I., Chiang J., Cyr E., Kelsey C.R., Lee J.P., Liu B., Lo I., Nirwal G.K., Mohammed Y.G., Phelan O., Seyfouran P., Shannon D.M., Tochor N.K., Matthews B.J.<br/> *Advances in Parasitology* (2024, in revision)
 - [The Invasive Mosquitoes of Canada: An Entomological, Medical, and Veterinary Review](https://doi.org/10.4269/ajtmh.21-0167)
 <br/> Peach, D.A.H., and Matthews, B.J. <br/>*The American Journal of Tropical Medicine and Hygiene* (2022)
 - [Host manipulation, gene editing, and non-traditional model organisms: a new frontier for behavioral research?](https://www.frontiersin.org/articles/10.3389/finsc.2022.938644/abstract)
