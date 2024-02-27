@@ -10,5 +10,5 @@ We were excited to welcome visitors from the [UBC Geering Up](https://geeringup.
 ![geering1][geering1]
 ![geering2][geering2]
 
-[geering1]: /assets/images/2024-geering-1 "UBC Geering Up visits the lab"
-[geering2]: /assets/images/2024-geering-2 "UBC Geering Up visits the lab"
+[geering1]: /assets/images/2024-geering-1.jpg "UBC Geering Up visits the lab"
+[geering2]: /assets/images/2024-geering-2.jpg "UBC Geering Up visits the lab"
