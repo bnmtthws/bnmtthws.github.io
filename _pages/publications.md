@@ -9,6 +9,9 @@ sidebar:
 {: #research }
 ### Research publications
 
+- [Cross-modal sensory compensation increases mosquito attraction to humans](https://www.biorxiv.org/content/10.1101/2023.10.10.561721v1)<br/>
+Morita T., Lyn N.G., von Heynitz R.K., Goldman O.V., Sorrells T.R., DeGennaro M., **Matthews B.J.**, Houri-Zeevi L., Vosshall L.B. *bioRxiv* (2023)<br/>
+
 - [Non-Canonical Odor Coding in the Mosquito](https://authors.elsevier.com/sd/article/S0092867422009278)<br/> 
 Herre M., Goldman O.V., Lu T-C., Caballero-Vidal G., Qi Y., Gilbert Z.N., Gong Z., Morita T., Rahiel S., Ghaninia M., Ignell R., **Matthews B.J.**, Li H., Vosshall L.B., Younger M.A. *Cell* (2022) *bioRxiv* (2020; 2022)<br/>
 
@@ -55,8 +58,11 @@ Trible W., Olivos-Cisneros L., McKenzie S.K., Saragosti J., Chang, N.C., **Matth
 
 Details on publications can also be found at [Google Scholar](https://scholar.google.com/citations?user=REWvweQAAAAJ) and [ORCID](https://orcid.org/0000-0002-8697-699X)
 
-{: #reviews }
-### Reviews
+{: #reviews}
+### Reviews and protocols
+- An update and review of arthropod vector sensory systems: potential targets for behavioural manipulation by parasites and other disease agents. Doherty J-F., Ames T., Brewster L.I., Chiang J., Cyr E., Kelsey C.R., Lee J.P., Liu B., Lo I., Nirwal G.K., Mohammed Y.G., Phelan O., Seyfouran P., Shannon D.M., Tochor N.K., **Matthews B.J.**<br/> *Advances in Parasitology* (2024, in revision)
+- [Evaluating egg-laying preference of individual *Aedes aegypti* mosquitoes](https://cshprotocols.cshlp.org/content/early/2023/12/08/pdb.prot108341.abstract), [Automated egg-counting approaches for *Aedes aegypti* oviposition experiments](https://cshprotocols.cshlp.org/content/early/2023/12/08/pdb.prot108342.abstract), and topic introduction: [Measuring Oviposition Preference in Aedes aegypti Mosquitoes](https://cshprotocols.cshlp.org/content/early/2023/12/08/pdb.top107670.abstract)<br/> Tochor T.K., Mohammed Y.G., **Matthews B.J.**<br/> *Cold Spring Harbor Protocols* (2023)
+- [Validating Single-Guide RNA for Aedes aegypti Gene Editing](https://cshprotocols.cshlp.org/content/early/2023/10/09/pdb.prot108340.abstract) and topic introduction: [Design and Validation of Guide RNAs for CRISPR–Cas9 Genome Editing in Mosquitoes](https://cshprotocols.cshlp.org/content/early/2023/10/09/pdb.top107688.abstract)<br/> Lo, I. H-Y., and **Matthews, B.J.** <br/> *Cold Spring Harbor Protocols* (2023)
 - [The Invasive Mosquitoes of Canada: An Entomological, Medical, and Veterinary Review](https://doi.org/10.4269/ajtmh.21-0167)
 <br/> Peach, D.A.H., and Matthews, B.J. <br/>*The American Journal of Tropical Medicine and Hygiene* (2022)
 - [Host manipulation, gene editing, and non-traditional model organisms: a new frontier for behavioral research?](https://www.frontiersin.org/articles/10.3389/finsc.2022.938644/abstract)
@@ -75,6 +81,8 @@ Details on publications can also be found at [Google Scholar](https://scholar.go
 
 {: #press }
 ### Press
+- [We can genetically modify pests. But should we?](https://thebigstorypodcast.ca/2023/11/27/we-can-genetically-modify-pests-but-should-we/)<br/> The Big Story Podcast, November 2023.
+- [Canadian Council of Aacademies: Report on Regulating Gene-Edited Organisms for Pest Control ](https://rapports-cac.ca/reports/gene-edited-organisms-for-pest-control/) <br/> Canadian Council of Academies, November 2023.
 - [UBC biologist recognized as one of North America’s top young scientists](https://science.ubc.ca/news/ubc-biologist-recognized-one-north-america%E2%80%99s-top-young-scientists)<br/> Silvia Moreno-Garcia, UBC Faculty of Science, February 16, 2021.
 - [Blood is the life: An appreciation of mosquitoes](https://focus.science.ubc.ca/mosquito-970c4d6de785)<br/> Silvia Moreno-Garcia, UBC Faculty of Science, October 19, 2020.
 - [Science Says: Why scientists prize plant, animal genomes](https://www.apnews.com/6b19552bee6a4b4c84d3aaaab7f37cdb) <br/> Malcolm Ritter, Associated Press, March 29 2019.
