@@ -33,7 +33,7 @@ feature_row1:
      btn_class: "btn--inverse"   
    - image_path: /assets/images/Foto-Hulai-Oleksandr.jpg
      alt: "Oleksandr Hulai"
-     title: "NOleksandr Hulai"
+     title: "Oleksandr Hulai"
      excerpt: "Research Associate"
      url: "/people/#alex"
      btn_label: "Read More"
