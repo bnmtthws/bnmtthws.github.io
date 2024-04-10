@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "Welcome to UBC Geering Up"
+title:  "Congratulations Tahnee!"
 date:   2024-03-27 12:00:00 -0800
 categories: lab news
 ---

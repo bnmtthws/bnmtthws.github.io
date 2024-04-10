@@ -31,6 +31,13 @@ feature_row1:
      url: "/people/#ian"
      btn_label: "Read More"
      btn_class: "btn--inverse"   
+   - image_path: /assets/images/Foto-Hulai-Oleksandr.jpg
+     alt: "Oleksandr Hulai"
+     title: "NOleksandr Hulai"
+     excerpt: "Research Associate"
+     url: "/people/#alex"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"
    - image_path: /assets/images/tochor.jpg
      alt: "Nicholas Tochor"
      title: "Nicholas Tochor"
@@ -47,13 +54,6 @@ feature_row1:
      btn_class: "btn--inverse"
      
 feature_row2:
-   - image_path: /assets/images/larvae-sq.png
-     alt: "Tahnee Ames"
-     title: "Tahnee Ames"
-     excerpt: "M.Sc. student, Zoology"
-     url: "/people/#tahnee"
-     btn_label: "Read More"
-     btn_class: "btn--inverse"
    - image_path: /assets/images/leislbrewster-sq.jpg
      alt: "Leisl Brewster"
      title: "Leisl Brewster"
@@ -66,13 +66,6 @@ feature_row2:
      title: "Jonathan Chiang"
      excerpt: "M.Sc. student, Genome Sciences and Technology (GSAT)"
      url: "/people/#jonathan"
-     btn_label: "Read More"
-     btn_class: "btn--inverse"
-   - image_path: /assets/images/elsa.png
-     alt: "Elsa Cyr"
-     title: "Elsa Cyr"
-     excerpt: "M.Sc. student, Zoology"
-     url: "/people/#elsa"
      btn_label: "Read More"
      btn_class: "btn--inverse"
    - image_path: /assets/images/ivanlo-sq.jpg
@@ -129,9 +122,6 @@ Ian recently completed postdoctoral training at the University of Manitoba where
 
 [Website](https://ianbouyoucos.com/) [Email](mailto:ian.bouyoucos@zoology.ubc.ca) <br/><br/>
 
-{: #tahnee} 
-### Tahnee Ames, M.Sc. student, Zoology (2021-present; co-supervised with [Phil Matthews](https://matthewslab.zoology.ubc.ca/)) <br/><br/>
-
 {: #leisl } 
 ### Leisl Brewster, Ph.D. Student, Zoology (2020-present)
 
@@ -142,17 +132,18 @@ Leisl received her B.Sc. in Zoology at University College London (UCL) in the UK
 
 Jonathan was a Biology Co-op Undergraduate Research Assistant in 2021. After graduating from UBC in 2022 with a degree in Biology and a Masters of Management from the Sauder School of Business, he returned to the lab as a M.Sc. student where he is working on genome assembly and annotation. <br/> <br/>
 
-{: #elsa} 
-### Elsa Cyr, M.Sc. Student, Zoology (2021-present; co-supervised with [Mike Gordon](https://www.zoology.ubc.ca/~gordon/)) 
-
-Elsa received her B.Sc. in Biology at UBC where she completed a research project investigating optimal flight patterns in birds with various stimuli. She has an interest in physiology, genetics, and neurobiology. Elsa now works in the Ben Matthews lab and the Mike Gordon lab investigating the cellular and molecular basis of taste processing in <i>Aedes aegypti</i> mosquitoes using the <i>Drosophila melanogaster</i> taste mechanism model. [Email](mailto:ecyr@zoology.ubc.ca) <br/><br/>
-
 {: #ivan} 
 ### Ivan Lo, M.Sc. student, Zoology, 2021-present; Biology Honours student, 2020-2021
 
 Ivan is currently an M.Sc. student in Zoology after completing an Honours Animal Biology program at UBC. He has previously completed Co-op internship abroad in Singapore at the Genome Institute of Singapore. In the Tang Meng How Lab, his focus area is on DNA and RNA editing, including CRISPR/Cas9 truncation and RNA editing in colorectal cancer cells. He later came back to Vancouver for a Co-op placement in Applied Biological Materials (abm) as a research student. His current research here in the Matthews Lab is on improving genetic editing in <i>Aedes aegypti</i> mosquitoes via CRISPR/Cas9 technology. He hopes to increase DNA repair rates using germline genes. When Ivan is not in the lab, he enjoys baking at home or dancing as part of a Hip Hop dance team. <br/><br/>
 
 ## Staff
+
+{: #alex}
+### Oleksandr Hulai, Research Associate (2024-present)
+
+Oleksandr holds a Master’s degree in Veterinary Medicine (1997). He received his doctorate in ecology in 2005 for his research on the spirochete Leptospira interrogans, a pathogen for humans and animals, and their ecological relationships in freshwater. His postdoctoral research included the study of the ecology of the pathogenic bacterium *Erysipelothrix rhusiopathiae*. For the last year and a half, Oleksandr worked as a visiting researcher in the laboratory of Professor Flaminia Catteruccia at the Harvard T.H. Chan School of Public Health (USA). There he participated in the study of the interaction between *Anopheles gambiae* and the malaria pathogen Plasmodium. At UBC, Oleksandr will be working on generating genetic tools to investigate the links between olfaction and immunity in *Aedes aegypti* mosquitoes.
+
 
 {: #nick } 
 ### Nicholas Tochor, Laboratory Manager
@@ -175,10 +166,12 @@ Bridget joins us after finishing her M.Sc. degree at the University of Manitoba 
 ## Alumni, undergraduates and affiliates
 
 -   Layla Ali (Biology Directed Studies, 2023)
+-   Tahnee Ames (M.Sc. student co-supervised with Phil Matthews, 2021-2024)
 -   Aleksandra Anoshina (NSERC USRA and Biology Honours, 2020-2021)
 -   Joshua Chen (NSERC USRA and Biology Honours, 2021-2022)
 -   Nicole Cheng (Undergraduate Directed Studies, 2020)
 -   Weison Chu (Biology Directed Studies, 2019-2020)
+-   Elsa Cyr (M.Sc. student co-supervised with Mike Gordon, 2021-2024)
 -   Hanna Elford (Integrated Science Directed Studies, 2022)
 -   Britya Ghosh, M.Sc. CELL Program 2020. [Lab of Dr. Mike Gordon](https://www.zoology.ubc.ca/~gordon/), UBC Zoology -- now Ph.D. student, Kara Marshall Lab, Baylor College of Medicine
 -   Quinn Kelley (Biology Directed Studies, 2021)
