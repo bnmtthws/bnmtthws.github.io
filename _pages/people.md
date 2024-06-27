@@ -179,25 +179,25 @@ Bridget joins us after finishing her M.Sc. degree at the University of Manitoba 
 <br/>
 
 ## Alumni, graduate students and postdocs
+-   Tahnee Ames (M.Sc. student co-supervised with Phil Matthews, 2021-2024)
+-   Elsa Cyr (M.Sc. student co-supervised with Mike Gordon, 2021-2024)
+-   Ivan Lo (M.Sc. student, Zoology, 2021-2024) -- now Research Technician at Zymeworks, Vancouver.
 -   Dan Peach (Postdoctoral Fellow, 2019-2022) -- now Assistant Professor at University of Georgia
 -   Orna Phelan, M.Sc. Zoology 2023 -- now Wildlife Biologist, Northwest Territories
 
 ## Alumni, undergraduates and affiliates
 
 -   Layla Ali (Biology Directed Studies, 2023)
--   Tahnee Ames (M.Sc. student co-supervised with Phil Matthews, 2021-2024)
 -   Aleksandra Anoshina (NSERC USRA and Biology Honours, 2020-2021)
 -   Joshua Chen (NSERC USRA and Biology Honours, 2021-2022)
 -   Nicole Cheng (Undergraduate Directed Studies, 2020)
 -   Weison Chu (Biology Directed Studies, 2019-2020)
--   Elsa Cyr (M.Sc. student co-supervised with Mike Gordon, 2021-2024)
 -   Hanna Elford (Integrated Science Directed Studies, 2022)
 -   Britya Ghosh, M.Sc. CELL Program 2020. [Lab of Dr. Mike Gordon](https://www.zoology.ubc.ca/~gordon/), UBC Zoology -- now Ph.D. student, Kara Marshall Lab, Baylor College of Medicine
 -   Quinn Kelley (Biology Directed Studies, 2021)
 -   Cam Kelsey (Psychology Honours, 2022-2023) -- incoming PhD student (Fall 2023), University of Arizona
 -   Phillip Lee (Biology Honours, 2022-2023) -- incoming M.Sc. student (Fall 2023), Altshuler Lab, University of British Columbia
 -   Bing Liu (Biology Directed Studies, 2022-2023) -- incoming M.Sc. student (Fall 2023), Richards Lab, University of British Columbia
--   Ivan Lo (M.Sc. student, Zoology, 2021-2024)
 -   Rinky Manivannan (Biodiversity Research Center Fellowship Awardee and Undergraduate Researcher, 2023)
 -   Cassidy Mark (Biology Co-op Undergraduate Research Assistant, 2022)
 -   Andrew Oh (Biology Directed Studies, 2021-2022)
