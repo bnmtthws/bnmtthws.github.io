@@ -68,11 +68,25 @@ feature_row2:
      url: "/people/#jonathan"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-   - image_path: /assets/images/ivanlo-sq.jpg
-     alt: "Ivan Lo"
-     title: "Ivan Lo"
-     excerpt: "M.Sc. student, Zoology"
-     url: "/people/#ivan"
+   - image_path: /assets/images/larvae-sq.png
+     alt: "Eric Reich"
+     title: "Eric Reich"
+     excerpt: "M.Sc. student, Zoology (co-supervised with Colin Brauner)"
+     url: "/people/#eric"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"   
+   - image_path: /assets/images/larvae-sq.png
+     alt: "Ralitza Sevova"
+     title: "Ralitza Sevova"
+     excerpt: "M.Sc. student, Zoology (co-supervised with Colin Brauner)"
+     url: "/people/#ralitza"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"        
+   - image_path: /assets/images/larvae-sq.png
+     alt: "Shelly Wu"
+     title: "Shelly Wu"
+     excerpt: "Ph.D. student, Zoology (co-supervised with Duncan Leitch)"
+     url: "/people/#shelly"
      btn_label: "Read More"
      btn_class: "btn--inverse"
 
@@ -132,10 +146,15 @@ Leisl received her B.Sc. in Zoology at University College London (UCL) in the UK
 
 Jonathan was a Biology Co-op Undergraduate Research Assistant in 2021. After graduating from UBC in 2022 with a degree in Biology and a Masters of Management from the Sauder School of Business, he returned to the lab as a M.Sc. student where he is working on genome assembly and annotation. <br/> <br/>
 
-{: #ivan} 
-### Ivan Lo, M.Sc. student, Zoology, 2021-present; Biology Honours student, 2020-2021
+{: #eric} 
+### Eric Reich, M.Sc. Student, Zoology (2024-present);
 
-Ivan is currently an M.Sc. student in Zoology after completing an Honours Animal Biology program at UBC. He has previously completed Co-op internship abroad in Singapore at the Genome Institute of Singapore. In the Tang Meng How Lab, his focus area is on DNA and RNA editing, including CRISPR/Cas9 truncation and RNA editing in colorectal cancer cells. He later came back to Vancouver for a Co-op placement in Applied Biological Materials (abm) as a research student. His current research here in the Matthews Lab is on improving genetic editing in <i>Aedes aegypti</i> mosquitoes via CRISPR/Cas9 technology. He hopes to increase DNA repair rates using germline genes. When Ivan is not in the lab, he enjoys baking at home or dancing as part of a Hip Hop dance team. <br/><br/>
+Eric joined the lab in May 2024 to work on the impact of water acidification on salmon imprinting and olfaction as part of the BCSRIF project led by Ian Bouyoucos. Eric is co-supervised by Colin Brauner. <br/><br/>
+
+{: #ralitza} 
+### Ralitza Sevova, M.Sc. Student, Zoology (2024-present);
+
+Ralitza joined the lab in May 2024 to work on the impact of water acidification on salmon imprinting and olfaction as part of the BCSRIF project led by Ian Bouyoucos. Ralitza is co-supervised by Colin Brauner. <br/><br/>
 
 ## Staff
 
@@ -178,6 +197,7 @@ Bridget joins us after finishing her M.Sc. degree at the University of Manitoba 
 -   Cam Kelsey (Psychology Honours, 2022-2023) -- incoming PhD student (Fall 2023), University of Arizona
 -   Phillip Lee (Biology Honours, 2022-2023) -- incoming M.Sc. student (Fall 2023), Altshuler Lab, University of British Columbia
 -   Bing Liu (Biology Directed Studies, 2022-2023) -- incoming M.Sc. student (Fall 2023), Richards Lab, University of British Columbia
+-   Ivan Lo (M.Sc. student, Zoology, 2021-2024)
 -   Rinky Manivannan (Biodiversity Research Center Fellowship Awardee and Undergraduate Researcher, 2023)
 -   Cassidy Mark (Biology Co-op Undergraduate Research Assistant, 2022)
 -   Andrew Oh (Biology Directed Studies, 2021-2022)
