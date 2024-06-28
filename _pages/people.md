@@ -38,7 +38,7 @@ feature_row1:
      url: "/people/#alex"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-   - image_path: /assets/images/tochor.jpg
+   - image_path: /assets/images/tochor2.jpg
      alt: "Nicholas Tochor"
      title: "Nicholas Tochor"
      excerpt: "Research Technician & Lab Manager"
