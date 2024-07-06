@@ -45,7 +45,7 @@ feature_row1:
      url: "/people/#nick"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-   - image_path: /assets/images/larvae-sq.png
+   - image_path: /assets/images/Bridget_White_cropped.png
      alt: "Bridget White"
      title: "Bridget White"
      excerpt: "Research Technician & Insectary Manager"
@@ -172,7 +172,7 @@ Nick received his B.Sc. in Environmental Sciences and Biology at the University 
 {: #bridget } 
 ### Bridget White, Insectary Manager
 
-Bridget joins us after finishing her M.Sc. degree at the University of Manitoba in 2023. She is in charge of strain maintenance and all aspects of our insectary operation, in addition to assisting with various projects across the lab. <br/> <br/>
+Bridget joins us after finishing her M.Sc. degree in Entomology at the University of Manitoba in 2023, and brings with her experience in insect rearing at scale from her time working in a Black Solider Fly facility. She is in charge of mosquito strain maintenance and all aspects of our insectary operation, while also supporting a wide variety of scientific projects throughout the lab. <br/> <br/>
 
 ## Undergraduate researchers
 
