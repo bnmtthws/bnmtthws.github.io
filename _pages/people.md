@@ -33,7 +33,7 @@ feature_row1:
      btn_class: "btn--inverse"   
    - image_path: /assets/images/Foto-Hulai-Oleksandr.jpg
      alt: "Oleksandr Hulai"
-     title: "Oleksandr Hulai"
+     title: "Oleksandr Hulai, PhD"
      excerpt: "Research Associate"
      url: "/people/#alex"
      btn_label: "Read More"
@@ -57,7 +57,7 @@ feature_row2:
    - image_path: /assets/images/leislbrewster-sq.jpg
      alt: "Leisl Brewster"
      title: "Leisl Brewster"
-     excerpt: "Ph.D. student, Zoology"
+     excerpt: "Ph.D. candidate, Zoology"
      url: "/people/#leisl"
      btn_label: "Read More"
      btn_class: "btn--inverse"
@@ -66,6 +66,13 @@ feature_row2:
      title: "Jonathan Chiang"
      excerpt: "M.Sc. student, Genome Sciences and Technology (GSAT)"
      url: "/people/#jonathan"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"
+   - image_path: /assets/images/auguste.jpeg
+     alt: "Auguste de Pennart"
+     title: "Auguste de Pennart"
+     excerpt: "Ph.D. student, Zoology"
+     url: "/people/#auguste"
      btn_label: "Read More"
      btn_class: "btn--inverse"
    - image_path: /assets/images/larvae-sq.png
@@ -137,7 +144,7 @@ Ian recently completed postdoctoral training at the University of Manitoba where
 [Website](https://ianbouyoucos.com/) [Email](mailto:ian.bouyoucos@zoology.ubc.ca) <br/><br/>
 
 {: #leisl } 
-### Leisl Brewster, Ph.D. Student, Zoology (2020-present)
+### Leisl Brewster, Ph.D. Candidate, Zoology (2020-present)
 
 Leisl received her B.Sc. in Zoology at University College London (UCL) in the UK where she completed a research project looking at the evolution of biomineralization in molluscs. Leisl now continues her work in invertebrate zoology, looking at the genomic and molecular mechanisms behind sensory behaviour in the <i>Aedes aegypti</i> mosquito. <br/> <br/>
 
@@ -145,6 +152,11 @@ Leisl received her B.Sc. in Zoology at University College London (UCL) in the UK
 ### Jonathan Chiang, M.Sc. Student, Genome Sciences and Technology (2023-present)
 
 Jonathan was a Biology Co-op Undergraduate Research Assistant in 2021. After graduating from UBC in 2022 with a degree in Biology and a Masters of Management from the Sauder School of Business, he returned to the lab as a M.Sc. student where he is working on genome assembly and annotation. <br/> <br/>
+
+{: #auguste } 
+### Auguste de Pennart, Ph.D. Student, Zoology (2024-present)
+
+Auguste joined the lab in September 2024 to work on mechanosensation in mosquito behaviour.
 
 {: #eric} 
 ### Eric Reich, M.Sc. Student, Zoology (2024-present);
