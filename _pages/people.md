@@ -54,6 +54,13 @@ feature_row1:
      btn_class: "btn--inverse"
      
 feature_row2:
+   - image_path: /assets/images/larvae-sq.png
+     alt: "Josh Abel-Nwachukwu"
+     title: "Josh Abel-Nwachukwu"
+     excerpt: "M.Sc. student, Zoology"
+     url: "/people/#josh"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"
    - image_path: /assets/images/leislbrewster-sq.jpg
      alt: "Leisl Brewster"
      title: "Leisl Brewster"
@@ -143,6 +150,11 @@ Ian recently completed postdoctoral training at the University of Manitoba where
 
 [Website](https://ianbouyoucos.com/) [Email](mailto:ian.bouyoucos@zoology.ubc.ca) <br/><br/>
 
+{: #josh } 
+### Josh Abel-Nwachukwu, M.Sc. student, Zoology (2025-present)
+
+Josh received his B.Sc. in Biology from the University of British Columbia in 2024, and joined the lab as an NSERC-funded summer Undergraduate Researcher. He is currently working as a Laboratory Assistant before joining as an M.Sc. student in January of 2025. Josh is working on feeding behaviour in *Aedes aegypti* mosquitoes. <br/> <br/>
+
 {: #leisl } 
 ### Leisl Brewster, Ph.D. Candidate, Zoology (2020-present)
 
@@ -156,7 +168,7 @@ Jonathan was a Biology Co-op Undergraduate Research Assistant in 2021. After gra
 {: #auguste } 
 ### Auguste de Pennart, Ph.D. Student, Zoology (2024-present)
 
-Auguste joined the lab in September 2024 to work on mechanosensation in mosquito behaviour.
+Auguste joined the lab in September 2024 to work on mechanosensation in mosquito behaviour. <br/> <br/>
 
 {: #eric} 
 ### Eric Reich, M.Sc. Student, Zoology (2024-present);
@@ -168,12 +180,17 @@ Eric joined the lab in May 2024 to work on the impact of water acidification on 
 
 Ralitza joined the lab in May 2024 to work on the impact of water acidification on salmon imprinting and olfaction as part of the BCSRIF project led by Ian Bouyoucos. Ralitza is co-supervised by Colin Brauner. <br/><br/>
 
+{: #shelly} 
+### Shelly Wu, Ph.D. candidate, Zoology (2023-present);
+
+Shelly joined our lab in 2023 to finish her Ph.D. studies on sensory adaptations and mechanisms in a diverse array of taxa, including frogs, birds, and mosquitoes. Shelly is currently focused on understanding the taste system in *Aedes aegypti* mosquitoes, and is co-supervised by Duncan Leitch. <br/><br/>
+
 ## Staff
 
 {: #alex}
 ### Oleksandr Hulai, Research Associate (2024-present)
 
-Oleksandr holds a Master’s degree in Veterinary Medicine (1997). He received his doctorate in ecology in 2005 for his research on the spirochete Leptospira interrogans, a pathogen for humans and animals, and their ecological relationships in freshwater. His postdoctoral research included the study of the ecology of the pathogenic bacterium *Erysipelothrix rhusiopathiae*. For the last year and a half, Oleksandr worked as a visiting researcher in the laboratory of Professor Flaminia Catteruccia at the Harvard T.H. Chan School of Public Health (USA). There he participated in the study of the interaction between *Anopheles gambiae* and the malaria pathogen Plasmodium. At UBC, Oleksandr will be working on generating genetic tools to investigate the links between olfaction and immunity in *Aedes aegypti* mosquitoes.
+Oleksandr holds a Master’s degree in Veterinary Medicine (1997). He received his doctorate in ecology in 2005 for his research on the spirochete Leptospira interrogans, a pathogen for humans and animals, and their ecological relationships in freshwater. His postdoctoral research included the study of the ecology of the pathogenic bacterium *Erysipelothrix rhusiopathiae*. For the last year and a half, Oleksandr worked as a visiting researcher in the laboratory of Professor Flaminia Catteruccia at the Harvard T.H. Chan School of Public Health (USA). There he participated in the study of the interaction between *Anopheles gambiae* and the malaria pathogen Plasmodium. At UBC, Oleksandr will be working on generating genetic tools to investigate the links between olfaction and immunity in *Aedes aegypti* mosquitoes. <br/> <br/>
 
 
 {: #nick } 
@@ -187,6 +204,8 @@ Nick received his B.Sc. in Environmental Sciences and Biology at the University 
 Bridget joins us after finishing her M.Sc. degree in Entomology at the University of Manitoba in 2023, and brings with her experience in insect rearing at scale from her time working in a Black Solider Fly facility. She is in charge of mosquito strain maintenance and all aspects of our insectary operation, while also supporting a wide variety of scientific projects throughout the lab. <br/> <br/>
 
 ## Undergraduate researchers
+
+-   Alyxzelle Relao (Biology Directed Studies, 2024-present)
 
 <br/>
 
@@ -206,10 +225,12 @@ Bridget joins us after finishing her M.Sc. degree in Entomology at the Universit
 -   Weison Chu (Biology Directed Studies, 2019-2020)
 -   Hanna Elford (Integrated Science Directed Studies, 2022)
 -   Britya Ghosh, M.Sc. CELL Program 2020. [Lab of Dr. Mike Gordon](https://www.zoology.ubc.ca/~gordon/), UBC Zoology -- now Ph.D. student, Kara Marshall Lab, Baylor College of Medicine
+-   Jason Kamelle (Biology Directed Studies, 2024)
 -   Quinn Kelley (Biology Directed Studies, 2021)
 -   Cam Kelsey (Psychology Honours, 2022-2023) -- incoming PhD student (Fall 2023), University of Arizona
 -   Phillip Lee (Biology Honours, 2022-2023) -- incoming M.Sc. student (Fall 2023), Altshuler Lab, University of British Columbia
 -   Bing Liu (Biology Directed Studies, 2022-2023) -- incoming M.Sc. student (Fall 2023), Richards Lab, University of British Columbia
+-   Kai Mah-Morhaliek (Biology Directed Studies, 2024)
 -   Rinky Manivannan (Biodiversity Research Center Fellowship Awardee and Undergraduate Researcher, 2023)
 -   Cassidy Mark (Biology Co-op Undergraduate Research Assistant, 2022)
 -   Andrew Oh (Biology Directed Studies, 2021-2022)
