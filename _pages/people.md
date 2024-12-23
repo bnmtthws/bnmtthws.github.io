@@ -196,7 +196,7 @@ Oleksandr holds a Master’s degree in Veterinary Medicine (1997). He received h
 {: #nick } 
 ### Nicholas Tochor, Laboratory Manager
 
-Nick received his B.Sc. in Environmental Sciences and Biology at the University of British Columbia's Okanagan campus in December 2019. During his undergraduate degree, he worked in several labs specializing in landscape ecology. Past projects include a spatiotemporal analysis of grizzly bear habitat suitability North of Jasper, Alberta; an analysis of mycorrhizal connectivity between understory and canopy forest flora; an analysis of dark diversity patterns in global diatom species richness; and an analysis of the impacts of recreational land use on watersheds within public land in the Okanagan. He is now working as a lab technician in Ben Matthews' and Doug Altshuler's labs. When not in either lab, he enjoys hiking, biking, kayaking, surfing, and playing guitar. <br/> <br/>
+Nick received his B.Sc. in Environmental Sciences and Biology at the University of British Columbia's Okanagan campus in December 2019. During his undergraduate degree, he worked in several labs specializing in landscape ecology. Past projects include a spatiotemporal analysis of grizzly bear habitat suitability North of Jasper, Alberta; an analysis of mycorrhizal connectivity between understory and canopy forest flora; an analysis of dark diversity patterns in global diatom species richness; and an analysis of the impacts of recreational land use on watersheds within public land in the Okanagan. He is now working as a Research Assistant and Lab Manager with the Mosquito Lab. When not in the lab, he enjoys hiking, biking, kayaking, surfing, and playing guitar. <br/> <br/>
 
 {: #bridget } 
 ### Bridget White, Insectary Manager
