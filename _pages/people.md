@@ -47,7 +47,7 @@ feature_row1:
      btn_class: "btn--inverse"
    - image_path: /assets/images/larvae-sq.png
      alt: "Daniel Lee, PhD"
-     title: "Daniel Lee"
+     title: "Daniel Lee, PhD"
      excerpt: "FSIAP Facility Manager"
      url: "/people/#danlee"
      btn_label: "Read More"
