@@ -33,7 +33,7 @@ feature_row1:
      btn_class: "btn--inverse"
    - image_path: /assets/images/larvae-sq.png
      alt: "Ainsley Gilbard"
-     title: "Bridget White"
+     title: "Ainsley Gilbard"
      excerpt: "Research Technician & Insectary Manager"
      url: "/people/#ainsley"
      btn_label: "Read More"
@@ -196,9 +196,9 @@ Shelly joined our lab in 2023 to finish her Ph.D. studies on sensory adaptations
 ## Staff
 
 {: #ainsley } 
-### Ainsley Gilbard, Insectary Manager
+### Ainsley Gilbard, Insectary Manager (2025-present)
 
-Bridget joins us after finishing her M.Sc. degree in Entomology at the University of Manitoba in 2023, and brings with her experience in insect rearing at scale from her time working in a Black Solider Fly facility. She is in charge of mosquito strain maintenance and all aspects of our insectary operation, while also supporting a wide variety of scientific projects throughout the lab. <br/> <br/>
+<br/> <br/>
 
 {: #alex}
 ### Oleksandr Hulai, Research Associate (2024-present)
