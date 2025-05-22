@@ -30,12 +30,26 @@ feature_row1:
      excerpt: "Postdoctoral Fellow (co-supervised, Colin Brauner)"
      url: "/people/#ian"
      btn_label: "Read More"
+     btn_class: "btn--inverse"
+   - image_path: /assets/images/larvae-sq.png
+     alt: "Ainsley Gilbard"
+     title: "Bridget White"
+     excerpt: "Research Technician & Insectary Manager"
+     url: "/people/#ainsley"
+     btn_label: "Read More"
      btn_class: "btn--inverse"   
    - image_path: /assets/images/Foto-Hulai-Oleksandr.jpg
      alt: "Oleksandr Hulai"
      title: "Oleksandr Hulai, PhD"
      excerpt: "Research Associate"
      url: "/people/#alex"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"
+   - image_path: /assets/images/larvae-sq.png
+     alt: "Daniel Lee, PhD"
+     title: "Daniel Lee"
+     excerpt: "FSIAP Facility Manager"
+     url: "/people/#danlee"
      btn_label: "Read More"
      btn_class: "btn--inverse"
    - image_path: /assets/images/tochor2.jpg
@@ -45,13 +59,7 @@ feature_row1:
      url: "/people/#nick"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-   - image_path: /assets/images/Bridget_White_cropped.png
-     alt: "Bridget White"
-     title: "Bridget White"
-     excerpt: "Research Technician & Insectary Manager"
-     url: "/people/#bridget"
-     btn_label: "Read More"
-     btn_class: "btn--inverse"
+
      
 feature_row2:
    - image_path: /assets/images/larvae-sq.png
@@ -187,27 +195,40 @@ Shelly joined our lab in 2023 to finish her Ph.D. studies on sensory adaptations
 
 ## Staff
 
+{: #ainsley } 
+### Ainsley Gilbard, Insectary Manager
+
+Bridget joins us after finishing her M.Sc. degree in Entomology at the University of Manitoba in 2023, and brings with her experience in insect rearing at scale from her time working in a Black Solider Fly facility. She is in charge of mosquito strain maintenance and all aspects of our insectary operation, while also supporting a wide variety of scientific projects throughout the lab. <br/> <br/>
+
 {: #alex}
 ### Oleksandr Hulai, Research Associate (2024-present)
 
 Oleksandr holds a Master’s degree in Veterinary Medicine (1997). He received his doctorate in ecology in 2005 for his research on the spirochete Leptospira interrogans, a pathogen for humans and animals, and their ecological relationships in freshwater. His postdoctoral research included the study of the ecology of the pathogenic bacterium *Erysipelothrix rhusiopathiae*. For the last year and a half, Oleksandr worked as a visiting researcher in the laboratory of Professor Flaminia Catteruccia at the Harvard T.H. Chan School of Public Health (USA). There he participated in the study of the interaction between *Anopheles gambiae* and the malaria pathogen Plasmodium. At UBC, Oleksandr will be working on generating genetic tools to investigate the links between olfaction and immunity in *Aedes aegypti* mosquitoes. <br/> <br/>
 
+{: #danlee } 
+### Daniel Lee, FSIAP Manager (2024-present)
+
+Dan joins the FSIAP insectary facility after finishing his Ph.D. with Phil Matthews in 2024. <br/> <br/>
+
 
 {: #nick } 
-### Nicholas Tochor, Laboratory Manager
+### Nicholas Tochor, Laboratory Manager (2020-present )
 
 Nick received his B.Sc. in Environmental Sciences and Biology at the University of British Columbia's Okanagan campus in December 2019. During his undergraduate degree, he worked in several labs specializing in landscape ecology. Past projects include a spatiotemporal analysis of grizzly bear habitat suitability North of Jasper, Alberta; an analysis of mycorrhizal connectivity between understory and canopy forest flora; an analysis of dark diversity patterns in global diatom species richness; and an analysis of the impacts of recreational land use on watersheds within public land in the Okanagan. He is now working as a Research Assistant and Lab Manager with the Mosquito Lab. When not in the lab, he enjoys hiking, biking, kayaking, surfing, and playing guitar. <br/> <br/>
 
-{: #bridget } 
-### Bridget White, Insectary Manager
 
-Bridget joins us after finishing her M.Sc. degree in Entomology at the University of Manitoba in 2023, and brings with her experience in insect rearing at scale from her time working in a Black Solider Fly facility. She is in charge of mosquito strain maintenance and all aspects of our insectary operation, while also supporting a wide variety of scientific projects throughout the lab. <br/> <br/>
+## Current undergraduate researchers
 
-## Undergraduate researchers
-
--   Alyxzelle Relao (Biology Directed Studies, 2024-present)
+-   Lexi Berger (Summer EnSURE Awardee, 2025)
+-   Mia Seynard (Biology Directed Studies, 2025)
+-   Finn Carlson (SURE Awardee)
+-   Parker Sutherland (SURE Awardee)
 
 <br/>
+
+## Alumni, technical staff
+-   Bridget White (Insectary Manager 2023-2025)
+-   Bhaskar Yechuri (Electronics Technician, 2020-2021)
 
 ## Alumni, graduate students and postdocs
 -   Tahnee Ames (M.Sc. student co-supervised with Phil Matthews, 2021-2024)
@@ -217,38 +238,44 @@ Bridget joins us after finishing her M.Sc. degree in Entomology at the Universit
 -   Orna Phelan, M.Sc. Zoology 2023 -- now Wildlife Biologist, Northwest Territories
 
 ## Alumni, undergraduates and affiliates
-
 -   Layla Ali (Biology Directed Studies, 2023)
 -   Aleksandra Anoshina (NSERC USRA and Biology Honours, 2020-2021)
 -   Joshua Chen (NSERC USRA and Biology Honours, 2021-2022)
 -   Nicole Cheng (Undergraduate Directed Studies, 2020)
 -   Weison Chu (Biology Directed Studies, 2019-2020)
+-   J.D. Dhami (Biology Directed Studies, 2024)
 -   Hanna Elford (Integrated Science Directed Studies, 2022)
 -   Britya Ghosh, M.Sc. CELL Program 2020. [Lab of Dr. Mike Gordon](https://www.zoology.ubc.ca/~gordon/), UBC Zoology -- now Ph.D. student, Kara Marshall Lab, Baylor College of Medicine
+-   Sierra Jensen (Biology Directed Studies, 2024)
+-   Varun Kahlon (Biology Directed Studies, 2023)
 -   Jason Kamelle (Biology Directed Studies, 2024)
 -   Quinn Kelley (Biology Directed Studies, 2021)
--   Cam Kelsey (Psychology Honours, 2022-2023) -- incoming PhD student (Fall 2023), University of Arizona
--   Phillip Lee (Biology Honours, 2022-2023) -- incoming M.Sc. student (Fall 2023), Altshuler Lab, University of British Columbia
--   Bing Liu (Biology Directed Studies, 2022-2023) -- incoming M.Sc. student (Fall 2023), Richards Lab, University of British Columbia
+-   Cam Kelsey (Psychology Honours, 2022-2023) -- current PhD student (Fall 2023), University of Arizona
+-   Phillip Lee (Biology Honours, 2022-2023) -- current M.Sc. student (Fall 2023), Altshuler Lab, University of British Columbia
+-   Bing Liu (Biology Directed Studies, 2022-2023) -- current M.Sc. student (Fall 2023), Richards Lab, University of British Columbia
 -   Kai Mah-Morhaliek (Biology Directed Studies, 2024)
+-   Mahad Maqsood (Biology Directed Studies, 2025)
 -   Rinky Manivannan (Biodiversity Research Center Fellowship Awardee and Undergraduate Researcher, 2023)
 -   Cassidy Mark (Biology Co-op Undergraduate Research Assistant, 2022)
+-   Andrew Moon (Biology Directed Studies, 2025)
 -   Andrew Oh (Biology Directed Studies, 2021-2022)
 -   Ana Parra (Biology Honours, 2020-2021)
 -   Smit Patel (Biology Directed Studies, 2021-2022)
 -   Kevin Poon (Biology Directed Studies, 2019-2020)
 -   Kunwar Puri (Biology Directed Studies student, 2019-2021)
+-   Alyxzelle Relao (Biology Directed Studies, 2024-2025)
 -   Atbeen Rezazadah (Biology Directed Studies, 2019-2021)
 -   Maryann Rogers (NSERC USRA and Biology Honours, 2021-2022)
 -   Ben Roussow (Biology Directed Studies, 2023)
+-   Nelly Sadat (Biology Directed Studies, 2024)
 -   Dania Samara (Biology Directed Studies, 2022)
 -   Madhurya Sekhar (Biology Directed Studies, 2019-2020) -- now Research Associate I at Spotlight Therapeutics
 -   Lauren Semkow (Biology Directed Studies and UBC SURE, 2021-2022)
 -   Parsa Seyfourian (Biology Directed Studies & Honours, 2021-2023; Biodiversity Fellowship Award Winner, 2022)
 -   Danica Shannon (Biology Honours, 2022-2023) -- incoming M.Sc. student (Fall 2023), University of Georgia
--   Bhaskar Yechuri (part time electronics technician, 2020-2021)
+-   Janavi Sukumar (Biology Directed Studies and BUDR Awardee, 2024)
+-   Dirk VandePol (Visiting Scientist, 2022-2023)
 -   Annie Zeng (Biology Directed Studies, 2020-2021)
 -   Celine Zhang (Biology Directed Studies, 2022)
--   Dirk VandePol (Visiting Scientist, 2022-2023)
 
 {% include feature_row %}
