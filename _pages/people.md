@@ -62,7 +62,7 @@ feature_row1:
 
      
 feature_row2:
-   - image_path: /assets/images/larvae-sq.png
+   - image_path: /assets/images/josh-sq.jpg
      alt: "Josh Abel-Nwachukwu"
      title: "Josh Abel-Nwachukwu"
      excerpt: "M.Sc. student, Zoology"
@@ -161,12 +161,12 @@ Ian recently completed postdoctoral training at the University of Manitoba where
 {: #josh } 
 ### Josh Abel-Nwachukwu, M.Sc. student, Zoology (2025-present)
 
-Josh received his B.Sc. in Biology from the University of British Columbia in 2024, and joined the lab as an NSERC-funded summer Undergraduate Researcher. He is currently working as a Laboratory Assistant before joining as an M.Sc. student in January of 2025. Josh is working on feeding behaviour in *Aedes aegypti* mosquitoes. <br/> <br/>
+Josh received his B.Sc. in Biology from the University of British Columbia in 2024, and joined the lab as an NSERC-funded summer Undergraduate Researcher, briefly working as a Laboratory Assistant before joining as an M.Sc. student in January of 2025. Josh is working on feeding behaviour in *Aedes aegypti* mosquitoes and is a recipient of an NSERC CGS-M. <br/> <br/>
 
 {: #leisl } 
 ### Leisl Brewster, Ph.D. Candidate, Zoology (2020-present)
 
-Leisl received her B.Sc. in Zoology at University College London (UCL) in the UK where she completed a research project looking at the evolution of biomineralization in molluscs. Leisl now continues her work in invertebrate zoology, looking at the genomic and molecular mechanisms behind sensory behaviour in the <i>Aedes aegypti</i> mosquito. <br/> <br/>
+Leisl received her B.Sc. in Zoology at University College London (UCL) in the UK where she completed a research project looking at the evolution of biomineralization in molluscs. Leisl now continues her work in invertebrate zoology, looking at the genomic and molecular mechanisms behind sensory behaviour in the <i>Aedes aegypti</i> mosquito. Leisl is a recipient of a UBC 4YF to support her studies. <br/> <br/>
 
 {: #jonathan } 
 ### Jonathan Chiang, M.Sc. Student, Genome Sciences and Technology (2023-present)
@@ -176,7 +176,7 @@ Jonathan was a Biology Co-op Undergraduate Research Assistant in 2021. After gra
 {: #auguste } 
 ### Auguste de Pennart, Ph.D. Student, Zoology (2024-present)
 
-Auguste joined the lab in September 2024 to work on mechanosensation in mosquito behaviour. <br/> <br/>
+Auguste joined the lab in September 2024 to work on mechanosensation in mosquito behaviour. He is a recipient of a UBC 4YF to support his studies. <br/> <br/>
 
 {: #eric} 
 ### Eric Reich, M.Sc. Student, Zoology (2024-present);
@@ -191,7 +191,7 @@ Ralitza joined the lab in May 2024 to work on the impact of water acidification 
 {: #shelly} 
 ### Shelly Wu, Ph.D. candidate, Zoology (2023-present);
 
-Shelly joined our lab in 2023 to finish her Ph.D. studies on sensory adaptations and mechanisms in a diverse array of taxa, including frogs, birds, and mosquitoes. Shelly is currently focused on understanding the taste system in *Aedes aegypti* mosquitoes, and is co-supervised by Duncan Leitch. <br/><br/>
+Shelly joined our lab in 2023 to finish her Ph.D. studies on sensory adaptations and mechanisms in a diverse array of taxa, including frogs, birds, and mosquitoes. Shelly is currently focused on understanding the taste system in *Aedes aegypti* mosquitoes, and is co-supervised by Duncan Leitch. Shelly is a recipient of a UBC 4YF to support her studies. <br/><br/>
 
 ## Staff
 
