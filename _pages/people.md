@@ -10,13 +10,6 @@ feature_row1:
      url: "/people/#ben"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-   - image_path: /assets/images/YunusaMohammed_cropped.jpg
-     alt: "Yunusa Garba Mohammed, PhD"
-     title: "Yunusa Garba Mohammed, PhD"
-     excerpt: "Postdoctoral Fellow"
-     url: "/people/#yunusa"
-     btn_label: "Read More"
-     btn_class: "btn--inverse"
    - image_path: /assets/images/jeff.jpg
      alt: "Jean-François (Jeff) Doherty, PhD"
      title: "Jean-François (Jeff) Doherty, PhD"
@@ -29,6 +22,13 @@ feature_row1:
      title: "Ian Bouyoucos, PhD"
      excerpt: "Postdoctoral Fellow (co-supervised, Colin Brauner)"
      url: "/people/#ian"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"
+   - image_path: /assets/images/larvae-sq.png
+     alt: "Elva Vidyas, PhD"
+     title: "Elva Vidya, PhD"
+     excerpt: "Postdoctoral Fellow"
+     url: "/people/#elva"
      btn_label: "Read More"
      btn_class: "btn--inverse"
    - image_path: /assets/images/larvae-sq.png
@@ -104,13 +104,6 @@ feature_row2:
      url: "/people/#ralitza"
      btn_label: "Read More"
      btn_class: "btn--inverse"        
-   - image_path: /assets/images/larvae-sq.png
-     alt: "Shelly Wu"
-     title: "Shelly Wu"
-     excerpt: "Ph.D. student, Zoology (co-supervised with Duncan Leitch)"
-     url: "/people/#shelly"
-     btn_label: "Read More"
-     btn_class: "btn--inverse"
 
 ---
 
@@ -127,16 +120,6 @@ At UBC, Ben is an Assistant Professor in the Comparative Physiology Group of the
 [CV](/assets/pdf/BenMatthews_CV_20211006.pdf) [Email](mailto:ben.matthews@zoology.ubc.ca)
 
 ## Postdoctoral researchers and graduate students
-
-{: #yunusa }
-
-### Yunusa Garba Mohammed, PhD
-
-### Postdoctoral Fellow (2021-present)
-
-Yunusa has received a long-term Fellowship from HFSP and a three-year Trainee Award from the Michael Smith Foundation for Health Research to support his work. He is focused on understanding egg-laying and other behaviours in strains of *Aedes aegypti* collected from urban and rural environments in sub-Saharan Africa.
-
-[Twitter](https://twitter.com/ygarbawala1) [Email](mailto:yunusa.mohammed@zoology.ubc.ca) <br/><br/>
 
 {: #jeff }
 
@@ -157,6 +140,15 @@ Jeff received his PhD from the University of Otago, where he studied the ecology
 Ian recently completed postdoctoral training at the University of Manitoba where he researched functional evolution of the hypothalamus-pituitary-interrenal axis in chondrichthyan fishes. He received his PhD from James Cook University and École Pratique des Hautes Études where he studied ecophysiology in reef sharks in the context of climate change. In the Matthews and Brauner labs, Ian studies the effects of aquatic acidification and habitat on imprinting and homing in Pacific salmon.
 
 [Website](https://ianbouyoucos.com/) [Email](mailto:ian.bouyoucos@zoology.ubc.ca) <br/><br/>
+
+{: #elva }
+
+### Elva Vidya, PhD
+
+### Postdoctoral Fellow (2025-present)
+
+Elva joined us in the fall of 2025 after completing her Ph.D. at McGill University. In the Mosquito Lab she is working on delineating the role of small RNAs in the regulation of mosquito feeding and egg-laying behaviour. 
+[Website](https://ca.linkedin.com/in/elva-vidya-96b154150) [Email](mailto:elva.vidya@zoology.ubc.ca) <br/><br/>
 
 {: #josh } 
 ### Josh Abel-Nwachukwu, M.Sc. student, Zoology (2025-present)
@@ -188,11 +180,6 @@ Eric joined the lab in May 2024 to work on the impact of water acidification on 
 
 Ralitza joined the lab in May 2024 to work on the impact of water acidification on salmon imprinting and olfaction as part of the BCSRIF project led by Ian Bouyoucos. Ralitza is co-supervised by Colin Brauner. <br/><br/>
 
-{: #shelly} 
-### Shelly Wu, Ph.D. candidate, Zoology (2023-present);
-
-Shelly joined our lab in 2023 to finish her Ph.D. studies on sensory adaptations and mechanisms in a diverse array of taxa, including frogs, birds, and mosquitoes. Shelly is currently focused on understanding the taste system in *Aedes aegypti* mosquitoes, and is co-supervised by Duncan Leitch. Shelly is a recipient of a UBC 4YF to support her studies. <br/><br/>
-
 ## Staff
 
 {: #ainsley } 
@@ -218,12 +205,9 @@ Nick received his B.Sc. in Environmental Sciences and Biology at the University 
 
 
 ## Current undergraduate researchers
-
--   Lexi Berger (Summer EnSURE Awardee, 2025)
--   Mia Seynard (Biology Directed Studies, 2025)
--   Finn Carlson (SURE Awardee)
--   Parker Sutherland (SURE Awardee)
-
+-   Roxana Kazemi Arbat (Directed studies student 2025)
+-   Simran Behniwal (Directed studies student 2025-2026)
+-   Chloe Chen (Directed studies student 2025-2026)
 <br/>
 
 ## Alumni, technical staff
@@ -231,15 +215,19 @@ Nick received his B.Sc. in Environmental Sciences and Biology at the University 
 -   Bhaskar Yechuri (Electronics Technician, 2020-2021)
 
 ## Alumni, graduate students and postdocs
--   Tahnee Ames (M.Sc. student co-supervised with Phil Matthews, 2021-2024)
--   Elsa Cyr (M.Sc. student co-supervised with Mike Gordon, 2021-2024)
--   Ivan Lo (M.Sc. student, Zoology, 2021-2024) -- now Research Technician at Zymeworks, Vancouver.
+-   Tahnee Ames (Zoology M.Sc. student co-supervised with Phil Matthews, 2021-2024)
+-   Elsa Cyr (Zoology M.Sc. student co-supervised with Mike Gordon, 2021-2024)
+-   Ivan Lo (Zoology M.Sc. student, 2021-2024) -- now Research Technician at Abcellera, Vancouver
+-   Yunusa Mohammed (PDF, 2021-2025) -- now Lecturer, Gombe State University, Nigeria
 -   Dan Peach (Postdoctoral Fellow, 2019-2022) -- now Assistant Professor at University of Georgia
--   Orna Phelan, M.Sc. Zoology 2023 -- now Wildlife Biologist, Northwest Territories
+-   Orna Phelan (Zoology M.Sc. 2023 -- now Wildlife Biologist, Northwest Territories
+-   Pei-Hsuan (Shelly) Wu (Ph.D. student co-supervised with Duncan Leitch 2023-2025)
 
 ## Alumni, undergraduates and affiliates
 -   Layla Ali (Biology Directed Studies, 2023)
 -   Aleksandra Anoshina (NSERC USRA and Biology Honours, 2020-2021)
+-   Lexi Berger (EnSURE Awardee, 2025)
+-   Finn Carlson (SURE Awardee 2024 and 2025)
 -   Joshua Chen (NSERC USRA and Biology Honours, 2021-2022)
 -   Nicole Cheng (Undergraduate Directed Studies, 2020)
 -   Weison Chu (Biology Directed Studies, 2019-2020)
@@ -272,8 +260,10 @@ Nick received his B.Sc. in Environmental Sciences and Biology at the University 
 -   Madhurya Sekhar (Biology Directed Studies, 2019-2020) -- now Research Associate I at Spotlight Therapeutics
 -   Lauren Semkow (Biology Directed Studies and UBC SURE, 2021-2022)
 -   Parsa Seyfourian (Biology Directed Studies & Honours, 2021-2023; Biodiversity Fellowship Award Winner, 2022)
--   Danica Shannon (Biology Honours, 2022-2023) -- incoming M.Sc. student (Fall 2023), University of Georgia
+-   Mia Seynard (Biology Directed Studies, 2025)
+-   Danica Shannon (Biology Honours, 2022-2023) -- now M.Sc. student (Fall 2023), University of Georgia
 -   Janavi Sukumar (Biology Directed Studies and BUDR Awardee, 2024)
+-   Parker Sutherland (SURE Awardee, 2025) -- now M.Sc. student (Jan 2026) with Colin Brauner, UBC
 -   Dirk VandePol (Visiting Scientist, 2022-2023)
 -   Annie Zeng (Biology Directed Studies, 2020-2021)
 -   Celine Zhang (Biology Directed Studies, 2022)
