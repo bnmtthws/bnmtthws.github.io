@@ -15,8 +15,8 @@ sidebar:
 - [Dehydration does not drive host behavioural manipulation by hairworms](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0332641)<br/>
 Coates L.M., Reynolds K., Carey-Wood M., Lastik D., Vennard C., **Doherty J-F.**, Dowle E., **Matthews B.J.**, Foster L.J., Reynolds S.E., Hunt V.L. *PloS one* (2025)
 
-- [Cross-modal sensory compensation increases mosquito attraction to humans](https://www.biorxiv.org/content/10.1101/2023.10.10.561721v1)<br/>
-Morita T., Lyn N.G., von Heynitz R.K., Goldman O.V., Sorrells T.R., DeGennaro M., **Matthews B.J.**, Houri-Zeevi L., Vosshall L.B. *bioRxiv* (2023)
+- [Cross-modal sensory compensation increases mosquito attraction to humans](https://www.science.org/doi/10.1126/sciadv.adn5758)<br/>
+Morita T., Lyn N.G., von Heynitz R.K., Goldman O.V., Sorrells T.R., DeGennaro M., **Matthews B.J.**, Houri-Zeevi L., Vosshall L.B. *bioRxiv* (2023) and *Science Advances* (2025)
 
 - [Non-Canonical Odor Coding in the Mosquito](https://authors.elsevier.com/sd/article/S0092867422009278)<br/> 
 Herre M., Goldman O.V., Lu T-C., Caballero-Vidal G., Qi Y., Gilbert Z.N., Gong Z., Morita T., Rahiel S., Ghaninia M., Ignell R., **Matthews B.J.**, Li H., Vosshall L.B., Younger M.A. *Cell* (2022) *bioRxiv* (2020; 2022)
