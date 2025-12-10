@@ -9,6 +9,12 @@ sidebar:
 {: #research }
 ### Research publications
 
+- [Molecular mechanisms underpinning buoyancy control in the aquatic larvae of Chaoborus evolved from tracheal fluid clearing functionality](https://journals.biologists.com/jeb/article-abstract/228/24/jeb251113/370074/Molecular-mechanisms-underpinning-buoyancy-control?guestAccessKey=c9359407-582a-43b5-98c6-bd4610299527)<br/>
+**Ames T.**, Matthews P.G.D., **Matthews B.J.** *Journal of Experimental Biology* (2025)<br/>
+
+- [Dehydration does not drive host behavioural manipulation by hairworms](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0332641)<br/>
+Coates L.M., Reynolds K., Carey-Wood M., Lastik D., Vennard C., **Doherty J-F.**, Dowle E., **Matthews B.J.**, Foster L.J., Reynolds S.E., Hunt V.L. *PloS one* (2025)<br/
+
 - [Cross-modal sensory compensation increases mosquito attraction to humans](https://www.biorxiv.org/content/10.1101/2023.10.10.561721v1)<br/>
 Morita T., Lyn N.G., von Heynitz R.K., Goldman O.V., Sorrells T.R., DeGennaro M., **Matthews B.J.**, Houri-Zeevi L., Vosshall L.B. *bioRxiv* (2023)<br/>
 
@@ -27,7 +33,7 @@ Herre M., Goldman O.V., Lu T-C., Caballero-Vidal G., Qi Y., Gilbert Z.N., Gong Z
 - [Modeling the Putative Ancient Distribution of _Aedes togoi_ (Diptera: Culicidae)](https://doi.org/10.1093/jisesa/ieaa035)
 [PDF](/assets/pdf/PeachMatthews2020.pdf)
 [Raw data](https://doi.org/10.5683/SP2/YPVTYT)
-<br/> **Peach D.A.H.** and **Matthews B.J.** *bioRxiv* (2020) and *Journal of Insect Science* (2020) *bioRxiv* (2020)<br/>
+<br/> **Peach D.A.H.** and **Matthews B.J.** *bioRxiv* (2020) and *Journal of Insect Science* (2020) <br/>
 
 - [The ion channel *ppk301* controls freshwater egg-laying in the mosquito *Aedes aegypti*.](https://elifesciences.org/articles/43963)
 [PDF](https://elifesciences.org/download/aHR0cHM6Ly9jZG4uZWxpZmVzY2llbmNlcy5vcmcvYXJ0aWNsZXMvNDM5NjMvZWxpZmUtNDM5NjMtdjIucGRm/elife-43963-v2.pdf?_hash=XK2%2FVSdDJiFxbJfsJtbhvwkD3FY%2F77uEpTOPCqaWM%2FY%3D)
@@ -60,6 +66,9 @@ Details on publications can also be found at [Google Scholar](https://scholar.go
 
 {: #reviews}
 ### Reviews and protocols
+- [Insect chemosensation: A grapefruit squeeze on mosquito-borne disease](https://www.cell.com/current-biology/abstract/S0960-9822(24)01659-2)<br/> **Abel-Nwachukwu J.U.**, **Matthews B.J.** *Current Biology* (2025)
+- [Turning up the heat: infrared sensing during mosquito host-seeking](https://www.cell.com/trends/parasitology/abstract/S1471-4922(24)00291-5)<br/> **de Pennart A.**, **Wu P-H.**, **Matthews B.J.** *Trends in Parasitology* (2025))
+
 - An update and review of arthropod vector sensory systems: potential targets for behavioural manipulation by parasites and other disease agents. Doherty J-F., Ames T., Brewster L.I., Chiang J., Cyr E., Kelsey C.R., Lee J.P., Liu B., Lo I., Nirwal G.K., Mohammed Y.G., Phelan O., Seyfouran P., Shannon D.M., Tochor N.K., **Matthews B.J.**<br/> *Advances in Parasitology* (2024, in revision)
 - [Evaluating egg-laying preference of individual *Aedes aegypti* mosquitoes](https://cshprotocols.cshlp.org/content/early/2023/12/08/pdb.prot108341.abstract), [Automated egg-counting approaches for *Aedes aegypti* oviposition experiments](https://cshprotocols.cshlp.org/content/early/2023/12/08/pdb.prot108342.abstract), and topic introduction: [Measuring Oviposition Preference in Aedes aegypti Mosquitoes](https://cshprotocols.cshlp.org/content/early/2023/12/08/pdb.top107670.abstract)<br/> Tochor T.K., Mohammed Y.G., **Matthews B.J.**<br/> *Cold Spring Harbor Protocols* (2023)
 - [Validating Single-Guide RNA for Aedes aegypti Gene Editing](https://cshprotocols.cshlp.org/content/early/2023/10/09/pdb.prot108340.abstract) and topic introduction: [Design and Validation of Guide RNAs for CRISPR–Cas9 Genome Editing in Mosquitoes](https://cshprotocols.cshlp.org/content/early/2023/10/09/pdb.top107688.abstract)<br/> Lo, I. H-Y., and **Matthews, B.J.** <br/> *Cold Spring Harbor Protocols* (2023)
@@ -73,11 +82,11 @@ Details on publications can also be found at [Google Scholar](https://scholar.go
 <br/> Brewster, L.I., and **Matthews, B.J.** <br/>Trends in Biochemical Sciences (2021).
 - [How to turn an organism into a model organism in 10 'easy' steps.](https://journals.biologists.com/jeb/article/223/Suppl_1/jeb218198/224666/How-to-turn-an-organism-into-a-model-organism-in) [PDF](https://journals.biologists.com/jeb/article-pdf/223/Suppl_1/jeb218198/1680082/jeb218198.pdf) <br/> **Matthews, B.J.** and Vosshall, L.B.<br/> *Journal of Experimental Biology* (2020)
 
-- [*Aedes aegypti*](https://www.cell.com/trends/genetics/fulltext/S0168-9525(19)30051-4) [PDF](https://authors.elsevier.com/a/1Z2Y3cQbIvPMY) <br/> **Matthews, B.J.** <br/> *Trends in Genetics* (2019)
+- [*Aedes aegypti*](https://www.cell.com/trends/genetics/fulltext/S0168-9525(19)30051-4) [PDF](https://authors.elsevier.com/a/1Z2Y3cQbIvPMY) <br/> **Matthews, B.J.** *Trends in Genetics* (2019)
 
-- [Molecules and mechanisms of dendrite development in *Drosophila*.](https://dev.biologists.org/content/136/7/1049) [PDF](https://dev.biologists.org/content/develop/136/7/1049.full.pdf) <br/> Corty, M.M.\*, **Matthews B.J.**\*, and Grueber W.B. (\* denotes equal contribution)<br/> *Development* (2009)
+- [Molecules and mechanisms of dendrite development in *Drosophila*.](https://dev.biologists.org/content/136/7/1049) [PDF](https://dev.biologists.org/content/develop/136/7/1049.full.pdf) <br/> Corty, M.M.\*, **Matthews B.J.**\*, and Grueber W.B. (\* denotes equal contribution) *Development* (2009)
  
-- [Of cartridges and columns: new roles for cadherins in visual system development.](https://www.cell.com/fulltext/S0896-6273(08)00270-5) [PDF](https://www.cell.com/action/showPdf?pii=S0896-6273%2808%2900270-5) <br/> **Matthews B.J.**, Corty M.M., and Grueber W.B. <br/> *Neuron* (2008)
+- [Of cartridges and columns: new roles for cadherins in visual system development.](https://www.cell.com/fulltext/S0896-6273(08)00270-5) [PDF](https://www.cell.com/action/showPdf?pii=S0896-6273%2808%2900270-5) <br/> **Matthews B.J.**, Corty M.M., and Grueber W.B. *Neuron* (2008)
 
 {: #press }
 ### Press
