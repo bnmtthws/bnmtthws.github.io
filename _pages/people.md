@@ -31,7 +31,7 @@ feature_row1:
      url: "/people/#elva"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-   - image_path: /assets/images/larvae-sq.png
+   - image_path: /assets/images/ainsley.jpeg
      alt: "Ainsley Gilbard"
      title: "Ainsley Gilbard"
      excerpt: "Research Technician & Insectary Manager"
@@ -166,7 +166,7 @@ Leisl received her B.Sc. in Zoology at University College London (UCL) in the UK
 Jonathan was a Biology Co-op Undergraduate Research Assistant in 2021. After graduating from UBC in 2022 with a degree in Biology and a Masters of Management from the Sauder School of Business, he returned to the lab as a M.Sc. student where he is working on genome assembly and annotation. <br/> <br/>
 
 {: #auguste } 
-### Auguste de Pennart, Ph.D. Student, Zoology (2024-present)
+### Auguste de Pennart, Ph.D. Student, Zoology (2024-present);
 
 Auguste joined the lab in September 2024 to work on mechanosensation in mosquito behaviour. He is a recipient of a UBC 4YF to support his studies. <br/> <br/>
 
@@ -183,8 +183,9 @@ Ralitza joined the lab in May 2024 to work on the impact of water acidification 
 ## Staff
 
 {: #ainsley } 
-### Ainsley Gilbard, Insectary Manager (2025-present)
+### Ainsley Gilbard, Insectary Manager (2025-present);
 
+Ainsley received her B.A. in Ecology and Evolutionary Biology at the University of Colorado, Boulder in May 2019. During her undergraduate degree, she worked as a Research and Conservation intern at the Butterfly Pavilion learning about dragonfly and firefly husbandry while contributing to behavioral research. Prior to joining the Mosquito Lab, Ainsley worked with zebrafish at the University of Colorado, Anschutz. In her free time, Ainsley enjoys making pottery, skateboarding, and playing music.
 <br/> <br/>
 
 {: #alex}
