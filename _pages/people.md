@@ -52,13 +52,6 @@ feature_row1:
      url: "/people/#danlee"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-   - image_path: /assets/images/tochor2.jpg
-     alt: "Nicholas Tochor"
-     title: "Nicholas Tochor"
-     excerpt: "Research Technician & Lab Manager"
-     url: "/people/#nick"
-     btn_label: "Read More"
-     btn_class: "btn--inverse"
 
      
 feature_row2:
@@ -81,6 +74,13 @@ feature_row2:
      title: "Jonathan Chiang"
      excerpt: "M.Sc. student, Genome Sciences and Technology (GSAT)"
      url: "/people/#jonathan"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"
+   - image_path: /assets/images/larvae-sq.png
+     alt: "Sarah Garcia"
+     title: "Sarah Garcia"
+     excerpt: "M.Sc. student, Zoology"
+     url: "/people/#sarah"
      btn_label: "Read More"
      btn_class: "btn--inverse"
    - image_path: /assets/images/auguste.jpeg
@@ -165,6 +165,11 @@ Leisl received her B.Sc. in Zoology at University College London (UCL) in the UK
 
 Jonathan was a Biology Co-op Undergraduate Research Assistant in 2021. After graduating from UBC in 2022 with a degree in Biology and a Masters of Management from the Sauder School of Business, he returned to the lab as a M.Sc. student where he is working on genome assembly and annotation. <br/> <br/>
 
+{: #sarah } 
+### Sarah Garcia, M.Sc. Student, Zoology (2025-present);
+
+Sarah joined the lab in September 2025 to work on mosquito ecology and biology. Prior to UBC, Sarah studied at Cornell University where she worked on mosquitoes with Laura Harrington <br/> <br/>
+
 {: #auguste } 
 ### Auguste de Pennart, Ph.D. Student, Zoology (2024-present);
 
@@ -199,12 +204,6 @@ Oleksandr holds a Master’s degree in Veterinary Medicine (1997). He received h
 Dan joins the FSIAP insectary facility after finishing his Ph.D. with Phil Matthews in 2024. <br/> <br/>
 
 
-{: #nick } 
-### Nicholas Tochor, Laboratory Manager (2020-present )
-
-Nick received his B.Sc. in Environmental Sciences and Biology at the University of British Columbia's Okanagan campus in December 2019. During his undergraduate degree, he worked in several labs specializing in landscape ecology. Past projects include a spatiotemporal analysis of grizzly bear habitat suitability North of Jasper, Alberta; an analysis of mycorrhizal connectivity between understory and canopy forest flora; an analysis of dark diversity patterns in global diatom species richness; and an analysis of the impacts of recreational land use on watersheds within public land in the Okanagan. He is now working as a Research Assistant and Lab Manager with the Mosquito Lab. When not in the lab, he enjoys hiking, biking, kayaking, surfing, and playing guitar. <br/> <br/>
-
-
 ## Current undergraduate researchers
 -   Roxana Kazemi Arbat (Directed studies student 2025)
 -   Simran Behniwal (Directed studies student 2025-2026)
@@ -212,6 +211,7 @@ Nick received his B.Sc. in Environmental Sciences and Biology at the University 
 <br/>
 
 ## Alumni, technical staff
+-   Nicholoas Tochhor (Research Assistant and Laboratory Manager, 2020-2025)
 -   Bridget White (Insectary Manager 2023-2025)
 -   Bhaskar Yechuri (Electronics Technician, 2020-2021)
 
