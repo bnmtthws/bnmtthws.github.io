@@ -107,6 +107,17 @@ feature_row2:
 
 ---
 
+
+## Current undergraduate researchers
+-   Roxana Kazemi Arbat (Directed studies student 2025)
+-   Simran Behniwal (Directed studies student 2025-2026)
+-   Chloe Chen (Directed studies student 2025-2026)
+-   Wenjie Li (Directed studies student 2026)
+-   Jacob McPherson (Directed studies student 2025-2026)
+-   Vismaya Prasad (Directed studies student 2026; co-supervised with Colin Brauner)
+<br/>
+
+
 {% include feature_row id = "feature_row1" %} {% include feature_row id = "feature_row2" %} {% include feature_row id = "feature_row3" %}
 
 {: #ben } 
@@ -203,12 +214,6 @@ Oleksandr holds a Master’s degree in Veterinary Medicine (1997). He received h
 
 Dan joins the FSIAP insectary facility after finishing his Ph.D. with Phil Matthews in 2024. <br/> <br/>
 
-
-## Current undergraduate researchers
--   Roxana Kazemi Arbat (Directed studies student 2025)
--   Simran Behniwal (Directed studies student 2025-2026)
--   Chloe Chen (Directed studies student 2025-2026)
-<br/>
 
 ## Alumni, technical staff
 -   Nicholoas Tochhor (Research Assistant and Laboratory Manager, 2020-2025)
