@@ -6,23 +6,25 @@ sidebar:
  nav: "pubcat"
 ---
 
+Lab trainees in *italics*
+
 {: #research }
 ### Research publications
 
 - [Living by the sea: chromosome-scale genome assembly and salt gland transcriptomes provide insights into ion regulatory mechanisms in the saline-tolerant mosquito Aedes togoi](https://doi.org/10.64898/2026.04.09.717544)<br/>
-Chiang J., Khodikian E., Phelan O., Parra A.K., Peach D.A.H., Durant A.C., and **Matthews B.J.** *bioRxiv* (2026)
+*Chiang J.*, Khodikian E., *Phelan O.*, *Parra A.K.*, *Peach D.A.H.*, Durant A.C., and **Matthews B.J.** *bioRxiv* (2026)
 
 - [Surface texture guides egg-laying decisions in Aedes aegypti mosquitoes](https://doi.org/10.64898/2026.03.08.710377)<br/>
-Anoshina A., Tochor N.K., Semkow L., Zeng A., and **Matthews B.J.** *bioRxiv* (2026)
+*Anoshina A., Tochor N.K., Semkow L., Zeng A.*, and **Matthews B.J.** *bioRxiv* (2026)
 
 - [Shell-shocked: parasite-induced behaviour and development in an invasive dead-end snail host](https://doi.org/10.1242/jeb.251496)<br/>
-Doherty J.F., Rossouw B., Foster L.J., and **Matthews B.J.** *Journal of Experimental Biology* (2026)
+*Doherty J-F., Rossouw B.*, Foster L.J., and **Matthews B.J.** *Journal of Experimental Biology* (2026)
 
 - [Molecular mechanisms underpinning buoyancy control in the aquatic larvae of Chaoborus evolved from tracheal fluid clearing functionality](https://journals.biologists.com/jeb/article-abstract/228/24/jeb251113/370074/Molecular-mechanisms-underpinning-buoyancy-control?guestAccessKey=c9359407-582a-43b5-98c6-bd4610299527)<br/>
-**Ames T.**, Matthews P.G.D., **Matthews B.J.** *Journal of Experimental Biology* (2025)
+*Ames T.*, Matthews P.G.D., **Matthews B.J.** *Journal of Experimental Biology* (2025)
 
 - [Dehydration does not drive host behavioural manipulation by hairworms](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0332641)<br/>
-Coates L.M., Reynolds K., Carey-Wood M., Lastik D., Vennard C., **Doherty J-F.**, Dowle E., **Matthews B.J.**, Foster L.J., Reynolds S.E., Hunt V.L. *PloS one* (2025)
+Coates L.M., Reynolds K., Carey-Wood M., Lastik D., Vennard C., *Doherty J-F.*, Dowle E., **Matthews B.J.**, Foster L.J., Reynolds S.E., Hunt V.L. *PloS one* (2025)
 
 - [Cross-modal sensory compensation increases mosquito attraction to humans](https://www.science.org/doi/10.1126/sciadv.adn5758)<br/>
 Morita T., Lyn N.G., von Heynitz R.K., Goldman O.V., Sorrells T.R., DeGennaro M., **Matthews B.J.**, Houri-Zeevi L., Vosshall L.B. *bioRxiv* (2023) and *Science Advances* (2025)
@@ -42,7 +44,7 @@ Herre M., Goldman O.V., Lu T-C., Caballero-Vidal G., Qi Y., Gilbert Z.N., Gong Z
 - [Modeling the Putative Ancient Distribution of _Aedes togoi_ (Diptera: Culicidae)](https://doi.org/10.1093/jisesa/ieaa035)
 [PDF](/assets/pdf/PeachMatthews2020.pdf)
 [Raw data](https://doi.org/10.5683/SP2/YPVTYT)
-<br/> **Peach D.A.H.** and **Matthews B.J.** *bioRxiv* (2020) and *Journal of Insect Science* (2020)
+<br/> *Peach D.A.H.* and **Matthews B.J.** *bioRxiv* (2020) and *Journal of Insect Science* (2020)
 
 - [The ion channel *ppk301* controls freshwater egg-laying in the mosquito *Aedes aegypti*.](https://elifesciences.org/articles/43963)
 [PDF](https://elifesciences.org/download/aHR0cHM6Ly9jZG4uZWxpZmVzY2llbmNlcy5vcmcvYXJ0aWNsZXMvNDM5NjMvZWxpZmUtNDM5NjMtdjIucGRm/elife-43963-v2.pdf?_hash=XK2%2FVSdDJiFxbJfsJtbhvwkD3FY%2F77uEpTOPCqaWM%2FY%3D)
