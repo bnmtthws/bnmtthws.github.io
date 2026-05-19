@@ -7,5 +7,5 @@ categories: lab news
 
 Congratulations to successful Genome Sciences and Technology M.Sc. graduate Jonathan Chiang, who defended his thesis today. Well done, Jonathan!
 
-![Jonathan holding a bottle of beverage following his successful defence](assets/images/jonathan_defence.jpeg)
+![Jonathan holding a bottle of beverage following his successful defence](/assets/images/jonathan_defence.jpeg)
 
