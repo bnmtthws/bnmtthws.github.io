@@ -69,13 +69,6 @@ feature_row2:
      url: "/people/#leisl"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-   - image_path: /assets/images/hiking-headshot_720.png
-     alt: "Jonathan Chiang"
-     title: "Jonathan Chiang"
-     excerpt: "M.Sc. student, Genome Sciences and Technology (GSAT)"
-     url: "/people/#jonathan"
-     btn_label: "Read More"
-     btn_class: "btn--inverse"
    - image_path: /assets/images/larvae-sq.png
      alt: "Sarah Garcia"
      title: "Sarah Garcia"
@@ -88,6 +81,13 @@ feature_row2:
      title: "Auguste de Pennart"
      excerpt: "Ph.D. student, Zoology"
      url: "/people/#auguste"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"
+   - image_path: /assets/images/larvae-sq.png
+     alt: "Julia Price"
+     title: "Julia Price"
+     excerpt: "M.Sc. student, Genome Sciences and Technology"
+     url: "/people/#julia"
      btn_label: "Read More"
      btn_class: "btn--inverse"
    - image_path: /assets/images/larvae-sq.png
@@ -171,11 +171,6 @@ Josh received his B.Sc. in Biology from the University of British Columbia in 20
 
 Leisl received her B.Sc. in Zoology at University College London (UCL) in the UK where she completed a research project looking at the evolution of biomineralization in molluscs. Leisl now continues her work in invertebrate zoology, looking at the genomic and molecular mechanisms behind sensory behaviour in the <i>Aedes aegypti</i> mosquito. Leisl is a recipient of a UBC 4YF to support her studies. <br/> <br/>
 
-{: #jonathan } 
-### Jonathan Chiang, M.Sc. Student, Genome Sciences and Technology (2023-present)
-
-Jonathan was a Biology Co-op Undergraduate Research Assistant in 2021. After graduating from UBC in 2022 with a degree in Biology and a Masters of Management from the Sauder School of Business, he returned to the lab as a M.Sc. student where he is working on genome assembly and annotation. <br/> <br/>
-
 {: #sarah } 
 ### Sarah Garcia, M.Sc. Student, Zoology (2025-present);
 
@@ -185,6 +180,9 @@ Sarah joined the lab in September 2025 to work on mosquito ecology and biology. 
 ### Auguste de Pennart, Ph.D. Student, Zoology (2024-present);
 
 Auguste joined the lab in September 2024 to work on mechanosensation in mosquito behaviour. He is a recipient of a UBC 4YF to support his studies. <br/> <br/>
+
+{: #julia } 
+### Julia Price, M.Sc. Student, Genome Sciences and Technology (2026-present);
 
 {: #eric} 
 ### Eric Reich, M.Sc. Student, Zoology (2024-present);
@@ -222,6 +220,7 @@ Dan joins the FSIAP insectary facility after finishing his Ph.D. with Phil Matth
 
 ## Alumni, graduate students and postdocs
 -   Tahnee Ames (Zoology M.Sc. student co-supervised with Phil Matthews, 2021-2024)
+-   Jonathan Chiang (Genome Sciences and Technology M.Sc. student, 2023-2026)
 -   Elsa Cyr (Zoology M.Sc. student co-supervised with Mike Gordon, 2021-2024)
 -   Ivan Lo (Zoology M.Sc. student, 2021-2024) -- now Research Technician at Abcellera, Vancouver
 -   Yunusa Mohammed (PDF, 2021-2025) -- now Lecturer, Gombe State University, Nigeria
