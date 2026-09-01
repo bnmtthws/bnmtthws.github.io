@@ -134,9 +134,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/BenMatthewsUBC"
+    - label: "Bluesky"
+      icon: "fa-brands fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/benmatthewslab.bsky.social"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:ben.matthews@zoology.ubc.ca
