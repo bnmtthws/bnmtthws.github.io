@@ -10,13 +10,6 @@ feature_row1:
      url: "/people/#ben"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-   - image_path: /assets/images/jeff.jpg
-     alt: "Jean-François (Jeff) Doherty, PhD"
-     title: "Jean-François (Jeff) Doherty, PhD"
-     excerpt: "Postdoctoral Fellow (co-supervised, Leonard Foster)"
-     url: "/people/#jeff"
-     btn_label: "Read More"
-     btn_class: "btn--inverse"   
    - image_path: /assets/images/ian.JPG
      alt: "Ian Bouyoucos, PhD"
      title: "Ian Bouyoucos, PhD"
@@ -45,13 +38,6 @@ feature_row1:
      url: "/people/#alex"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-   - image_path: /assets/images/larvae-sq.png
-     alt: "Daniel Lee, PhD"
-     title: "Daniel Lee, PhD"
-     excerpt: "FSIAP Facility Manager"
-     url: "/people/#danlee"
-     btn_label: "Read More"
-     btn_class: "btn--inverse"
 
      
 feature_row2:
@@ -60,6 +46,13 @@ feature_row2:
      title: "Josh Abel-Nwachukwu"
      excerpt: "M.Sc. student, Zoology"
      url: "/people/#josh"
+     btn_label: "Read More"
+     btn_class: "btn--inverse"
+   - image_path: /assets/images/larvae-sq.png
+     alt: "Marlee Bickerdike"
+     title: "Marlee Bickerdike"
+     excerpt: "M.Sc. student, Zoology"
+     url: "/people/#marlee"
      btn_label: "Read More"
      btn_class: "btn--inverse"
    - image_path: /assets/images/leislbrewster-sq.jpg
@@ -132,16 +125,6 @@ At UBC, Ben is an Assistant Professor in the Comparative Physiology Group of the
 
 ## Postdoctoral researchers and graduate students
 
-{: #jeff }
-
-### Jean-François (Jeff) Doherty, PhD
-
-### Postdoctoral Fellow (2022-present)
-
-Jeff received his PhD from the University of Otago, where he studied the ecology and evolution of host-parasite interactions. He is a joint-appointed postdoctoral fellow with [Leonard Foster's lab](https://fosterlab.msl.ubc.ca/) and will be working on how parasites can manipulate the behaviour of their host(s) using transcriptomic, proteomic, and quantitative behavioural techniques.
-
-[Website](https://www.jeff-doherty.com/) [Email](mailto:jeff.doherty@msl.ubc.ca) <br/><br/>
-
 {: #ian }
 
 ### Ian Bouyoucos, PhD
@@ -165,6 +148,11 @@ Elva joined us in the fall of 2025 after completing her Ph.D. at McGill Universi
 ### Josh Abel-Nwachukwu, M.Sc. student, Zoology (2025-present)
 
 Josh received his B.Sc. in Biology from the University of British Columbia in 2024, and joined the lab as an NSERC-funded summer Undergraduate Researcher, briefly working as a Laboratory Assistant before joining as an M.Sc. student in January of 2025. Josh is working on feeding behaviour in *Aedes aegypti* mosquitoes and is a recipient of an NSERC CGS-M. <br/> <br/>
+
+{: #marlee } 
+### Marlee Bickerdike, M.Sc. student, Zoology (2026-present)
+
+Marlee received her B.Sc. from McGill University, where she did an honours thesis with Sarah Woolley tracking birds in flight.
 
 {: #leisl } 
 ### Leisl Brewster, Ph.D. Candidate, Zoology (2020-present)
@@ -214,6 +202,7 @@ Dan joins the FSIAP insectary facility after finishing his Ph.D. with Phil Matth
 
 
 ## Alumni, technical staff
+-   Daniel Lee (Research Technician and Insectary Manager, 2024-2026)
 -   Nicholoas Tochhor (Research Assistant and Laboratory Manager, 2020-2025)
 -   Bridget White (Insectary Manager 2023-2025)
 -   Bhaskar Yechuri (Electronics Technician, 2020-2021)
@@ -222,6 +211,7 @@ Dan joins the FSIAP insectary facility after finishing his Ph.D. with Phil Matth
 -   Tahnee Ames (Zoology M.Sc. student co-supervised with Phil Matthews, 2021-2024)
 -   Jonathan Chiang (Genome Sciences and Technology M.Sc. student, 2023-2026)
 -   Elsa Cyr (Zoology M.Sc. student co-supervised with Mike Gordon, 2021-2024)
+-   Jean-François (Jeff) Doherty (Postdoctoral Fellow, co-supervised with Leonard Foster, 2022-2026)
 -   Ivan Lo (Zoology M.Sc. student, 2021-2024) -- now Research Technician at Abcellera, Vancouver
 -   Yunusa Mohammed (PDF, 2021-2025) -- now Lecturer, Gombe State University, Nigeria
 -   Dan Peach (Postdoctoral Fellow, 2019-2022) -- now Assistant Professor at University of Georgia
