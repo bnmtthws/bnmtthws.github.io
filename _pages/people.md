@@ -110,6 +110,17 @@ At UBC, Ben is an Assistant Professor in the Comparative Physiology Group of the
 
 [CV](/assets/pdf/BenMatthews_CV_20211006.pdf) [Email](mailto:ben.matthews@zoology.ubc.ca)
 
+## Current undergraduates
+
+- Kevin Lu (Neuroscience Directed Studies Student, 2026)
+- Lucas Nogiera (Biology Directed Studies Student, 2026)
+- Agam Sadiora (Biology Directed Studies Student, 2026)
+- Yun Son (Neuroscience Directed Studies Student, 2026)
+- Lauren Tam (Biology Directed Studies Student, 2026)
+- Ali Tarik (Integrated Sciences Honours Student, 2026-2027)
+- Arissa Tejani (Integrated Sciences Honours Student, 2026-2027)
+- Thomas Zhang (CAPS Directed Studies Student, 2026)
+
 ## Postdoctoral researchers and graduate students
 
 {: #ian }
@@ -181,11 +192,6 @@ Ainsley received her B.A. in Ecology and Evolutionary Biology at the University 
 ### Oleksandr Hulai, Research Associate (2024-present)
 
 Oleksandr holds a Master’s degree in Veterinary Medicine (1997). He received his doctorate in ecology in 2005 for his research on the spirochete Leptospira interrogans, a pathogen for humans and animals, and their ecological relationships in freshwater. His postdoctoral research included the study of the ecology of the pathogenic bacterium *Erysipelothrix rhusiopathiae*. For the last year and a half, Oleksandr worked as a visiting researcher in the laboratory of Professor Flaminia Catteruccia at the Harvard T.H. Chan School of Public Health (USA). There he participated in the study of the interaction between *Anopheles gambiae* and the malaria pathogen Plasmodium. At UBC, Oleksandr will be working on generating genetic tools to investigate the links between olfaction and immunity in *Aedes aegypti* mosquitoes. <br/> <br/>
-
-{: #danlee } 
-### Daniel Lee, FSIAP Manager (2024-present)
-
-Dan joins the FSIAP insectary facility after finishing his Ph.D. with Phil Matthews in 2024. <br/> <br/>
 
 
 ## Alumni, technical staff
