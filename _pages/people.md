@@ -100,16 +100,6 @@ feature_row2:
 
 {% include feature_row id = "feature_row1" %} {% include feature_row id = "feature_row2" %} {% include feature_row id = "feature_row3" %}
 
-{: #ben } 
-## Benjamin Matthews, PhD 
-### Lab Head and Assistant Professor
-
-Ben received a BS in Biology from the California Institute of Technology in 2004 and completed his graduate research at Columbia University in the Laboratory of [Wes Grueber](https://grueberlab.neuroscience.columbia.edu) where he worked on the phenomenon of 'self-avoidance' during the development of sensory neuron dendritic arbors in *Drosophila melanogaster*. He then completed his postdoctoral training with [Leslie Vosshall](https://www.rockefeller.edu/research/2355-vosshall-laboratory/) at Rockefeller University/HHMI, where he focused on genetics, genomics, and behavior in the mosquito *Aedes aegypti*, a deadly vector of arbivoral pathogens that cause Zika, Dengue fever, Yellow fever, and Chikungunya. He received postdoctoral fellowships from the Jane Coffin Childs Memorial Fund for Medical Research and The Rockefeller University, as well as a predoctoral NRSA F31 from the NIH.<br/>
-
-At UBC, Ben is an Assistant Professor in the Comparative Physiology Group of the [Department of Zoology](https://www.zoology.ubc.ca). He is also a member of the [Djavad Mowafaghian Centre for Brain Health](https://www.centreforbrainhealth.ca), the [Biodiversity Research Centre](https://biodiversity.ubc.ca/) and the [Genome Science and Technology](https://www.gsat.ubc.ca) training program. He has received a Sloan Foundation Fellowship in the Neurosciences and a Scholar Award from the Michael Smith Foundation for Health Research. <br/><br/>
-
-[CV](/assets/pdf/BenMatthews_CV_20211006.pdf) [Email](mailto:ben.matthews@zoology.ubc.ca)
-
 ## Current undergraduates
 
 - Kevin Lu (Neuroscience Directed Studies Student, 2026)
@@ -120,6 +110,17 @@ At UBC, Ben is an Assistant Professor in the Comparative Physiology Group of the
 - Ali Tarik (Integrated Sciences Honours Student, 2026-2027)
 - Arissa Tejani (Integrated Sciences Honours Student, 2026-2027)
 - Thomas Zhang (CAPS Directed Studies Student, 2026)
+
+
+{: #ben } 
+## Benjamin Matthews, PhD 
+### Lab Head and Assistant Professor
+
+Ben received a BS in Biology from the California Institute of Technology in 2004 and completed his graduate research at Columbia University in the Laboratory of [Wes Grueber](https://grueberlab.neuroscience.columbia.edu) where he worked on the phenomenon of 'self-avoidance' during the development of sensory neuron dendritic arbors in *Drosophila melanogaster*. He then completed his postdoctoral training with [Leslie Vosshall](https://www.rockefeller.edu/research/2355-vosshall-laboratory/) at Rockefeller University/HHMI, where he focused on genetics, genomics, and behavior in the mosquito *Aedes aegypti*, a deadly vector of arbivoral pathogens that cause Zika, Dengue fever, Yellow fever, and Chikungunya. He received postdoctoral fellowships from the Jane Coffin Childs Memorial Fund for Medical Research and The Rockefeller University, as well as a predoctoral NRSA F31 from the NIH.<br/>
+
+At UBC, Ben is an Assistant Professor in the Comparative Physiology Group of the [Department of Zoology](https://www.zoology.ubc.ca). He is also a member of the [Djavad Mowafaghian Centre for Brain Health](https://www.centreforbrainhealth.ca), the [Biodiversity Research Centre](https://biodiversity.ubc.ca/) and the [Genome Science and Technology](https://www.gsat.ubc.ca) training program. He has received a Sloan Foundation Fellowship in the Neurosciences and a Scholar Award from the Michael Smith Foundation for Health Research. <br/><br/>
+
+[CV](/assets/pdf/BenMatthews_CV_20211006.pdf) [Email](mailto:ben.matthews@zoology.ubc.ca)
 
 ## Postdoctoral researchers and graduate students
 
