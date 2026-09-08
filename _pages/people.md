@@ -38,8 +38,6 @@ feature_row1:
      url: "/people/#alex"
      btn_label: "Read More"
      btn_class: "btn--inverse"
-
-     
 feature_row2:
    - image_path: /assets/images/josh-sq.jpg
      alt: "Josh Abel-Nwachukwu"
@@ -99,17 +97,6 @@ feature_row2:
      btn_class: "btn--inverse"        
 
 ---
-
-
-## Current undergraduate researchers
--   Roxana Kazemi Arbat (Directed studies student 2025)
--   Simran Behniwal (Directed studies student 2025-2026)
--   Chloe Chen (Directed studies student 2025-2026)
--   Wenjie Li (Directed studies student 2026)
--   Jacob McPherson (Directed studies student 2025-2026)
--   Vismaya Prasad (Directed studies student 2026; co-supervised with Colin Brauner)
-<br/>
-
 
 {% include feature_row id = "feature_row1" %} {% include feature_row id = "feature_row2" %} {% include feature_row id = "feature_row3" %}
 
@@ -221,8 +208,11 @@ Dan joins the FSIAP insectary facility after finishing his Ph.D. with Phil Matth
 ## Alumni, undergraduates and affiliates
 -   Layla Ali (Biology Directed Studies, 2023)
 -   Aleksandra Anoshina (NSERC USRA and Biology Honours, 2020-2021)
+-   Roxana Kazemi Arbat (Directed studies student 2025)
+-   Simran Behniwal (Directed studies student 2025-2026)
 -   Lexi Berger (EnSURE Awardee, 2025)
 -   Finn Carlson (SURE Awardee 2024 and 2025)
+-   Chloe Chen (Directed studies student 2025-2026)
 -   Joshua Chen (NSERC USRA and Biology Honours, 2021-2022)
 -   Nicole Cheng (Undergraduate Directed Studies, 2020)
 -   Weison Chu (Biology Directed Studies, 2019-2020)
@@ -235,16 +225,20 @@ Dan joins the FSIAP insectary facility after finishing his Ph.D. with Phil Matth
 -   Quinn Kelley (Biology Directed Studies, 2021)
 -   Cam Kelsey (Psychology Honours, 2022-2023) -- current PhD student (Fall 2023), University of Arizona
 -   Phillip Lee (Biology Honours, 2022-2023) -- current M.Sc. student (Fall 2023), Altshuler Lab, University of British Columbia
+-   Wenjie Li (Directed studies student and WLIURA 2026)
 -   Bing Liu (Biology Directed Studies, 2022-2023) -- current M.Sc. student (Fall 2023), Richards Lab, University of British Columbia
 -   Kai Mah-Morhaliek (Biology Directed Studies, 2024)
 -   Mahad Maqsood (Biology Directed Studies, 2025)
 -   Rinky Manivannan (Biodiversity Research Center Fellowship Awardee and Undergraduate Researcher, 2023)
 -   Cassidy Mark (Biology Co-op Undergraduate Research Assistant, 2022)
+-   Jacob McPherson (Directed studies student 2025-2026)
 -   Andrew Moon (Biology Directed Studies, 2025)
+-   Syd Neufeld (Biology Directed Studies, 2026; co-supervised with Colin Brauner)
 -   Andrew Oh (Biology Directed Studies, 2021-2022)
 -   Ana Parra (Biology Honours, 2020-2021)
 -   Smit Patel (Biology Directed Studies, 2021-2022)
 -   Kevin Poon (Biology Directed Studies, 2019-2020)
+-   Vismaya Prasad (Directed studies student 2026; co-supervised with Colin Brauner)
 -   Kunwar Puri (Biology Directed Studies student, 2019-2021)
 -   Alyxzelle Relao (Biology Directed Studies, 2024-2025)
 -   Atbeen Rezazadah (Biology Directed Studies, 2019-2021)
