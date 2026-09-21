@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "Texture paper published"
-date:   2026-09-21 21:00:00 -0800
+date:   2026-09-21 06:00:00 -0800
 categories: lab news
 ---
 
