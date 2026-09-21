@@ -103,7 +103,7 @@ feature_row2:
 ## Current undergraduates
 
 - Kevin Lu (Neuroscience Directed Studies Student, 2026)
-- Lucas Nogiera (Biology Directed Studies Student, 2026)
+- Lucas Nogueira (Biology Directed Studies Student, 2026)
 - Agam Sadiora (Biology Directed Studies Student, 2026)
 - Yun Son (Neuroscience Directed Studies Student, 2026)
 - Lauren Tam (Biology Directed Studies Student, 2026)
