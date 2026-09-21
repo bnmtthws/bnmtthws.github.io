@@ -17,8 +17,8 @@ Lab trainees in *italics*
 - [Living by the sea: chromosome-scale genome assembly and salt gland transcriptomes provide insights into ion regulatory mechanisms in the saline-tolerant mosquito Aedes togoi](https://doi.org/10.64898/2026.04.09.717544)<br/>
 *Chiang J.*, Khodikian E., *Phelan O.*, *Parra A.K.*, *Peach D.A.H.*, Durant A.C., and **Matthews B.J.** *bioRxiv* (2026) and *iScience* (revision submitted)
 
-- [Surface texture guides egg-laying decisions in Aedes aegypti mosquitoes](https://doi.org/10.64898/2026.03.08.710377)<br/>
-*Anoshina A., Tochor N.K., Semkow L., Zeng A.*, and **Matthews B.J.** *bioRxiv* (2026) and *Journal of Experimental Biology* (accepted)
+- [Surface texture guides egg-laying decisions in *Aedes aegypti* mosquitoes](https://doi.org/10.1242/jeb.252599)<br/>
+*Anoshina A., Tochor N.K., Semkow L., Zeng A.*, and **Matthews B.J.** *bioRxiv* (2026) and *Journal of Experimental Biology* (2026)
 
 - [Shell-shocked: parasite-induced behaviour and development in an invasive dead-end snail host](https://doi.org/10.1242/jeb.251496)<br/>
 *Doherty J-F., Rossouw B.*, Foster L.J., and **Matthews B.J.** *Journal of Experimental Biology* (2026)
