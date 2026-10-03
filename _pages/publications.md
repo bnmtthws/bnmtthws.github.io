@@ -15,7 +15,7 @@ Lab trainees in *italics*
 *Brewster L.I.*, *Abel-Nwachukwu J.U.*, *Wu P-H.*, *Hulai O.*, *Tochor N.K.*, *Relao A.J.*, *Mark C.S.*, Pandey A., Sorrells T.R., and **Matthews B.J.** *bioRxiv* (2026)
 
 - [Living by the sea: chromosome-scale genome assembly and salt gland transcriptomes provide insights into ion regulatory mechanisms in the saline-tolerant mosquito Aedes togoi](https://doi.org/10.64898/2026.04.09.717544)<br/>
-*Chiang J.*, Khodikian E., *Phelan O.*, *Parra A.K.*, *Peach D.A.H.*, Durant A.C., and **Matthews B.J.** *bioRxiv* (2026) and *iScience* (revision submitted)
+*Chiang J.*, Khodikian E., *Phelan O.*, *Parra A.K.*, *Peach D.A.H.*, Durant A.C., and **Matthews B.J.** *bioRxiv* (2026) and *iScience* (Accepted, Oct 1 2026)
 
 - [Surface texture guides egg-laying decisions in *Aedes aegypti* mosquitoes](https://doi.org/10.1242/jeb.252599)<br/>
 *Anoshina A., Tochor N.K., Semkow L., Zeng A.*, and **Matthews B.J.** *bioRxiv* (2026) and *Journal of Experimental Biology* (2026)
@@ -106,6 +106,7 @@ Details on publications can also be found at [Google Scholar](https://scholar.go
 
 {: #press }
 ### Press
+- [The rougher the surface, the better for egg-laying mosquitoes](https://doi.org/10.1242/jeb.253366)
 - [What is the WORST danger to humankind? (It’s not what you think)](https://www.youtube.com/watch?v=yjv-GcOWNmI) The CRAM Podcast ~ Extraordinary Ideas Unleashed, July 2025
 - [We can genetically modify pests. But should we?](https://thebigstorypodcast.ca/2023/11/27/we-can-genetically-modify-pests-but-should-we/)<br/> The Big Story Podcast, November 2023.
 - [Canadian Council of Aacademies: Report on Regulating Gene-Edited Organisms for Pest Control ](https://rapports-cac.ca/reports/gene-edited-organisms-for-pest-control/) <br/> Canadian Council of Academies, November 2023.
