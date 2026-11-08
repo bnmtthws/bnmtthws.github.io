@@ -14,8 +14,8 @@ Lab trainees in *italics*
 - [A Molecular and Cellular Mechanism for Bitter Taste in the mosquito *Aedes aegypti*](https://doi.org/10.64898/2026.06.28.734668)<br/>
 *Brewster L.I.*, *Abel-Nwachukwu J.U.*, *Wu P-H.*, *Hulai O.*, *Tochor N.K.*, *Relao A.J.*, *Mark C.S.*, Pandey A., Sorrells T.R., and **Matthews B.J.** *bioRxiv* (2026)
 
-- [Living by the sea: chromosome-scale genome assembly and salt gland transcriptomes provide insights into ion regulatory mechanisms in the saline-tolerant mosquito Aedes togoi](https://doi.org/10.64898/2026.04.09.717544)<br/>
-*Chiang J.*, Khodikian E., *Phelan O.*, *Parra A.K.*, *Peach D.A.H.*, Durant A.C., and **Matthews B.J.** *bioRxiv* (2026) and *iScience* (Accepted, Oct 1 2026)
+- [Ion regulatory mechanisms supporting hypersaline tolerance in the coastal rock pool mosquito *Aedes togoi*](https://doi.org/10.1016/j.isci.2026.118153)<br/>
+*Chiang J.*, Khodikian E., *Phelan O.*, *Parra A.K.*, *Peach D.A.H.*, Durant A.C., and **Matthews B.J.** *bioRxiv* (2026) and *iScience* (2026)
 
 - [Surface texture guides egg-laying decisions in *Aedes aegypti* mosquitoes](https://doi.org/10.1242/jeb.252599)<br/>
 *Anoshina A., Tochor N.K., Semkow L., Zeng A.*, and **Matthews B.J.** *bioRxiv* (2026) and *Journal of Experimental Biology* (2026)
